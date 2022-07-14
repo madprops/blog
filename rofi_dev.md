@@ -58,7 +58,7 @@ But rofi can be used to make programs or as a component of programs
 
 ## Using Information
 
-Rofi presents information as columns of text.
+Rofi presents information as rows of text.
 
 Filtering is built-in and usable in different modes.
 
