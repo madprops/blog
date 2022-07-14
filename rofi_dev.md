@@ -118,3 +118,15 @@ But the third one has 2 possible results, so rofi asks for clarification:
 ![](https://i.imgur.com/hIIzaIW.gif)
 
 [Ezkl Repo](https://github.com/madprops/ezkl)
+
+## OpenFile
+
+I'm also working on a rofi-based tool to navigate the file system.
+
+It shows [+] for directories. It can go back. It can create new files.
+
+It's also compatible with ezkl for directory jumping.
+
+![](https://i.imgur.com/kK2dWjM.gif)
+
+[OpenFile Repo](https://github.com/madprops/openfile)
