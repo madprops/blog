@@ -13,9 +13,17 @@ It allows me to do several things:
 Here's how launching applications can look like:
 ![](https://i.imgur.com/9rcbhil.jpg)
 
-Filtering is built-in and usable in different modes.
+To run that I use the following command:
+
+`rofi -modi drun -show drun -show-icons -width 22 -no-click-to-exit`
 
 ## Using Information
+
+Rofi presents information as columns of text.
+
+Filtering is built-in and usable in different modes.
+
+Items can be selected with Enter.
 
 To generate the items you pass linebreak-separated lines:
 
