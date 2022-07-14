@@ -98,6 +98,22 @@ def get_input(prompt: str) -> str:
   return proc.communicate()[0].strip()
 ```  
 
+## Styling
+
+Rofi can be themed:
+
+![](https://i.imgur.com/VyhgSA5.gif)
+
+It can also be customized per instance using css-like rules:
+
+`-theme-str "window {height: 200px;}"`
+
+---
+
+Here are some things I made that use rofi
+
+---
+
 ## Clipton
 
 I made a clipboard manager using python and rofi.
@@ -155,13 +171,3 @@ Upon exit it returns a path, which you can use to open in programs.
 ![](https://i.imgur.com/kK2dWjM.gif)
 
 [OpenFile Repo](https://github.com/madprops/openfile)
-
-## Styling
-
-Rofi can be themed:
-
-![](https://i.imgur.com/VyhgSA5.gif)
-
-It can also be customized per instance using css-like rules:
-
-`-theme-str "window {height: 200px;}"`
