@@ -148,6 +148,6 @@ Rofi can be themed:
 
 ![](https://i.imgur.com/VyhgSA5.gif)
 
-It can also be customized per instance using css-like rules.
+It can also be customized per instance using css-like rules:
 
 `-theme-str "window {height: 200px;}"`
