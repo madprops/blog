@@ -96,3 +96,13 @@ And fetching URL titles automatically as seen in the screenshot.
 ![](https://i.imgur.com/20ef1JU.jpg)
 
 [Clipton Repo](https://github.com/madprops/clipton)
+
+## Empris
+
+playerctl manager using python and rofi
+
+Able to show, play, stop, media players:
+
+![](https://i.imgur.com/nCKRdWe.jpg)
+
+[Empris Repo](https://github.com/madprops/empris)
