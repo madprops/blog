@@ -5,7 +5,7 @@
 It allows me to do several things:
 
 - Launch applications
-- Switch to open windows
+- Change to windows (Alt+Tab)
 - Show information
 - Filter information
 - Ask for information
