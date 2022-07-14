@@ -13,11 +13,7 @@ It allows me to do several things:
 Here's how launching applications can look like:
 ![](https://i.imgur.com/9rcbhil.jpg)
 
-Filtering is built-in into rofi.
-
-Inputting text searches for the item you're looking for, in any mode.
-
-This means we can select items easily.
+Filtering is built-in and usable in different modes.
 
 ## Getting Information
 
