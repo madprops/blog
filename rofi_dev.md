@@ -64,16 +64,14 @@ Filtering is built-in and usable in different modes.
 
 Items can be selected with Enter.
 
-To generate the items you pass linebreak-separated lines:
+To generate the items you pass linebreak-separated lines (python):
 
 ```python
 proc = Popen(f"rofi -dmenu -i -p '{prompt}'", stdout=PIPE, stdin=PIPE, shell=True, text=True)
 ans = proc.communicate("\n".join(items))[0].strip()
 ```
 
-That's how you can use python to interface with rofi.
-
-You can then check `proc.returncode` and `ans` to do something.
+You can then check `proc.returncode` and `ans` to do something after rofi exits.
 
 ## Getting Information
 
