@@ -35,7 +35,7 @@ Rofi is useful when you need to prompt for arguments.
 
 Here I have a program that searches for images.
 
-If you run the program with arguments, it can use rofi to get the input:
+If you run the program without arguments, it can use rofi to get the input:
 
 ![](https://i.imgur.com/GKNQah3.gif)
 
