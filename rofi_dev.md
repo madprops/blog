@@ -144,7 +144,9 @@ Upon exit it returns a path, which you can use to open in programs.
 
 ## Styling
 
-Rofi can be themed.
+Rofi can be themed:
+
+![](https://i.imgur.com/VyhgSA5.gif)
 
 It can also be customized per instance using css-like rules.
 
