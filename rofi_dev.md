@@ -69,6 +69,12 @@ Type=Application
 
 Now it's visible to rofi in launch mode.
 
+I recommend using a prefix for your .desktop files.
+
+Something like `w_counter.desktop`
+
+So you know `w_` files are your custom ones.
+
 ## Clipton
 
 I made a clipboard manager using python and rofi.
