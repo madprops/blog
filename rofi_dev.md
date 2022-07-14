@@ -98,6 +98,8 @@ def get_input(prompt: str) -> str:
   return proc.communicate()[0].strip()
 ```  
 
+[Symview Repo](https://github.com/madprops/symview)
+
 ## Styling
 
 Rofi can be themed:
