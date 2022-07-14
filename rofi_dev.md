@@ -115,6 +115,6 @@ As you can see, the first two commands go straight to the directories.
 
 But the third one has 2 possible results, so rofi asks for clarification:
 
-![](https://i.imgur.com/74UPaW6.gif)
+![](https://i.imgur.com/hIIzaIW.gif)
 
 [Ezkl Repo](https://github.com/madprops/ezkl)
