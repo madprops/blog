@@ -15,6 +15,15 @@ Here's how launching applications can look like:
 
 Filtering is built-in and usable in different modes.
 
+## Using Information
+
+To generate the items you pass linebreak-separated lines:
+
+```python
+proc = Popen(f"rofi -dmenu -i -p '{path}'", stdout=PIPE, stdin=PIPE, shell=True, text=True)
+ans = proc.communicate("\n".join(items))[0].strip()
+```
+
 ## Getting Information
 
 Rofi can return information after it finishes running.
@@ -132,3 +141,11 @@ Upon exit it returns a path, which you can use to open in programs.
 ![](https://i.imgur.com/kK2dWjM.gif)
 
 [OpenFile Repo](https://github.com/madprops/openfile)
+
+## Styling
+
+Rofi can be themed.
+
+It can also be customized per instance using css-like rules.
+
+`-theme-str "window {height: 200px;}"`
