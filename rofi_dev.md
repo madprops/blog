@@ -29,26 +29,6 @@ It can return either of these:
 - The text of the item you picked
 - The text you wrote before pressing Enter
 
-## Clipton
-
-I made a clipboard manager using python and rofi.
-
-It saves clipboard data in a json file.
-
-Feeds the lines of text to rofi via a subprocess.
-
-Allows the user to select an item (filtering works).
-
-It receives the index and puts the item in the clipboard.
-
-It also supports some Alt+Number commands.
-
-I added some features like joining several items into a single line on demand.
-
-And fetching URL titles automatically as seen in the screenshot.
-
-![](https://i.imgur.com/20ef1JU.jpg)
-
 ## Asking For Information
 
 Rofi is useful when you need to prompt for arguments.
@@ -94,3 +74,23 @@ Type=Application
 ```
 
 Now it's visible to rofi in launch mode.
+
+## Clipton
+
+I made a clipboard manager using python and rofi.
+
+It saves clipboard data in a json file.
+
+Feeds the lines of text to rofi via a subprocess.
+
+Allows the user to select an item (filtering works).
+
+It receives the index and puts the item in the clipboard.
+
+It also supports some Alt+Number commands.
+
+I added some features like joining several items into a single line on demand.
+
+And fetching URL titles automatically as seen in the screenshot.
+
+![](https://i.imgur.com/20ef1JU.jpg)
