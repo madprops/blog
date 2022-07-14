@@ -127,6 +127,8 @@ It shows [+] for directories. It can go back. It can create new files.
 
 It's also compatible with ezkl for directory jumping.
 
+Upon exit it returns a path, which you can use to open in programs.
+
 ![](https://i.imgur.com/kK2dWjM.gif)
 
 [OpenFile Repo](https://github.com/madprops/openfile)
