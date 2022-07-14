@@ -25,9 +25,7 @@ It can return either of these:
 - The text of the item you picked
 - The text you wrote before pressing Enter
 
-## Asking For Information
-
-Rofi is useful when you need to prompt for arguments.
+This is useful when you need to prompt for arguments.
 
 Here I have a program that searches for images.
 
