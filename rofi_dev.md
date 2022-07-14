@@ -10,12 +10,51 @@ It allows me to do several things:
 - Filter information
 - Ask for information
 
+## Launcher
+
 Here's how launching applications can look like:
 ![](https://i.imgur.com/9rcbhil.jpg)
 
 To run that I use the following command:
 
-`rofi -modi drun -show drun -show-icons -width 22 -no-click-to-exit`
+`rofi -modi drun -show drun -show-icons -no-click-to-exit`
+
+Adding entries to the application launcher is easy.
+
+(This is true for any launcher in linux)
+
+All you do is go to ~/.local/share/applications
+
+And make a file called something.desktop
+
+Which can look like this:
+
+```
+[Desktop Entry]
+Version=1.0
+Name=counter
+Comment=Count Stuff
+GenericName=counter
+Exec=/home/user/scripts/counter.sh
+Icon=application-x-executable
+StartupNotify=true
+Terminal=false
+Type=Application
+```
+
+Now it's visible to rofi in launch mode.
+
+I recommend using a prefix for your .desktop files.
+
+Something like `w_counter.desktop`
+
+So you know `w_` files are your custom ones.
+
+---
+
+But rofi can be used to make programs or as a component of programs
+
+---
 
 ## Using Information
 
@@ -58,39 +97,6 @@ def get_input(prompt: str) -> str:
   proc = Popen(f"rofi -dmenu -p '{prompt}'", stdout=PIPE, stdin=PIPE, shell=True, text=True)
   return proc.communicate()[0].strip()
 ```  
-
-## Desktop Files
-
-Adding entries to the application launcher is easy.
-
-(This is true for any launcher in linux)
-
-All you do is go to ~/.local/share/applications
-
-And make a file called something.desktop
-
-Which can look like this:
-
-```
-[Desktop Entry]
-Version=1.0
-Name=counter
-Comment=Count Stuff
-GenericName=counter
-Exec=/home/user/scripts/counter.sh
-Icon=application-x-executable
-StartupNotify=true
-Terminal=false
-Type=Application
-```
-
-Now it's visible to rofi in launch mode.
-
-I recommend using a prefix for your .desktop files.
-
-Something like `w_counter.desktop`
-
-So you know `w_` files are your custom ones.
 
 ## Clipton
 
