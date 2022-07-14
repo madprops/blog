@@ -94,3 +94,5 @@ I added some features like joining several items into a single line on demand.
 And fetching URL titles automatically as seen in the screenshot.
 
 ![](https://i.imgur.com/20ef1JU.jpg)
+
+[Clipton Repo](https://github.com/madprops/clipton)
