@@ -106,3 +106,15 @@ Able to show, play, stop, media players:
 ![](https://i.imgur.com/nCKRdWe.jpg)
 
 [Empris Repo](https://github.com/madprops/empris)
+
+## Ezkl
+
+For a directory bookmark/jumper I made I use rofi when there's ambiguity.
+
+As you can see, the first two commands go straight to the directories.
+
+But the third one has 2 possible results, so rofi asks for clarification:
+
+![](https://i.imgur.com/74UPaW6.gif)
+
+[Ezkl Repo](https://github.com/madprops/ezkl)
