@@ -99,7 +99,9 @@ Some code of how I start the timers with my wm:
 
 ```lua
 function auto_suspend(minutes)
-  autotimer.start_timer("Suspend", minutes, function() suspend() end)
+  autotimer.start_timer("Suspend", minutes, function() 
+    suspend() 
+  end)
 end
 
 function timer(minutes)
