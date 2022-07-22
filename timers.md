@@ -14,7 +14,7 @@ So I built one baked into my wm:
 
 ![](https://i.imgur.com/hRmYjp3.jpg)
 
-This appears in the panel once I start a timer.
+This appears on the panel once I start a timer.
 
 It will update every second.
 
@@ -129,7 +129,7 @@ I made a script that makes it easy to detect if I want hours, minutes, or second
 
 So I can easily start a 20 minute timer, or a 5 second timer. 
 
-And I can do it directly from my launcher.
+And I can do it directly from my launcher:
 
 ![](https://i.imgur.com/wPtPpH3.jpg)
 
