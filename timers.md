@@ -97,7 +97,21 @@ These are the opposite. They start at 0 and go upwards.
 
 Some code of how I start the timers with my wm:
 
-![](https://i.imgur.com/I2lzmBK.jpg)
+```lua
+function auto_suspend(minutes)
+  autotimer.start_timer("Suspend", minutes, function() suspend() end)
+end
+
+function timer(minutes)
+  autotimer.start_timer("Timer", minutes, function() 
+    msg("Timer ended") 
+  end)
+end
+
+function counter()
+  autotimer.start_counter("Counter")
+end
+```
 
 ## Other Uses
 
