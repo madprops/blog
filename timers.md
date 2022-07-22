@@ -116,3 +116,7 @@ So I can easily start a 20 minute timer, or a 5 second timer.
 And I can do it directly from my launcher.
 
 ![](https://i.imgur.com/wPtPpH3.jpg)
+
+## Repo
+
+The code for autotimer is [here](https://github.com/madprops/awesome-setup/tree/master/madwidgets/autotimer).
