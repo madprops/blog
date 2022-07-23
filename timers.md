@@ -133,6 +133,18 @@ And I can do it directly from my launcher:
 
 ![](https://i.imgur.com/wPtPpH3.jpg)
 
+## Fixed Width
+
+Like I usually do with my widgets, I try to keep a non-dynamic width on them.
+
+1.5 hrs, 30 mins, 05 secs, they all occupy the same width.
+
+So when changing units there's no movement in the panel.
+
+I do this by using the same number of characters with a monospace font.
+
 ## Repo
 
 The code for autotimer is [here](https://github.com/madprops/awesome-setup/tree/master/madwidgets/autotimer).
+
+The python script is [here](https://gist.github.com/madprops/b3cfbdc67a78e8c334cc1ccc9fd44f52).
