@@ -63,7 +63,7 @@ It increases or decreases by 5 minutes.
 
 And it will round to the nearest 5 minute step.
 
-For instance 3 minutes -> 5 minutes -> 10 minutes -> 15 minutes.
+For instance: 3 minutes -> 5 minutes -> 10 minutes -> 15 minutes.
 
 It allows me to adjust how much I'm willing to wait for something.
 
@@ -90,6 +90,8 @@ As long as they have a different name:
 The timer widget/library also supports "counters".
 
 These are the opposite. They start at 0 and go upwards.
+
+They don't end or run a function, they just keep going until stopped.
 
 ![](https://i.imgur.com/pFOu0jF.jpg)
 
