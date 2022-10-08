@@ -18,7 +18,7 @@ For instance [this](https://blingcorp.github.io/bling/#/module/scratch)
 
 I decided to use none of those. First because my window manager setup has no 3rd party dependencies yet, and I wanted to keep it that way.
 
-Also because I had the idea that instead of having a quake terminal and a quake file manager, I could have a layout with both of them.
+Also because I had the idea that instead of having a dropdown terminal and a dropdown file manager, I could have a layout with both of them.
 
 So I created a layout with some window rules for the file manager, the terminal, and a calculator (SpeedCrunch) because why not.
 
