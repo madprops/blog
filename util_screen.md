@@ -56,9 +56,9 @@ function Utils.show_util_screen()
   for _, c in ipairs(client.get()) do
     if c.xutil then
       c:move_to_tag(t)
+      c.hidden = false
       c:raise()
       Rules.reset_rules(c)
-      c.hidden = false
     end
   end
   
