@@ -31,7 +31,7 @@ This turned out to be a great idea, it's incredibly useful. Why? Because if you 
 
 ## Gestures
 
-Gestures are a nice way to control more things by moving the mouse in certain shapes. I've used various tools to achieve this on linux. There's a program called EasyStroke that was dedicated on doing this but I think it was abandoned. KDE has its own gestures manager which works nicely. What I currently use is the Gesturefy extension for Firefox to Go-To-Top, Go-To-Bottom, Go-Back, Go-Forward, Refresh. This allows me to navigate the web faster.
+Gestures are a nice way to control more things by moving the mouse in certain shapes. I've used various tools to achieve this on linux. There's a program called EasyStroke that was dedicated to doing this but I think it was abandoned. KDE has its own gestures manager which works nicely. What I currently use is the Gesturefy extension for Firefox to Go-To-Top, Go-To-Bottom, Go-Back, Go-Forward, Refresh. This allows me to navigate the web faster.
 
 ## Util Screen
 
