@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/h6aEPZp.jpg)
 
-I use a Roccat Kova for various reasons:
+I use the Roccat Kova for various reasons:
 
 1) There's a program for linux to customize it.
 Although it won't work with the new Kova.
