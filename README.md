@@ -7,3 +7,5 @@
 2) [Timers](https://github.com/madprops/blog/blob/main/timers.md)
 
 3) [Util Screen](https://github.com/madprops/blog/blob/main/util_screen.md)
+
+4) [Mouse](https://github.com/madprops/blog/blob/main/mouse.md)
