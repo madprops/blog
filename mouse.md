@@ -27,7 +27,7 @@ The DPI button is mapped to a piece of code that detects the window under the cu
 The SideForwards button is dedicated to playing and stopping music. Sometimes I map it directly to playerctl play-pause, but lately it triggers some little rofi-based player manager I made.
 
 The SideBackwards button is simply mapped to the Esc key.
-This turned out to be a great idea, it's incredibly useful. Why? Because if you think about it, Esc is used everywhere, all the time throughout many types of applications. I can just keep my hand in the keyboard and dismiss stuff instead of reaching out to my keyboard.
+This turned out to be a great idea, it's incredibly useful. Why? Because if you think about it, Esc is used everywhere, all the time throughout many types of applications. I can just keep my hand on the mouse and dismiss stuff instead of reaching out to my keyboard.
 
 ## Gestures
 
