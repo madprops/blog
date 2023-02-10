@@ -60,6 +60,6 @@ For instance if I have the window in desktop 2 and I simply right click '4', the
 
 ## Menupanel
 
-I developed a menu system within my window manager which I use for several things, including a context menu when right-clicking the items.
+I developed a menu system within my window manager which I use for several things, including a context menu when right-clicking taskbar items.
 
 ![](https://i.imgur.com/1LBENZT.jpg)
