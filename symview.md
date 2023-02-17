@@ -1,6 +1,6 @@
 # Symview
 
-![](https://i.imgur.com/K7Lik8x.gif)
+![](https://i.imgur.com/o19JgRs.gif)
 
 This is how I often find images in my images collection.
 
