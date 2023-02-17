@@ -26,7 +26,11 @@ And I open this with Konqueror (my main file manager is Dolphin).
 
 ## How does it work?
 
-It's a python script.
+I use a python program I made called Symview.
+
+Symview can be told to find images, audio, video, or all.
+
+`python /path/to/symview.py images dinosaur`
 
 I use Rofi to get user input.
 
