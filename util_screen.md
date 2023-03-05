@@ -94,3 +94,7 @@ And when I don't need the util screen anymore I just hide it.
 ![](https://i.imgur.com/mbYwsps.jpg)
 
 Maybe I should think of a cooler name other than "util screen" though.
+
+Edit: Util screen state gets resetted on every spawn.
+
+This means I can maximize Dolphin, hide the util screen, and when I call it again Dolphin will be in its normal tiled position.
