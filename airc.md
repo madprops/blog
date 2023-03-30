@@ -14,6 +14,8 @@ I'm not going to go deep into how it's made, just how we use it.
 
 The model is `text-davinci-003`.
 
+airc is open source: https://github.com/madprops/airc
+
 ---
 
 So I set up the first bot, called Arc.
@@ -118,10 +120,6 @@ So I added a way to reference the previous message.
 ![](https://i.imgur.com/jarl405.jpg)
 
 Just use `^` at the start of the message.
-
----
-
-airc is open source: https://github.com/madprops/airc
 
 ---
 
