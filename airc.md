@@ -107,8 +107,21 @@ You can change those two permissions through commands.
 
 ---
 
-airc is open source: https://github.com/madprops/airc
+Every prompt is standalone, there is no context/history.
 
+This makes the bot cheaper to use. And maybe less confusing.
+
+But sometimes you want some context. 
+
+So I added a way to reference the previous message.
+
+![](https://i.imgur.com/jarl405.jpg)
+
+Just use `^` at the start of the message.
+
+---
+
+airc is open source: https://github.com/madprops/airc
 
 ---
 
