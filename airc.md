@@ -14,7 +14,7 @@ I'm not going to go deep into how it's made, just how we use it.
 
 The model is `text-davinci-003`.
 
-airc is software libre: https://github.com/madprops/airc
+airc es software libre: https://github.com/madprops/airc
 
 ---
 
