@@ -131,4 +131,4 @@ And we have Rupert to program it to act as anything!
 
 It's been actually really fun.
 
-![](https://i.imgur.com/4ez9TdD.jpg)
+![](https://i.imgur.com/gCTy8hF.jpg)
