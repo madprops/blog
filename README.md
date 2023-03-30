@@ -4,12 +4,12 @@
 
 1) [Rofi](https://github.com/madprops/blog/blob/main/rofi_dev.md)
 
-2) [Timers](https://github.com/madprops/blog/blob/main/timers.md)
+1) [Timers](https://github.com/madprops/blog/blob/main/timers.md)
 
-3) [UtilScreen](https://github.com/madprops/blog/blob/main/util_screen.md)
+1) [UtilScreen](https://github.com/madprops/blog/blob/main/util_screen.md)
 
-4) [Mouse](https://github.com/madprops/blog/blob/main/mouse.md)
+1) [Mouse](https://github.com/madprops/blog/blob/main/mouse.md)
 
-4) [Symview](https://github.com/madprops/blog/blob/main/symview.md)
+1) [Symview](https://github.com/madprops/blog/blob/main/symview.md)
 
-5) [airc](https://github.com/madprops/blog/blob/main/airc.md)
+1) [airc](https://github.com/madprops/blog/blob/main/airc.md)
