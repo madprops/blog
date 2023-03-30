@@ -11,3 +11,5 @@
 4) [Mouse](https://github.com/madprops/blog/blob/main/mouse.md)
 
 4) [Symview](https://github.com/madprops/blog/blob/main/symview.md)
+
+5) [airc](https://github.com/madprops/blog/blob/main/airc.md)
