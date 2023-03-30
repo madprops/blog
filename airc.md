@@ -6,9 +6,9 @@ I decided to make an irc bot that would make requests to the openai api.
 
 I thought it could become some sort of consultant people in my irc channel can ask questions to.
 
-So I signed up for an account and decided to make a simple bot in nodejs.
+I signed up for an account and decided to make a simple bot in nodejs.
 
-So after two weeks of development this is what I have to say.
+After two weeks of development this is what I have to say.
 
 I'm not going to go deep into how it's made, just how we use it.
 
