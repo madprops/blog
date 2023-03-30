@@ -99,7 +99,7 @@ It has `users` and `admins`.
 
 Admins can run all the commands.
 
-The purpsoe of `users` is if you want to whitelist access to the bot.
+The purpose of `users` is if you want to whitelist access to the bot.
 
 It defaults to allowing everyone to ask and modify the bot's personality.
 
