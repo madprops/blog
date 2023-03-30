@@ -4,7 +4,7 @@ Around 2 weeks ago I decided to finally give in to the novelty of chatGPT.
 
 I decided to make an irc bot that would make requests to the openai api.
 
-I thought it could become some sort of consultant people in my irc room can ask questions to.
+I thought it could become some sort of consultant people in my irc channel can ask questions to.
 
 So I signed up for an account and decided to make a simple bot in nodejs.
 
