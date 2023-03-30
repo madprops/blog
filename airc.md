@@ -54,7 +54,7 @@ That was prepended before every prompt.
 
 ---
 
-We found it out it was really easy to change the personality.
+We found it was really easy to change the personality.
 
 All it needs are simple instructions.
 
