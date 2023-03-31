@@ -16,6 +16,10 @@ The model is `text-davinci-003`.
 
 airc es software libre: https://github.com/madprops/airc
 
+(Info below is about the first version of airc)
+
+(Some things have changed)
+
 ---
 
 So I set up the first bot, called Arc.
