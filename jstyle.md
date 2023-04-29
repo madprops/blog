@@ -76,7 +76,7 @@ Just be careful when you try to use `this`.
 
 ## Semicolons
 
-Semicolons at the end of lines are never used. They are unecessary and make the code ugly.
+Semicolons at the end of lines are never used. They are unnecessary and make the code ugly.
 
 ## If Else | Try Catch | Then Catch
 
