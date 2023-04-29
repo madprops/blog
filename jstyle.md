@@ -224,6 +224,10 @@ App.machine_play = (args) => {
 }
 ```
 
+```js
+App.machine_play({name: `Pepe`, save: true})
+```
+
 If you want to use defaults you can use `def_args` like this:
 
 ```js
@@ -236,6 +240,10 @@ App.machine_play = (args) => {
   args = Object.assign(def_args, args)
 }
 ```
+
+This way, the args objects can have as many arguments as you want.
+
+While not complicating function calls too much.
 
 ## For Loops
 
@@ -273,4 +281,25 @@ do_that()
 do_this()
 
 let c = 3
+```
+
+## Object Spacing
+
+Space between `:` and the value:
+
+```js
+{a: 123, b: 456}
+```
+
+## Long Objects
+
+When objects get too long, use a multi-line format:
+
+```js
+let cat = {
+  name: `Chains`,
+  size: 123,
+  catnip: true,
+  // etc
+}
 ```
