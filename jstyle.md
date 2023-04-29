@@ -479,8 +479,6 @@ I create windows like this:
 let msgvars = {}
 
 msgvars.common = {
-  clear_editables: true,
-  class: `modal`,
   show_effect: `none`,
   close_effect: `none`,
   // Etc
