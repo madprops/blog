@@ -60,13 +60,15 @@ let place = `Cape ${thing}`
 
 This way you don't mix string formats and you always can insert variables easily.
 
-The only exception is when you need to fill some object with multi-word string:
+The only exception is when you need to fill some object with a multi-word string:
 
 ```js
 {
   "Some Thing": 123
 }
 ```
+
+Since backticks are not permitted there for some reason.
 
 ## Arrow Functions
 
