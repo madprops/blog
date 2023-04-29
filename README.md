@@ -14,4 +14,4 @@
 
 1) [airc](https://github.com/madprops/blog/blob/main/airc.md)
 
-1) [airc](https://github.com/madprops/blog/blob/main/jstyle.md)
+1) [JStyle](https://github.com/madprops/blog/blob/main/jstyle.md)
