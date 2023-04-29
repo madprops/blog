@@ -389,7 +389,7 @@ I usually add mouse events on specialized setup functions:
 ```js
 App.setup_buttons = () => {
   App.ev(App.el(`#button`), `click`, () => {
-    //
+    App.do_something()
   })
 
   // Etc
