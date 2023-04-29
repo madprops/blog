@@ -469,7 +469,7 @@ It handles modals, popups, and other form of windows.
 
 It helps me control the window state since it knows what is open or not.
 
-It allows me to close and open windows through its functions.
+It allows me to open and close windows through its functions.
 
 It handles multi-layered modals and stacked popups.
 
