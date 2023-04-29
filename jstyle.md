@@ -51,7 +51,7 @@ Now you always now if you're dealing with an import.
 
 ## Backticks
 
-All strings are backticks.
+All strings are made with backticks.
 
 ```js
 let name = `Elvis Presley`
@@ -59,6 +59,8 @@ let place = `Cape ${thing}`
 ```
 
 This way you don't mix string formats and you always can insert variables easily.
+
+This also allows free usage of single quotes and double quotes inside the string.
 
 The only exception is when you need to fill some object with a multi-word string:
 
