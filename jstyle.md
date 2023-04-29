@@ -453,7 +453,7 @@ I can use it like:
 
 ```js
 let html_string = App.template_whispers({
-  window_controls: `something`
+  window_controls: something
 })
 ```
 
