@@ -401,10 +401,8 @@ And use a single global keyboard function for all key detection:
 ```js
 App.setup_keyboard = () => {
   App.ev(document, `keydown`, (e) => {
-    App.check_focus()
-
     if (e.key === `Enter`) {
-      App.add_task()
+      App.do_something()
       e.preventDefault()
     }
 
