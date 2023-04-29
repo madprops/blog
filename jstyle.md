@@ -58,7 +58,15 @@ let name = `Elvis Presley`
 let place = `Cape ${thing}`
 ```
 
-No exception. This way you don't mix string formats and you always can insert variables easily.
+This way you don't mix string formats and you always can insert variables easily.
+
+The only exception is when you need to fill some object with multi-word string:
+
+```js
+{
+  "Some Thing": 123
+}
+```
 
 ## Arrow Functions
 
