@@ -415,7 +415,7 @@ App.setup_keyboard = () => {
 
 ## Frameworks
 
-I don't use any frontend framework.
+I don't use frontend frameworks.
 
 I assemble all connections manually.
 
