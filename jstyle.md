@@ -494,7 +494,7 @@ msgvars.titlebar = {
 
 App.msg_profilepic = Msg.factory(
   Object.assign({}, msgvars.common, msgvars.titlebar, {
-    id: `profilepic`
+    id: `profilepic`,
   })
 )
 
