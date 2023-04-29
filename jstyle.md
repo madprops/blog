@@ -197,3 +197,32 @@ App.greet = (a, b = `Tom`) => {
   //
 }
 ```
+
+## Many Arguments
+
+When functions use more than 3 arguments, an `args` object is preferred.
+
+```js
+App.machine_play = (args) => {
+  if (args.name === `Media Luna`) {
+    //
+  }
+
+  if (args.save) {
+    //
+  }
+}
+```
+
+If you want to use defaults you can use `def_args` like this:
+
+```js
+App.machine_play = (args) => {
+  let def_args = {
+    edited: false,
+    save: true
+  }
+
+  args = Object.assign(def_args, args)
+}
+```
