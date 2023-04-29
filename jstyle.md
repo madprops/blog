@@ -516,3 +516,5 @@ App.msg_profilepic.close()
 ## forEach
 
 Avoid `forEach`. Use `for of` as much as you can.
+
+The latter is more natural and allows normal usage of `continue`, `break`, and `return`.
