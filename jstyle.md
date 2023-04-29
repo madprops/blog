@@ -452,7 +452,7 @@ That creates a bunch of functions like `App.template_whispers`.
 I can use it like this:
 
 ```js
-App.template_whispers({
+let html = App.template_whispers({
   window_controls: App.template_window_controls({
     filter_mode: `auto`,
   })
