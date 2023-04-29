@@ -415,10 +415,102 @@ App.setup_keyboard = () => {
 
 ## Frameworks
 
-I don't use frontend frameworks.
+I don't use frontend frameworks like `react` or `vue`.
 
 I assemble all connections manually.
 
 So far it has worked for me, even on complex applications.
 
 I do use specialized helper libraries when needed.
+
+## Templates
+
+I use `ejs` templates heavily through `handlebars`.
+
+They're special files or snippets you can use to generate `html`.
+
+A template can look like this:
+
+```html
+<script id="template_whispers" type="text/x-handlebars-template" class="template">
+  {{{window_controls}}}
+  <div id="whispers_container" class="something"></div>
+</script>
+```
+
+I have a function that compiles all templates:
+
+```js
+// Create all the Handlebars templates
+App.setup_templates = () => {
+  App.els(`.template`).forEach(it => {
+    App[it.id] = Handlebars.compile(App.el(`#${it.id}`).innerHTML)
+  })
+}
+```
+
+That creates a bunch of template functions like `template_whispers`.
+
+I can use it like:
+
+```js
+let html_string = App.template_whispers({
+  window_controls: `something`
+})
+```
+
+Then set some element to use that html.
+
+## Windows
+
+I wrote a windowing system which I use on my applications, called `Msg`.
+
+It handles modals, popups, and other form of windows.
+
+It helps me control the window state since it knows what is open or not.
+
+It allows me to close and open windows through its functions.
+
+It handles multi-layered modals and stacked popups.
+
+I create windows like this:
+
+```js
+let msgvars = {}
+
+msgvars.common = {
+  clear_editables: true,
+  class: `modal`,
+  show_effect: `none`,
+  close_effect: `none`,
+  // Etc
+}
+
+msgvars.titlebar = {
+  enable_titlebar: true,
+  center_titlebar: true,
+  // Etc
+}
+
+// Create all windows
+
+App.msg_profilepic = Msg.factory(
+  Object.assign({}, msgvars.common, msgvars.titlebar, {
+    id: `profilepic`
+  })
+)
+
+App.msg_profilepic.set(App.template_profilepic())
+App.msg_profilepic.set_title(`Some Title`)
+```
+
+Then I can control the window:
+
+```js
+App.msg_profilepic.show(() => {
+  // Window is now open
+  // Do something
+})
+
+App.msg_profilepic.close()
+```
