@@ -517,7 +517,11 @@ App.msg_profilepic.set_title(`Some Title`)
 Then I can control the window:
 
 ```js
-App.msg_profilepic.show()
+App.msg_profilepic.show(() => {
+  // Window is now open
+  // Do something
+})
+
 App.msg_profilepic.close()
 ```
 
