@@ -226,3 +226,38 @@ App.machine_play = (args) => {
   args = Object.assign(def_args, args)
 }
 ```
+
+## For Loops
+
+When using classic for loops, this is the spacing I use:
+
+```js
+for (let i=0; i<10; i++) {
+  //
+}
+```
+
+Instead of using a lot of spacing, each component is a bit tighter.
+
+This makes it easier to read.
+
+## General Spacing
+
+This part is mostly personal instinct.
+I like to join as much as I can in chunks.
+And separate lines from multi-line or other statements.
+Whatever feels right really.
+
+```js
+let a = 1
+let b = 2
+
+if (a) {
+  //
+}
+
+do_that()
+do_this()
+
+let c = 3
+```
