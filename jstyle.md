@@ -310,3 +310,23 @@ let cat = {
   // etc
 }
 ```
+
+## Parenthesis And Bracket
+
+Usually the parenthesis can go alongside the bracket:
+
+```js
+do_this({
+  //
+})
+
+do_this(`Balls`, {
+  //
+})
+
+do_this(`Balls`, {
+  //
+}, 123)
+```
+
+This depends on what you're doing and what feels right.
