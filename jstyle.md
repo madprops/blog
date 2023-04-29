@@ -330,3 +330,9 @@ do_this(`Balls`, {
 ```
 
 This depends on what you're doing and what feels right.
+
+## Comments
+
+Only write comments when something is not obvious.
+
+Or if it can take a while to deduce what it is doing.
