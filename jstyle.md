@@ -247,7 +247,7 @@ If you want to use defaults you can use `def_args` like this:
 App.machine_play = (args) => {
   let def_args = {
     edited: false,
-    save: true
+    save: true,
   }
 
   args = Object.assign(def_args, args)
