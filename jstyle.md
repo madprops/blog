@@ -225,7 +225,14 @@ App.machine_play = (args) => {
 ```
 
 ```js
-App.machine_play({name: `Pepe`, save: true})
+App.machine_play({
+  name: `Pepe`,
+  save: true,
+  age: 1234,
+  team: `AMD`,
+  strip: false,
+  play: true,
+})
 ```
 
 If you want to use defaults you can use `def_args` like this:
