@@ -406,7 +406,7 @@ App.setup_buttons = () => {
 }
 ```
 
-Or bind click events when building elements dynamically at runtime.
+Or bind them when building elements dynamically at runtime.
 
 I use a single global keyboard function for all key detection:
 
