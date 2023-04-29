@@ -380,6 +380,8 @@ App.ev(App.el(`#canvas`), `click`, () => {
 })
 ```
 
+These might be inside an `utils` or `dom` object.
+
 ## Input
 
 I usually add mouse events on specialized setup functions:
