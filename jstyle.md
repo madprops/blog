@@ -404,7 +404,9 @@ App.setup_buttons = () => {
 }
 ```
 
-And use a single global keyboard function for all key detection:
+Or bind click events when building elements dynamically at runtime.
+
+I use a single global keyboard function for all key detection:
 
 ```js
 App.setup_keyboard = () => {
@@ -520,3 +522,58 @@ App.msg_profilepic.show(() => {
 
 App.msg_profilepic.close()
 ```
+
+## Building Elements
+
+Something I do very often is build and insert DOM elements on the fly.
+
+I made a helper funciton for this:
+
+```js
+// Create an html element
+App.create = (type, classes = ``, id = ``) => {
+  let el = document.createElement(type)
+
+  if (classes) {
+    let classlist = classes.split(` `).filter(x => x != ``)
+
+    for (let cls of classlist) {
+      el.classList.add(cls)
+    }
+  }
+
+  if (id) {
+    el.id = id
+  }
+
+  return el
+}
+```
+
+A simple example can be:
+
+```js
+let container = App.create(`div`, `action bright`, `main_container`)
+```
+
+There I created a div with classes `.action` and `.bright`, and id `#main_container`.
+
+You can add stuff to it:
+
+```js
+let item = App.create(`div`)
+
+App.ev(item, `click`, () => {
+  //
+})
+
+container.append(item)
+```
+
+There I created an item, added a mouse event, and attached it to the container.
+
+```js
+App.el(`#main`).append(container)
+```
+
+There I added the container to a main DOM element.
