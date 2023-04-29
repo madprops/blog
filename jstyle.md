@@ -84,6 +84,10 @@ Simply because it's shorter and makes code neater.
 
 Just be careful when you try to use `this`.
 
+Functions with a single parameter still use parenthesis `(x) =>`.
+
+Except on functional programming operations like `.filter(x => x > 1)`.
+
 ## Semicolons
 
 Semicolons at the end of lines are never used. They are unnecessary and make the code ugly.
