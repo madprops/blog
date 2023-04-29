@@ -12,7 +12,7 @@ Everything resides inside an object called App.
 const App = {}
 ```
 
-Every variable and function go in there.
+Every global variable and function go in there.
 
 ```js
 App.last_date = Date.now()
