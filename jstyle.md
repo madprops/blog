@@ -449,11 +449,13 @@ App.setup_templates = () => {
 
 That creates a bunch of functions like `App.template_whispers`.
 
-I can use it like:
+I can use it like this:
 
 ```js
-let html_string = App.template_whispers({
-  window_controls: something
+App.template_whispers({
+  window_controls: App.template_window_controls({
+    filter_mode: `auto`,
+  })
 })
 ```
 
