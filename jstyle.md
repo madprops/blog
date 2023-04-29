@@ -415,7 +415,7 @@ App.setup_keyboard = () => {
 
 ## Frameworks
 
-I don't use frontend frameworks like `react` or `vue`.
+I don't use frontend frameworks like `React` or `Vue`.
 
 I assemble all connections manually.
 
@@ -425,7 +425,7 @@ I do use specialized helper libraries when needed.
 
 ## Templates
 
-I use `ejs` templates heavily through `handlebars`.
+I use `ejs` templates heavily through [Handlebars](https://handlebarsjs.com/).
 
 They're special files or snippets you can use to generate `html`.
 
@@ -463,7 +463,7 @@ Then set some element to use that html.
 
 ## Windows
 
-I wrote a windowing system which I use on my applications, called `Msg`.
+I wrote a windowing system which I use on my applications, called [Msg](https://merkoba.github.io/Msg/).
 
 It handles modals, popups, and other form of windows.
 
