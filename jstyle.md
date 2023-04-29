@@ -558,7 +558,7 @@ A simple example can be:
 let container = App.create(`div`, `action bright`, `main_container`)
 ```
 
-There I created a div with classes `.action` and `.bright`, and id `#main_container`.
+There I created a div with classes `.action` and `.bright`, and with id `#main_container`.
 
 You can add stuff to it:
 
