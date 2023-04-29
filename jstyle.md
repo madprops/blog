@@ -192,7 +192,7 @@ if (something) {
 
 ## Brackets
 
-Brackets start on same line, ends in newline:
+Brackets start on same line, ends on newline:
 
 ```js
 App.play = () => {
@@ -275,6 +275,12 @@ This makes it easier to read.
 Avoid `forEach`. Use `for of` as much as you can.
 
 The latter is more natural and allows normal usage of `continue`, `break`, and `return`.
+
+```js
+for (let item of items) {
+  //
+}
+```
 
 ## General Spacing
 
