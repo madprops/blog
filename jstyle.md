@@ -266,6 +266,10 @@ Instead of using a lot of spacing, each component is a bit tighter.
 
 This makes it easier to read.
 
+Avoid `forEach`. Use `for of` as much as you can.
+
+The latter is more natural and allows normal usage of `continue`, `break`, and `return`.
+
 ## General Spacing
 
 This part is mostly personal instinct.
@@ -512,9 +516,3 @@ App.msg_profilepic.show(() => {
 
 App.msg_profilepic.close()
 ```
-
-## forEach
-
-Avoid `forEach`. Use `for of` as much as you can.
-
-The latter is more natural and allows normal usage of `continue`, `break`, and `return`.
