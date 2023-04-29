@@ -163,3 +163,27 @@ let list = [
 ```
 
 This makes it easier to work with since you can freely move items around.
+
+## Spacing
+
+Use space between outer tokens and parenthesis:
+
+```js
+if (something) {
+  //
+}
+```
+
+## Brackets
+
+Brackets start on same line, ends in newline:
+
+```js
+App.play = () => {
+  //
+}
+
+if (a) {
+  //
+}
+```
