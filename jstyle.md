@@ -527,7 +527,7 @@ App.msg_profilepic.close()
 
 Something I do very often is build and insert DOM elements on the fly.
 
-I made a helper funciton for this:
+I made a helper function for this:
 
 ```js
 // Create an html element
