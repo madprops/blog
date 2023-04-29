@@ -18,7 +18,7 @@ Every variable and function go in there.
 App.last_date = Date.now()
 
 App.say_hi = () => {
-  console.log("hi")
+  console.log(`hi`)
 }
 ```
 
