@@ -338,3 +338,75 @@ Only write comments when something is not obvious.
 Or if it can take a while to understand what it is doing.
 
 Usually what a function does can be deduced by its name.
+
+## Init
+
+(Client) The main function is called on window load in the main html file:
+
+```js
+window.onload = () => {
+  App.init()
+}
+```
+
+You start everything there.
+
+## DOM Functions
+
+I wrote helper functions to deal with the DOM:
+
+```js
+// Select a single element
+App.el = (query, root = document) => {
+  return root.querySelector(query)
+}
+
+let c = App.el(`#container`)
+
+// Select an array of elements
+App.els = (query, root = document) => {
+  return Array.from(root.querySelectorAll(query))
+}
+
+let items = App.els(`.items`)
+
+// Add an event listener
+App.ev = (element, action, callback, extra) => {
+  element.addEventListener(action, callback, extra)
+}
+
+App.ev(App.el(`#canvas`), `click`, () => {
+  //
+})
+```
+
+## Input
+
+I usually add mouse events on specialized setup functions:
+
+```js
+App.setup_buttons = () => {
+  App.ev(App.el(`#remove_button`), `click`, () => {
+    App.remove_tasks_dialog()
+  })
+
+  // Etc
+}
+```
+
+And use a single global keyboard function for all key detection:
+
+```js
+App.setup_keyboard = () => {
+  App.ev(document, `keydown`, (e) => {
+    App.check_focus()
+
+    if (e.key === `Enter`) {
+      App.add_task()
+      e.preventDefault()
+    }
+
+    // Etc
+  })
+}
+```
