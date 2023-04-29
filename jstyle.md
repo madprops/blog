@@ -447,7 +447,7 @@ App.setup_templates = () => {
 }
 ```
 
-That creates a bunch of template functions like `template_whispers`.
+That creates a bunch of functions like `App.template_whispers`.
 
 I can use it like:
 
