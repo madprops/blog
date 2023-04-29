@@ -127,7 +127,7 @@ Underscores are used to separate name components like variables.
 App.last_game_of_summer = 123
 ```
 
-It's simply easy to read and is never ambiguous like it can happen with camelCase.
+It's easy to read and is never ambiguous like it can happen with camelCase.
 
 ## Filling The App Object
 
