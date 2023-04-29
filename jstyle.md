@@ -187,3 +187,13 @@ if (a) {
   //
 }
 ```
+
+## Default Parameters
+
+Default parameters use some spacing between the `=`.
+
+```js
+App.greet = (a, b = `Tom`) => {
+  //
+}
+```
