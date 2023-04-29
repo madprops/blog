@@ -412,3 +412,13 @@ App.setup_keyboard = () => {
   })
 }
 ```
+
+## Frameworks
+
+I don't use any frontend framework.
+
+I assemble all connections manually.
+
+So far it has worked for me, even on complex applications.
+
+I do use specialized helper libraries when needed.
