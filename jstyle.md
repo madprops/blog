@@ -28,7 +28,7 @@ This acts in a way as a global namespace, but it's a namespace you fully control
 App.say_hi()
 ```
 
-You can use variables to call functions:
+You can use strings to get variables or functions:
 
 ```js
 App[`print_${what}`]()
