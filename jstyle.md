@@ -229,7 +229,7 @@ App.machine_play = (args) => {
 
 ## For Loops
 
-When using classic for loops, this is the spacing I use:
+When using classic `for` loops, this is the spacing I use:
 
 ```js
 for (let i=0; i<10; i++) {
