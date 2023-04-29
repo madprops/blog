@@ -244,8 +244,11 @@ This makes it easier to read.
 ## General Spacing
 
 This part is mostly personal instinct.
+
 I like to join as much as I can in chunks.
+
 And separate lines from multi-line or other statements.
+
 Whatever feels right really.
 
 ```js
