@@ -585,3 +585,28 @@ App.el(`#main`).append(container)
 ```
 
 There I added the container to a main DOM element.
+
+## console.log
+
+If you're going to print messages as part of the system, use `console.info`.
+
+If you're going to print errors use `console.error`.
+
+Use `console.log` only for debugging. And make sure to remove them before pushing the code.
+
+Best is to have a custom centralized function for logging:
+
+```js
+App.log = (message, mode = `normal`) => {
+  let icon
+
+  if (mode === `normal`) {
+    icon = `🟢`
+  }
+  else if (mode === `error`) {
+    icon = `🔴`
+  }
+
+  console.info(`${icon} Log: ${message}`)
+}
+```
