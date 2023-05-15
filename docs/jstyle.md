@@ -606,3 +606,39 @@ App.log = (message, mode = `normal`) => {
   }
 }
 ```
+
+## NeedContext
+
+Apart from Msg, I made a simple library to handle context menus.
+
+This can be triggered as context menu or simple clicks on elements.
+
+The library is called [NeedContext](https://github.com/madprops/needcontext)
+
+Menus are built like this:
+
+```js
+App.show_some_context = (x, y) => {
+  let items = []
+
+  items.push({
+    text: `Copy URL`,
+    action: () => {
+      App.copy_url()
+    }
+  })
+
+  items.push({
+    text: `Copy Title`,
+    action: () => {
+      App.copy_title()
+    }
+  })
+
+  NeedContext.show(x, y, items)
+
+  // Or
+
+  NeedContext.show_on_element(el, items)
+}
+```
