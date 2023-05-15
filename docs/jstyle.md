@@ -654,7 +654,7 @@ README.md
 LICENSE
 index.html
 
-js / libs / your js libraries
+js / libs / js libraries
 js / main / your js files
 
 css / style.css (and font files)
