@@ -642,3 +642,25 @@ App.show_some_context = (x, y) => {
   NeedContext.show_on_element(el, items)
 }
 ```
+
+## File Structure
+
+Usually I do this:
+
+```
+.git
+.gitignore
+README.md
+index.html
+
+js / libs / your js libraries
+js / main / your js files
+
+css / style.css (and font files)
+
+img / image files
+audio / audio files
+video / video files
+```
+
+Basically try to avoid huge directories when you can organize files more neatly when it make sense.
