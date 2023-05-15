@@ -613,7 +613,7 @@ Apart from Msg, I made a simple library to handle context menus.
 
 This can be triggered on right click or simple clicks on elements.
 
-The library is called [NeedContext](https://github.com/madprops/needcontext)
+The library is called [NeedContext](https://github.com/madprops/needcontext).
 
 Menus are built like this:
 
