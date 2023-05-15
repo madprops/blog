@@ -611,7 +611,7 @@ App.log = (message, mode = `normal`) => {
 
 Apart from Msg, I made a simple library to handle context menus.
 
-This can be triggered as context menu or simple clicks on elements.
+This can be triggered on right click or simple clicks on elements.
 
 The library is called [NeedContext](https://github.com/madprops/needcontext)
 
