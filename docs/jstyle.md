@@ -598,15 +598,11 @@ Best is to have a custom centralized function for logging:
 
 ```js
 App.log = (message, mode = `normal`) => {
-  let icon
-
-  if (mode === `normal`) {
-    icon = `🟢`
+  if (mode === `error`) {
+    console.error(message)
   }
-  else if (mode === `error`) {
-    icon = `🔴`
+  else {
+    console.info(`🟢 ${message}`)
   }
-
-  console.info(`${icon} Log: ${message}`)
 }
 ```
