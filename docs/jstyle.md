@@ -651,6 +651,7 @@ Usually I do this:
 .git
 .gitignore
 README.md
+LICENSE
 index.html
 
 js / libs / your js libraries
