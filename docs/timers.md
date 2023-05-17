@@ -101,14 +101,14 @@ Some code of how I start the timers with my wm:
 
 ```lua
 function auto_suspend(minutes)
-  autotimer.start_timer("Suspend", minutes, function() 
-    suspend() 
+  autotimer.start_timer("Suspend", minutes, function()
+    suspend()
   end)
 end
 
 function timer(minutes)
-  autotimer.start_timer("Timer", minutes, function() 
-    msg("Timer ended") 
+  autotimer.start_timer("Timer", minutes, function()
+    msg("Timer ended")
   end)
 end
 
@@ -125,11 +125,11 @@ Like waiting for food or drinks to be ready.
 
 ## Starting Timers
 
-Since my wm can be called through a special program, I can make a python script to start timers.
+Since my wm can be called through a special program, I can make a ruby script to start timers.
 
 I made a script that makes it easy to detect if I want hours, minutes, or seconds.
 
-So I can easily start a 20 minute timer, or a 5 second timer. 
+So I can easily start a 20 minute timer, or a 5 second timer.
 
 And I can do it directly from my launcher:
 
@@ -149,4 +149,4 @@ I do this by using the same number of characters with a monospace font.
 
 The code for autotimer is [here](https://github.com/madprops/awesome-setup/tree/master/madwidgets/autotimer).
 
-The python script is [here](https://gist.github.com/madprops/b3cfbdc67a78e8c334cc1ccc9fd44f52).
+The ruby script is [here](https://gist.github.com/madprops/5eedd6bcb2bffe1e897f18a937f483c2).
