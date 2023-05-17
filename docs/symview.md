@@ -22,7 +22,7 @@ AFAIK it gets resetted on each reboot.
 
 So I decided to create symlinks of the results in `/tmp/symview_results`.
 
-And I open this with Konqueror (my main file manager is Dolphin).
+And I open this with the system's file manager.
 
 ## How does it work?
 
@@ -59,8 +59,6 @@ Or whatever.
 I found its search to be unreliable sometimes.
 
 Especially since I don't use KDE with baloo.
-
-Also dedicating Konqueror for this use-case is nice.
 
 Symview is fast, and works fine for me.
 
