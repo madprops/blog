@@ -657,7 +657,9 @@ index.html
 js / libs / js libraries
 js / main / your js files
 
-css / style.css (and font files)
+css / main / style.css
+css / libs / lib css files
+css / fonts / font files
 
 img / image files
 audio / audio files
