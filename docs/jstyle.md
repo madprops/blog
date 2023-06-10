@@ -98,7 +98,7 @@ Spend your energy on other things instead of making sure a line has a semicolon 
 
 This of course excludes cases when you want to have multiple operations in a single line:
 
-Like `thing(); other_thing()` but I decided to avoid doing that.
+Like `thing(); other_thing()`. But I decided to avoid doing that.
 
 ## If Else | Try Catch | Then Catch
 
