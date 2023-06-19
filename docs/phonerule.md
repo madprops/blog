@@ -28,4 +28,10 @@ Because if you're on the phone it's a lot clearer to say `"Modify the Activity I
 
 So, simple rule. Label things in a way that can be easy to point to using your voice only.
 
+Why? Well, because you might actually have to explain steps through your phone.
+
+And it might be overall more obvious to all users that use the software.
+
 This is something I thought about while developing [Grasshopper](https://addons.mozilla.org/en-US/firefox/addon/grasshopper-urls/).
+
+![](https://i.imgur.com/PvcKqkV.jpg)
