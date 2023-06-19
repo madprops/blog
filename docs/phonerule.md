@@ -33,5 +33,3 @@ Why? Well, because you might actually have to explain steps through your phone.
 And it might be overall more obvious to all users that use the software.
 
 This is something I thought about while developing [Grasshopper](https://addons.mozilla.org/en-US/firefox/addon/grasshopper-urls/).
-
-![](https://i.imgur.com/PvcKqkV.jpg)
