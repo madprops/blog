@@ -6,7 +6,7 @@ It's very simple, name things in a way that can be used in phone help calls.
 
 Imagine a not very techie person, or a person who is not very interested in the subject, calls you.
 
-The person wants you to be guided to perform an action, or configure the software.
+The person wants to be guided to perform an action, or configure the software.
 
 You are in the other end of the call and can only explain through your voice.
 
