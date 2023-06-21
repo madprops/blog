@@ -33,3 +33,11 @@ Why? Well, because you might actually have to explain steps through your phone.
 And it might be overall more obvious to all users that use the software.
 
 This is something I thought about while developing [Grasshopper](https://addons.mozilla.org/en-US/firefox/addon/grasshopper-urls/).
+
+I don't particulary thought about this in regard to icons without text, but I think these also count.
+
+If you have a row of 5 icons, you could have a hard time telling the user what to click.
+
+So these should be obvious and distinctive figures, like `"Click the star"`.
+
+Or be in unique positions, like `"Click the top left button"`.
