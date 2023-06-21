@@ -34,7 +34,7 @@ And it might be overall more obvious to all users that use the software.
 
 This is something I thought about while developing [Grasshopper](https://addons.mozilla.org/en-US/firefox/addon/grasshopper-urls/).
 
-I don't particulary thought about this in regard to icons without text, but I think these also count.
+I didn't particulary think about this in regard to icons without text, but I think these also count.
 
 If you have a row of 5 icons, you could have a hard time telling the user what to click.
 
