@@ -2,7 +2,7 @@
 
 This is a way of thinking that I've been using to approach the design of software features.
 
-It's very simple, name things in a way that can be used in phone help calls.
+It's very simple, name things in a way that can be used in phone calls.
 
 Imagine a not very techie person, or a person who is not very interested in the subject, calls you.
 
