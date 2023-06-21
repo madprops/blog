@@ -1,5 +1,7 @@
 # The Phone Rule
 
+![](https://i.imgur.com/RQ3m7om.jpg)
+
 This is a way of thinking that I've been using to approach the design of software features.
 
 It's very simple, name things in a way that can be used in phone calls.
