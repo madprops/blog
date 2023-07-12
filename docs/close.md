@@ -24,12 +24,6 @@ Since I don't have a minimize button I mapped a side button of my mouse to trigg
 
 So I just point to the window and click the button. Similar to the DPI method.
 
-## Mouse
-
-Why so mouse-focused? A lot of the time I'm in cruising mode (One hand on my mouse, the other hand resting).
-
-The more I can do with my mouse the better. This way I can open, close, hide, whatever, using a single hand.
-
 ## Cursor
 
 The advantage of using the "close/hide the window below the cursor" method is that the whole window is the target.
