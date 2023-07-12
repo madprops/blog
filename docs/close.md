@@ -28,6 +28,14 @@ So I just point to the window and click the button. Similar to the DPI method.
 
 ## Mouse
 
-Why so mouse-focused? A lot of the time I'm in cruising mode (One hand on my mouse, the other hand resting)
+Why so mouse-focused? A lot of the time I'm in cruising mode (One hand on my mouse, the other hand resting).
 
 The more I can do with my mouse the better. This way I can open, close, hide, whatever, using a single hand.
+
+## The Cursor Method
+
+The advantage of using the "close/hide the window below the cursor" method is that the whole window is the target.
+
+I don't need to point and click on tiny areas like the minimize/close buttons, I have the whole window area to click.
+
+And not having decorations saves space, plus makes important clickable areas reside at the top, like tabs.
