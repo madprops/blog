@@ -17,3 +17,5 @@
 1) [JStyle](https://github.com/madprops/blog/blob/main/docs/jstyle.md)
 
 1) [PhoneRule](https://github.com/madprops/blog/blob/main/docs/phonerule.md)
+
+1) [Close](https://github.com/madprops/blog/blob/main/docs/close.md)
