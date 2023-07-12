@@ -35,7 +35,7 @@ And not having decorations saves space, plus makes important clickable areas res
 In awesomewm getting the window below the cursor is simple:
 
 ```lua
-local window = mouse.object_under_pointer()
+local c = mouse.object_under_pointer()
 ```
 
 ## DPI
