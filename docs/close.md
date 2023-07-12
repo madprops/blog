@@ -1,6 +1,6 @@
 # Close
 
-Lots about how to open/launch programs is discussed often, but what about the ways to close/hide them?
+Lots about how to launch programs is discussed often, but what about the ways to close and hide them?
 
 I'd say the way we get rid of what we don't need at the moment anymore is equally important.
 
@@ -20,7 +20,7 @@ On rare ocassions I use Alt+F4, or Close in a right click menu I made, but the D
 
 ## Hiding
 
-A lot of the time I don't want to close a window, just make it get out of the way.
+A lot of the time I don't want to close a window, I just want to make it get out of the way.
 
 Since I don't have a minimize button I mapped a side button of my mouse to trigger a minimize.
 
@@ -55,3 +55,9 @@ The DPI button in my mouse is handy because it's at the top, near the middle, ea
 And I have no need to use the intended DPI changing action anyway.
 
 I just let it work at the DPI setting that's most comfortable all the time.
+
+## Taps
+
+I made a library for awesomewm to detect double click/tap/press and perform an action.
+
+You can find it [here] (https://github.com/madprops/awesome-setup/tree/master/madwidgets/doubletap).
