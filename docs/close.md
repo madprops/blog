@@ -16,7 +16,7 @@ But I mapped it to something else, and if I double click it quick enough it clos
 
 So I just point to a window and tap tap, done. It's really fast.
 
-On rare ocassions I use alt+f4, or Close in a right click menu I made, but the DPI method is the preferred one.
+On rare ocassions I use Alt+F4, or Close in a right click menu I made, but the DPI method is the preferred one.
 
 ## Hiding
 
@@ -39,3 +39,19 @@ The advantage of using the "close/hide the window below the cursor" method is th
 I don't need to point and click on tiny areas like the minimize/close buttons, I have the whole window area to click.
 
 And not having decorations saves space, plus makes important clickable areas reside at the top, like tabs.
+
+## DPI
+
+Any mouse button that can be mapped works for what I do.
+
+What I do is map the button to a keyboard combo like Ctrl+Alt+Space or whatever.
+
+I do this using an open source software manager for my mouse.
+
+Then in my window manager I map the shortcut to an action.
+
+The DPI button in my mouse is handy because it's at the top, near the middle, easy to reach.
+
+And I have no need to use the intended DPI changing action anyway.
+
+I just let it work at the DPI setting that's most comfortable all the time.
