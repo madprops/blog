@@ -16,8 +16,6 @@ But I mapped it to something else, and if I double click it quick enough it clos
 
 So I just point to a window and tap tap, done. It's really fast.
 
-On rare ocassions I use Alt+F4, or Close in a right click menu I made, but the DPI method is the preferred one.
-
 ## Hiding
 
 A lot of the time I don't want to close a window, I just want to make it get out of the way.
