@@ -22,7 +22,7 @@ On rare ocassions I use alt+f4, or Close in a right click menu I made, but the D
 
 A lot of the time I don't want to close a window, just make it get out of the way.
 
-Since I don't have a minimize button I mapped a side button of my mouse.
+Since I don't have a minimize button I mapped a side button of my mouse to trigger a minimize.
 
 So I just point to the window and click the button. Similar to the DPI method.
 
