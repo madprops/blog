@@ -32,7 +32,7 @@ Why so mouse-focused? A lot of the time I'm in cruising mode (One hand on my mou
 
 The more I can do with my mouse the better. This way I can open, close, hide, whatever, using a single hand.
 
-## The Cursor Method
+## Cursor
 
 The advantage of using the "close/hide the window below the cursor" method is that the whole window is the target.
 
