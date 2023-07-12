@@ -60,4 +60,4 @@ I just let it work at the DPI setting that's most comfortable all the time.
 
 I made a library for awesomewm to detect double click/tap/press and perform an action.
 
-You can find it [here] (https://github.com/madprops/awesome-setup/tree/master/madwidgets/doubletap).
+You can find it [here](https://github.com/madprops/awesome-setup/tree/master/madwidgets/doubletap).
