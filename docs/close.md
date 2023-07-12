@@ -32,6 +32,12 @@ I don't need to point and click on tiny areas like the minimize/close buttons, I
 
 And not having decorations saves space, plus makes important clickable areas reside at the top, like tabs.
 
+In awesomewm getting the window below the cursor is simple:
+
+```lua
+local c = mouse.object_under_pointer()
+```
+
 ## DPI
 
 Any mouse button that can be mapped works for what I do.
