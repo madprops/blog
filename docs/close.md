@@ -50,10 +50,6 @@ Then in my window manager I map the shortcut to an action.
 
 The DPI button in my mouse is handy because it's at the top, near the middle, easy to reach.
 
-And I have no need to use the intended DPI changing action anyway.
-
-I just let it work at the DPI setting that's most comfortable all the time.
-
 ## Taps
 
 I made a library for awesomewm to detect double click/tap/press and perform an action.
