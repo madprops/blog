@@ -12,7 +12,7 @@ I don't use window decorations at all, so no X button to click.
 
 This is a button that sits at the top of the mouse, and it's meant to be used to change the DPI (sensitivity).
 
-But I mapped it to somethign else, and if I double click it quick enough it closes the window where the cursor is at.
+But I mapped it to something else, and if I double click it quick enough it closes the window where the cursor is at.
 
 So I just point to a window and tap tap, done. It's really fast.
 
