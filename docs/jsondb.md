@@ -48,9 +48,13 @@ The engine has some debouncer mechanisms to rate limit the file saves to be easy
 
 There's a shared `manager` that performs some operations.
 
-Rooms and users have apis to retrieve and update.
+Rooms and users have apis to retrieve and update:
 
 ![](https://i.imgur.com/P4IMo1c.jpg)
+
+I have mechanisms that allow me to write and maintain a schema:
+
+![](https://i.imgur.com/ojflW7C.jpg)
 
 These are the benefits:
 
