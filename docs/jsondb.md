@@ -56,6 +56,8 @@ I have mechanisms that allow me to write and maintain a schema:
 
 ![](https://i.imgur.com/ojflW7C.jpg)
 
+![](https://i.imgur.com/R31m2yV.jpg)
+
 These are the benefits:
 
 1) I depend on nothing, I don't need to install, configure, or upgrade a 3rd party database.
