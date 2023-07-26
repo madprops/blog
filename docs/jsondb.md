@@ -56,7 +56,7 @@ I have mechanisms that allow me to write and maintain a schema:
 
 ![](https://i.imgur.com/xGPZT8r.jpg)
 
-These are the benefits:
+## Benefits
 
 1) I depend on nothing, I don't need to install, configure, or upgrade a 3rd party database.
 
