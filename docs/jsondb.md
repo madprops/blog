@@ -34,7 +34,7 @@ All these documents reside in a `db` directory.
 
 ![](https://i.imgur.com/cSkCZCv.jpg)
 
-There are all plain json files.
+These are all plain json files.
 
 The engine files look like:
 
