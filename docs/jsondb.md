@@ -54,9 +54,7 @@ Rooms and users have apis to retrieve and update:
 
 I have mechanisms that allow me to write and maintain a schema:
 
-![](https://i.imgur.com/ojflW7C.jpg)
-
-![](https://i.imgur.com/R31m2yV.jpg)
+![](https://i.imgur.com/xGPZT8r.jpg)
 
 These are the benefits:
 
