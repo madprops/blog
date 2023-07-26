@@ -44,13 +44,13 @@ One of the functions looks like:
 
 ![](https://i.imgur.com/5B91WX1.jpg)
 
-Rooms and users have apis to retrieve and update.
+The engine has some debouncer mechanisms to rate limit the file saves to be easy on the i/o.
 
 There's a shared `manager` that performs some operations.
 
-![](https://i.imgur.com/P4IMo1c.jpg)
+Rooms and users have apis to retrieve and update.
 
-The engine has some debouncer mechanisms to rate limit the file saves to be easy on the i/o.
+![](https://i.imgur.com/P4IMo1c.jpg)
 
 These are the benefits:
 
