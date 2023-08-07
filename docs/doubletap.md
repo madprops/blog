@@ -6,7 +6,7 @@ For instance, if you hit Shift twice in a row relatively fast, you can trigger s
 
 This is great if you want a couple of mindless shortucts that you can just bang like a caveman.
 
-I use Shift and Control. The first for switching between the files, the latter one to go to functions.
+I use Shift and Control. The first one for switching between files, the latter one to go to functions.
 
 ![](https://i.imgur.com/Duju95G.jpg)
 
