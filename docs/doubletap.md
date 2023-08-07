@@ -11,5 +11,3 @@ I use Shift and Control. The first for switching between the files, the latter o
 ![](https://i.imgur.com/Duju95G.jpg)
 
 ![](https://i.imgur.com/KraYUip.jpg)
-
-![](https://i.imgur.com/eyKjTja.jpg)
