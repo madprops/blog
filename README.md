@@ -19,3 +19,5 @@
 1) [Close](https://github.com/madprops/blog/blob/main/docs/close.md)
 
 1) [JsonDB](https://github.com/madprops/blog/blob/main/docs/jsondb.md)
+
+1) [DoubleTap](https://github.com/madprops/blog/blob/main/docs/doubletap.md)
