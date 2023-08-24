@@ -137,6 +137,8 @@ Now when you press a specific button on a specific window, it will show `rofi` w
 
 You can click or press enter and `xdotool` will write the command on the focused window.
 
+It will automatically press Enter. You might want to disable that by commenting the last line.
+
 Since it's `rofi` you can also filter it through the keyboard.
 
 It's meant to target terminal emulators.
