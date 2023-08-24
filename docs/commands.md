@@ -130,6 +130,8 @@ cmd = pick_cmd("Select Command", data)
 system("xdotool type '#{cmd}'")
 ```
 
+## Usage
+
 Now when you press a specific button on a specific window, it will show rofi with the latest commands.
 
 You can click or press enter and `xdotool` will write the command on the focused window.
@@ -141,8 +143,6 @@ It's meant to target terminal emulators.
 I suggest saving it as `~/bin/commands`.
 
 Also I suggest adding `~/bin` to the path.
-
-## Image
 
 ![](https://i.imgur.com/ajk8iWQ.jpg)
 
