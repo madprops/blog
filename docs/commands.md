@@ -71,12 +71,12 @@ require "open3"
 def pick_cmd(prompt, data)
   cmd = "rofi -dmenu -p '#{prompt}' -me-select-entry '' -me-accept-entry 'MousePrimary' -i"
   stdin, stdout, stderr, wait_thr = Open3.popen3(cmd)
-  stdin.puts(data.split("\n").reverse)
+  stdin.puts(data.split("\n"))
   stdin.close
   return stdout.read.strip
 end
 
-fname = File.expand_path("~/.local/share/fish/xhistory.log")
+fname = File.expand_path("~/.xhistory.log")
 data = File.read(fname).strip
 cmd = pick_cmd("Select Command", data)
 system("xdotool type '#{cmd}'")
