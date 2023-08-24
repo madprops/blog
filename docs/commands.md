@@ -95,13 +95,9 @@ function commands()
     return
   end
 
-  if c.instance == "dolphin" then
-    focus(c)
-    show_commands()
-    return
-  end
+  local cmds = {"dolphin", "tilix"}
 
-  if c.instance == "tilix" then
+  if table_contains(cmds, c.instance) then
     focus(c)
     show_commands()
     return
@@ -118,6 +114,16 @@ end
 
 function show_commands()
   home_bin("commands")
+end
+
+table_contains(tab, val)
+  for index, value in ipairs(tab) do
+    if value == val then
+      return true
+    end
+  end
+
+  return false
 end
 ```
 
