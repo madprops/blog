@@ -140,3 +140,9 @@ Since it's rofi you can also filter it through the keyboard.
 It's meant to target terminal emulators.
 
 ![](https://i.imgur.com/ajk8iWQ.jpg)
+
+## Notes
+
+Possible expansion is to limit commands by being aware of the directory...
+
+So each directory gets the most relevant commands to them.
