@@ -10,15 +10,7 @@ So here it is:
 
 ## Fish
 
-First create this file:
-
-`touch ~/.local/share/fish/xhistory.log`
-
-This is where (some) of the command history will be stored.
-
-Some common irrelevant commands like `ls` and `cd` get ignored.
-
-Then add this to `~/.config/fish/config.fish`:
+Add this to `~/.config/fish/config.fish`:
 
 ```bash
 set xhistory ~/.local/share/fish/xhistory.log
@@ -29,46 +21,72 @@ function intercept --on-event fish_postexec
     return
   end
 
-  set cmd (string trim $argv)
-
-  if string match -q "cd" $cmd
-    return
-  end
-
-  if string match -q "cd *" $cmd
-    return
-  end
-
-  if string match -q "ls" $cmd
-    return
-  end
-
-  echo "$cmd" >> $xhistory
-  awk '!seen[$0]++' $xhistory >$xhistory_tmp && mv $xhistory_tmp $xhistory
-  set log_size (count (cat $xhistory))
-
-  while test $log_size -gt $max_xhistory
-    sed -i 1d $xhistory
-    set log_size (count (cat $xhistory))
-  end
+  ~/bin/save_command $argv
 end
 ```
 
-This will run a function after every command.
+This will run a ruby script after every succesful command.
 
-If the last command failed it will return early.
+## Ruby
 
-It filters out some common short commands.
+This is the file that gets called to update the commands file:
 
-Then it saves to the file, removes duplicates, and applies the `max_xhistory` limit.
+>save_command
 
-Everytime you modify `config.fish` you need to source it again:
+```ruby
+#!/usr/bin/env ruby
+cmd = ARGV[0]
 
-`source ~/.config/fish/config.fish`
+if cmd == "cd "
+  return
+end
 
-I recommend this alias:
+if cmd.start_with? "cd "
+  return
+end
 
-`alias sauce="source ~/.config/fish/config.fish"`
+if cmd == "ls"
+  return
+end
+
+xhistory = File.expand_path("~/.xhistory.log")
+max_xhistory = 500
+lines = []
+
+File.open(xhistory, "r+") do |file|
+  lines = file.readlines
+end
+
+lines.prepend(cmd)
+content = lines.map(&:chomp).uniq.take(max_xhistory).join("\n")
+
+File.open(xhistory, "w") do |file|
+  file.puts(content)
+end
+```
+
+This is the file that opens `rofi`` to pick a command:
+
+>commands
+
+```ruby
+#!/usr/bin/env ruby
+require "open3"
+
+def pick_cmd(prompt, data)
+  cmd = "rofi -dmenu -p '#{prompt}' -me-select-entry '' -me-accept-entry 'MousePrimary' -i"
+  stdin, stdout, stderr, wait_thr = Open3.popen3(cmd)
+  stdin.puts(data.split("\n").reverse)
+  stdin.close
+  return stdout.read.strip
+end
+
+fname = File.expand_path("~/.local/share/fish/xhistory.log")
+data = File.read(fname).strip
+cmd = pick_cmd("Select Command", data)
+system("xdotool type '#{cmd}'")
+system("xdotool key Return")
+```
 
 ## awesomewm
 
@@ -111,27 +129,6 @@ end
 Run this function on a mouse or keyboard press.
 
 This will first focus the client, then run the ruby script called `commands`.
-
-## Ruby
-
-```ruby
-#!/usr/bin/env ruby
-require "open3"
-
-def pick_cmd(prompt, data)
-  cmd = "rofi -dmenu -p '#{prompt}' -me-select-entry '' -me-accept-entry 'MousePrimary' -i"
-  stdin, stdout, stderr, wait_thr = Open3.popen3(cmd)
-  stdin.puts(data.split("\n").reverse)
-  stdin.close
-  return stdout.read.strip
-end
-
-fname = File.expand_path("~/.local/share/fish/xhistory.log")
-data = File.read(fname).strip
-cmd = pick_cmd("Select Command", data)
-system("xdotool type '#{cmd}'")
-system("xdotool key Return")
-```
 
 ## Usage
 
