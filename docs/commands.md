@@ -56,7 +56,7 @@ This will run a function after every command.
 
 If the last command failed it will return early.
 
-It filters out some commands.
+It filters out some common short commands.
 
 Then it saves to the file, removes duplicates, and applies the `max_xhistory` limit.
 
