@@ -98,7 +98,7 @@ function focus(c)
 end
 
 function home_bin(cmd)
-  spawn(os.getenv("HOME") .. "/bin/" .. cmd)
+  awful.spawn(os.getenv("HOME") .. "/bin/" .. cmd)
 end
 
 function show_commands()
