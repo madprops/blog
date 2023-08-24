@@ -50,7 +50,7 @@ xhistory = File.expand_path("~/.xhistory.log")
 max_xhistory = 500
 lines = []
 
-File.open(xhistory, "r+") do |file|
+File.open(xhistory, "a+") do |file|
   lines = file.readlines
 end
 
