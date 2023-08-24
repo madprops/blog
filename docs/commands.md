@@ -53,6 +53,14 @@ function intercept --on-event fish_postexec
 end
 ```
 
+This will run a function after every command.
+
+If the last command failed it will return early.
+
+It filters out some commands.
+
+Then it saves to the file, limits the size, and removes duplicates.
+
 Everytime you modify that file you need to source fish again:
 
 `source ~/.config/fish/config.fish`
