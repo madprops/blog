@@ -146,3 +146,7 @@ It's meant to target terminal emulators.
 Possible expansion is to limit commands by being aware of the directory...
 
 So each directory gets the most relevant commands to them.
+
+You need to save lines in the file differently like `dir ; cmd`.
+
+But right now I don't want to do that.
