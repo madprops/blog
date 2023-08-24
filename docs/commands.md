@@ -73,7 +73,7 @@ I recommend this alias:
 Now in `awesomewm` do something similar to this:
 
 ```lua
-function Utils.commands()
+function commands()
   local c = mouse.object_under_pointer()
 
   if not c then
@@ -81,30 +81,32 @@ function Utils.commands()
   end
 
   if c.instance == "dolphin" then
-    Utils.focus(c)
-    Utils.show_commands()
+    focus(c)
+    show_commands()
     return
   end
 
   if c.instance == "tilix" then
-    Utils.focus(c)
-    Utils.show_commands()
+    focus(c)
+    show_commands()
     return
   end
 end
 
-function Utils.focus(c)
+function focus(c)
   c:emit_signal("request::activate", "tasklist", {raise = true})
 end
 
-function Utils.home_bin(cmd)
-  Utils.spawn(os.getenv("HOME") .. "/bin/" .. cmd)
+function home_bin(cmd)
+  spawn(os.getenv("HOME") .. "/bin/" .. cmd)
 end
 
-function Utils.show_commands()
-  Utils.home_bin("commands")
+function show_commands()
+  home_bin("commands")
 end
 ```
+
+Run this function on a mouse or keyboard press.
 
 This will first focus the client, then run the ruby script called `commands`.
 
