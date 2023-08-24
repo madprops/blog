@@ -13,9 +13,6 @@ So here it is:
 Add this to `~/.config/fish/config.fish`:
 
 ```bash
-set xhistory ~/.local/share/fish/xhistory.log
-set max_xhistory 500
-
 function intercept --on-event fish_postexec
   if [ "$status" != 0 ]
     return
