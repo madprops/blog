@@ -32,7 +32,7 @@ This is the script that gets called to update the commands file:
 
 ```ruby
 #!/usr/bin/env ruby
-cmd = ARGV[0]
+cmd = ARGV[0].strip
 xcmds_equals = ["cd", "ls", "lq", "z", "br", "o"]
 xcmds_starts = ["cd", "z"]
 
