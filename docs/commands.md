@@ -62,7 +62,7 @@ File.open(xhistory, "w") do |file|
 end
 ```
 
-This is the file that opens `rofi`` to pick a command:
+This is the file that opens `rofi` to pick a command:
 
 >commands
 
