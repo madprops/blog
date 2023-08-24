@@ -153,13 +153,3 @@ I suggest saving it as `~/bin/commands`.
 Also I suggest adding `~/bin` to the path.
 
 ![](https://i.imgur.com/ajk8iWQ.jpg)
-
-## Notes
-
-Possible expansion is to limit commands by being aware of the directory...
-
-So each directory gets the most relevant commands to them.
-
-You'd need to save lines in the file differently like `dir ; cmd`.
-
-But right now I don't want to do that.
