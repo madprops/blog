@@ -128,6 +128,7 @@ fname = File.expand_path("~/.local/share/fish/xhistory.log")
 data = File.read(fname).strip
 cmd = pick_cmd("Select Command", data)
 system("xdotool type '#{cmd}'")
+system("xdotool key Return")
 ```
 
 ## Usage
