@@ -26,7 +26,7 @@ This will run a ruby script after every succesful command.
 
 ## Ruby
 
-This is the file that gets called to update the commands file:
+This is the script that gets called to update the commands file:
 
 >save_command
 
@@ -62,7 +62,7 @@ File.open(xhistory, "w") do |file|
 end
 ```
 
-This is the file that opens `rofi` to pick a command:
+This is the script that opens `rofi` to pick a command:
 
 >commands
 
