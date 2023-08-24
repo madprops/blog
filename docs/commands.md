@@ -79,8 +79,11 @@ end
 fname = File.expand_path("~/.xhistory.log")
 data = File.read(fname).strip
 cmd = pick_cmd("Select Command", data)
-system("xdotool type '#{cmd}'")
-system("xdotool key Return")
+
+if cmd != ""
+  system("xdotool type '#{cmd}'")
+  system("xdotool key Return")
+end
 ```
 
 ## awesomewm
