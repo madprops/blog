@@ -122,16 +122,10 @@ def pick_cmd(prompt, data)
   return stdout.read.strip
 end
 
-def main()
-  fname = File.expand_path("~/.local/share/fish/xhistory.log")
-  data = File.read(fname).strip
-  cmd = pick_cmd("Select Command", data)
-  system("xdotool type '#{cmd}'")
-end
-
-if __FILE__ == $0
-  main()
-end
+fname = File.expand_path("~/.local/share/fish/xhistory.log")
+data = File.read(fname).strip
+cmd = pick_cmd("Select Command", data)
+system("xdotool type '#{cmd}'")
 ```
 
 Now when you press a specific button on a specific window, it will show rofi with the latest commands.
