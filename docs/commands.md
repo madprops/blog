@@ -36,7 +36,7 @@ if ARGV[0].nil?
   return
 end
 
-cmd = ARGV[1].strip
+cmd = ARGV[0].strip
 
 if cmd.empty?
   return
