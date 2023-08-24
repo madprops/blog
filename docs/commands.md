@@ -29,20 +29,22 @@ function intercept --on-event fish_postexec
     return
   end
 
-  if string match -q "cd" $argv
+  set cmd (string trim $argv)
+
+  if string match -q "cd" $cmd
     return
   end
 
-  if string match -q "cd *" $argv
+  if string match -q "cd *" $cmd
     return
   end
 
-  if string match -q "ls" $argv
+  if string match -q "ls" $cmd
     return
   end
 
-  echo "$argv" >> $xhistory
-  awk '!seen[$0]++' $xhistory > temp.txt && mv temp.txt $xhistory
+  echo "$cmd\n" >> $xhistory
+  awk '!seen[$0]++' $xhistory >$xhistory_tmp && mv $xhistory_tmp $xhistory
   set log_size (count (cat $xhistory))
 
   while test $log_size -gt $max_xhistory
