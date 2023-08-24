@@ -58,9 +58,9 @@ If the last command failed it will return early.
 
 It filters out some commands.
 
-Then it saves to the file, limits the size, and removes duplicates.
+Then it saves to the file, removes duplicates, and applies the `max_xhistory` limit.
 
-Everytime you modify that file you need to source fish again:
+Everytime you modify `config.fish` you need to source it again:
 
 `source ~/.config/fish/config.fish`
 
