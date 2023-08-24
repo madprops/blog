@@ -33,16 +33,14 @@ This is the script that gets called to update the commands file:
 ```ruby
 #!/usr/bin/env ruby
 cmd = ARGV[0]
+xcmds_equals = ["cd", "ls", "lq", "z", "br", "o"]
+xcmds_starts = ["cd", "z"]
 
-if cmd == "cd "
+if xcmds_equals.any? { |x| cmd == x }
   return
 end
 
-if cmd.start_with? "cd "
-  return
-end
-
-if cmd == "ls"
+if xcmds_starts.any? { |x| cmd.start_with?(x) }
   return
 end
 
