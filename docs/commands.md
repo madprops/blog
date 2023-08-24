@@ -43,7 +43,7 @@ function intercept --on-event fish_postexec
     return
   end
 
-  echo "$cmd\n" >> $xhistory
+  echo "$cmd" >> $xhistory
   awk '!seen[$0]++' $xhistory >$xhistory_tmp && mv $xhistory_tmp $xhistory
   set log_size (count (cat $xhistory))
 
