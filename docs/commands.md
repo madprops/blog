@@ -8,7 +8,7 @@ But that can get annoying sometimes, I wanted something to click.
 
 So here it is:
 
-> Fish Config
+## Fish
 
 First create this file:
 
@@ -57,6 +57,8 @@ Everytime you modify that file you need to source fish again:
 
 `source ~/.config/fish/config.fish`
 
+## awesomewm
+
 Now in `awesomewm` do something similar to this:
 
 ```lua
@@ -92,6 +94,8 @@ function Utils.show_commands()
   Utils.home_bin("commands")
 end
 ```
+
+## Ruby
 
 Now, that runs a ruby file called `commands`:
 
