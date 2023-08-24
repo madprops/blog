@@ -64,6 +64,10 @@ Everytime you modify `config.fish` you need to source it again:
 
 `source ~/.config/fish/config.fish`
 
+I recommend this alias:
+
+`alias sauce="source ~/.config/fish/config.fish"`
+
 ## awesomewm
 
 Now in `awesomewm` do something similar to this:
