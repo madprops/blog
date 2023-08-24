@@ -106,9 +106,9 @@ function Utils.show_commands()
 end
 ```
 
-## Ruby
+This will first focus the client, then run the ruby script called `commands`.
 
-Now, that runs a ruby file called `commands`:
+## Ruby
 
 ```ruby
 #!/usr/bin/env ruby
@@ -141,6 +141,12 @@ You can click or press enter and `xdotool` will write the command on the focused
 Since it's rofi you can also filter it through the keyboard.
 
 It's meant to target terminal emulators.
+
+I suggest saving it as `~/bin/commands`.
+
+Also I suggest adding `~/bin` to the path.
+
+## Image
 
 ![](https://i.imgur.com/ajk8iWQ.jpg)
 
