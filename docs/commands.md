@@ -18,7 +18,7 @@ This is where (some) of the command history will be stored.
 
 Some common irrelevant commands like `ls` and `cd` get ignored.
 
-Then add this to ~/.config/fish/config.fish:
+Then add this to `~/.config/fish/config.fish`:
 
 ```bash
 set xhistory ~/.local/share/fish/xhistory.log
