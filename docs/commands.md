@@ -42,9 +42,8 @@ function intercept --on-event fish_postexec
   end
 
   echo "$argv" >> $xhistory
-  set log_size (count (cat $xhistory))
-
   awk '!seen[$0]++' $xhistory > temp.txt && mv temp.txt $xhistory
+  set log_size (count (cat $xhistory))
 
   while test $log_size -gt $max_xhistory
     sed -i 1d $xhistory
