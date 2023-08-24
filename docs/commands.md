@@ -132,11 +132,11 @@ system("xdotool type '#{cmd}'")
 
 ## Usage
 
-Now when you press a specific button on a specific window, it will show rofi with the latest commands.
+Now when you press a specific button on a specific window, it will show `rofi` with the latest commands.
 
 You can click or press enter and `xdotool` will write the command on the focused window.
 
-Since it's rofi you can also filter it through the keyboard.
+Since it's `rofi` you can also filter it through the keyboard.
 
 It's meant to target terminal emulators.
 
