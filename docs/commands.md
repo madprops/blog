@@ -162,3 +162,15 @@ I suggest saving it as `~/bin/commands`.
 Also I suggest adding `~/bin` to the path.
 
 ![](https://i.imgur.com/ajk8iWQ.jpg)
+
+# Edit
+
+I decided to not use the fish shell approach of recording every command.
+
+I now define commands manually in a text file:
+
+```
+program_1 ; some command
+program_1 ; some command
+program_2 ; some command
+```
