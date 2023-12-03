@@ -266,19 +266,7 @@ While not complicating function calls too much.
 
 ## For Loops
 
-When using classic `for` loops, this is the spacing I use:
-
-```js
-for (let i=0; i<stuff.length-1; i++) {
-  //
-}
-```
-
-Instead of using a lot of spacing, each component is a bit tighter.
-
-This makes it easier to read.
-
-Avoid `forEach`. Use `for of` as much as you can.
+Avoid `forEach`. Use `for of/in` as much as you can.
 
 The latter is more natural and allows normal usage of `continue`, `break`, and `return`.
 
