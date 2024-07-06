@@ -36,6 +36,7 @@ App[`print_${what}`]()
 
 You can do this with global namespaces like `window` but that can get messy.
 
+### EDIT: I now moved to creating classes for each component
 
 ## Imports
 
