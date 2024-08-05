@@ -23,5 +23,3 @@
 1) [DoubleTap](https://github.com/madprops/blog/blob/main/docs/doubletap.md)
 
 1) [Commands](https://github.com/madprops/blog/blob/main/docs/commands.md)
-
-1) [AudioLex](https://github.com/madprops/blog/blob/main/docs/audiolex.md)
