@@ -25,3 +25,5 @@
 1) [Commands](https://github.com/madprops/blog/blob/main/docs/commands.md)
 
 1) [AudioLex](https://github.com/madprops/blog/blob/main/docs/audiolex.md)
+
+1) [Nextwatch](https://github.com/madprops/blog/blob/main/docs/nextwatch.md)
