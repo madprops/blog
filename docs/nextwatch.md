@@ -2,13 +2,13 @@
 
 Habit: Watch tv shows.
 
-Surfacing issue: What was the last episode I watched?
+**Surfacing issue:** What was the last episode I watched?
 
-Possible solution: Tag videos on Dolphin as 'watched'.
+**Possible solution:** Tag videos on Dolphin as 'watched'.
 
-Outcome: It was buggy and slow.
+**Outcome:** It was buggy and slow.
 
-Solution: Python + rofi script.
+**Solution:** Python + rofi script.
 
 ## What does it do?
 
