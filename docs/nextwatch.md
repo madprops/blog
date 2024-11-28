@@ -1,6 +1,6 @@
 # Nextwatch
 
-Habit: Watch tv shows.
+**Habit:** Watch tv shows.
 
 **Surfacing issue:** What was the last episode I watched?
 
