@@ -34,6 +34,8 @@ Filter the episodes.
 
 Pick the first unwatched episode.
 
+The video is launched with your video player.
+
 Enjoy the next minutes of your life.
 
 ---
