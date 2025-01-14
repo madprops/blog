@@ -662,3 +662,26 @@ video / video files
 ```
 
 Basically try to avoid huge directories when you can organize files more neatly when it make sense.
+
+## Linters
+
+I'm now using linters for js and python very heavily.
+
+They catch a lot of mistakes and imperfections.
+
+For `node` what I do is add this to `package.json`:
+
+```
+	"scripts": {
+		"lint":	"eslint --cache -c eslint.config.mjs",
+		"fix": "eslint --fix -c eslint.config.mjs"
+	},
+	"dependencies": {
+		"eslint": "~9.17.0",
+		"globals": "~15.9.0"
+	}
+```
+
+I spent some time researching the rules I want to use, which are defined in `eslint.config.mjs`.
+
+Then I make `check.sh` and `fix.sh` scripts to do the operations.
