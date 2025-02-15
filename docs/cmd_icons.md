@@ -20,7 +20,7 @@ Add icons to commands, so you can instantly recognize them on up arrows:
 
 `: "📚"; ./scripts/makedocs.sh`
 
-(Notice the colons)
+(Notice the colons and semi-colons)
 
 The icons are not part of the command, they do nothing.
 
