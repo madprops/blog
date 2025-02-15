@@ -14,11 +14,11 @@ But for now I thought of a trick that mitigates it somewhat.
 
 Add icons to commands, so you can instantly recognize them on up arrows:
 
-`: "✅"; ./utils/check.sh`
+`: ✅; ./utils/check.sh`
 
-`: "⚡"; ./scripts/tag.py`
+`: ⚡; ./scripts/tag.py`
 
-`: "📚"; ./scripts/makedocs.sh`
+`: 📚; ./scripts/makedocs.sh`
 
 (Notice the colons and semi-colons)
 
