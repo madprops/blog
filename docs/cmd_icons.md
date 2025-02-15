@@ -14,8 +14,6 @@ But for now I thought of a trick that mitigates it somewhat.
 
 Add icons to commands, so you can instantly recognize them on up arrows:
 
-For example:
-
 `: "✅"; ./utils/check.sh`
 
 `: "⚡"; ./scripts/tag.py`
