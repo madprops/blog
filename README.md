@@ -29,3 +29,5 @@
 1) [Nextwatch](https://github.com/madprops/blog/blob/main/docs/nextwatch.md)
 
 1) [ThePlane](https://github.com/madprops/blog/blob/main/docs/plane.md)
+
+1) [CmdIcons](https://github.com/madprops/blog/blob/main/docs/cmd_icons.md)
