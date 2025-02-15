@@ -23,3 +23,5 @@ Add icons to commands, so you can instantly recognize them on up arrows:
 The icons are not part of the command, they do nothing.
 
 But now your vision recognizes the correct item very quickly.
+
+Instead of icons you could use text which you can grep later easily.
