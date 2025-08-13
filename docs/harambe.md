@@ -2,7 +2,9 @@
 
 ---
 
-File hosting platform written in Python and JavaScript.
+### File hosting platform written in Python and JavaScript.
+
+---
 
 Upload form:
 ![](img/harambe/upload.png)
