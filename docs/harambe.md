@@ -4,6 +4,8 @@
 
 ### File hosting platform written in Python and JavaScript.
 
+Check the [repo here](https://github.com/Merkoba/Harambe).
+
 ---
 
 Upload form:
