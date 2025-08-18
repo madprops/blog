@@ -1,6 +1,6 @@
 # Adet
 
-![](img/adet.jpg)
+<img src="img/adet.jpg" width="300px">
 
 At the bottom of sites you'll usually find `about` pages.
 
