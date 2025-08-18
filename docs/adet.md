@@ -1,7 +1,5 @@
 # Adet
 
----
-
 At the bottom of a page you'll find a FAQ.
 
 Everybody knows what a faq is, if you care to read it.
@@ -23,8 +21,6 @@ For instance: `Instead of having a button to suggest videos, users paste the lin
 Which the system then can use to build parsers and other components around that tradition, without having to incorporate much in code.
 
 ## Name
-
----
 
 It needs a nice name, easy and short, like `faq`.
 
