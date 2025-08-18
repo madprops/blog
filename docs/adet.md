@@ -1,5 +1,7 @@
 # Adet
 
+![](img/adet.jpg)
+
 At the bottom of sites you'll usually find `about` pages.
 
 Everybody knows what a `faq` is, if you care to read it.
