@@ -24,9 +24,7 @@ Which the system then can use to build parsers and other components around that 
 
 It needs a nice name, easy and short, like `faq`.
 
-I suggest the word `adet`. It's a turkish word which means something similar to `habit`:
-
-adet: Basically just means "habit" or "the usual way we do stuff".
+I suggest the word `adet`. It's a turkish word:
 
 Adet (noun): A customary practice, established tradition, or habitual behavior that is regularly observed and followed within a particular culture, community, or by an individual. It refers to conventional norms, rituals, or ways of conduct that have become institutionalized through repeated practice over time. The term encompasses both personal habits and collective social customs that are considered standard or expected within a given context, often carrying cultural significance and being passed down through generations as part of traditional practices or social conventions.
 
