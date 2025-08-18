@@ -1,8 +1,8 @@
 # Adet
 
-At the bottom of a page you'll find a FAQ.
+At the bottom of sites you'll usually find `about` pages.
 
-Everybody knows what a faq is, if you care to read it.
+Everybody knows what a `faq` is, if you care to read it.
 
 Another thing some might care to read is the established traditions of the site or community.
 
@@ -43,3 +43,5 @@ I think `adet` is a good word because there's no similar english  word in use ri
 And the document itself is helpful because communities tend to acquire lots of traditions through the years, and I've seen new users getting schooled on how to do things, when they could be put up to speed from the get go.
 
 It's not `rules and guidelines`, it's traditions and patterns.
+
+The point of this blog post is to propose making that kind of document a thing.
