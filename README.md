@@ -33,3 +33,5 @@
 1) [CmdIcons](https://github.com/madprops/blog/blob/main/docs/cmd_icons.md)
 
 1) [Harambe](https://github.com/madprops/blog/blob/main/docs/harambe.md)
+
+1) [Adet](https://github.com/madprops/blog/blob/main/docs/adet.md)
