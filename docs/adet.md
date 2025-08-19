@@ -42,6 +42,6 @@ I think `adet` is a good word because there's no similar english  word in use ri
 
 And the document itself is helpful because communities tend to acquire lots of traditions through the years, and I've seen new users getting schooled on how to do things, when they could be put up to speed from the get go.
 
-It's not `rules and guidelines`, it's traditions and patterns.
+It's not rules and guidelines, it's `traditions and patterns`.
 
 The point of this blog post is to propose making that kind of document a thing.
