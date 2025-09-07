@@ -4,7 +4,7 @@ Sometimes I need to access some data but I don't feel comfortable having it prin
 
 I want to have a way to have the computer/ai have a peek at this data and respond to me only the necesary safe information I request it.
 
-I decided to bake this into my LLM client called Meltdown.
+I decided to bake this into my LLM client called `Meltdown`.
 
 I created a new feature called `Lockets`.
 
