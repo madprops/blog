@@ -32,7 +32,7 @@ To produce results like this:
 
 The code looks something like this:
 
-[](img/lockets/code.png)
+![](img/lockets/code.png)
 
 ---
 
