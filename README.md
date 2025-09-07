@@ -35,3 +35,5 @@
 1) [Harambe](https://github.com/madprops/blog/blob/main/docs/harambe.md)
 
 1) [Adet](https://github.com/madprops/blog/blob/main/docs/adet.md)
+
+1) [Adet](https://github.com/madprops/blog/blob/main/docs/lockets.md)
