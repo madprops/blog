@@ -2,7 +2,7 @@
 
 Sometimes I need to access some data but I don't feel comfortable having it printed anywhere or even visible for a couple of seconds. This can be for several reasons revolving around privacy and personal security.
 
-I want to have a way to have the computer/ai have a peek at this data and respond to me only the necesary safe information I request it.
+I want to have a way to have the computer/ai have a peek at this data and respond to me only the neccessary safe information I request it.
 
 I decided to bake this into my LLM client called `Meltdown`.
 
