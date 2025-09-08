@@ -10,7 +10,7 @@ I created a new feature called `Lockets`.
 
 Lockets are registered at startup through arguments.
 
-For example `--locket name some_command`.
+For example `--locket name some command`.
 
 Multiple lockets can be registered.
 
