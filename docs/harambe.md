@@ -4,8 +4,6 @@
 
 ### File hosting platform written in Python and JavaScript.
 
-Check the [repo here](https://github.com/Merkoba/Harambe) after watching the pics.
-
 ---
 
 Upload form:
@@ -97,7 +95,3 @@ User settings:
 
 Theme selector:
 ![](img/harambe/settings_2.png)
-
----
-
-Check the [repo here](https://github.com/Merkoba/Harambe).
