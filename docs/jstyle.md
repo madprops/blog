@@ -368,30 +368,40 @@ I wrote helper functions to deal with the DOM:
 
 ```js
 // Select a single element
-App.el = (query, root = document) => {
+DOM.el = (query, root = document) => {
+  if (typeof root === `string`) {
+    root = DOM.el(root)
+  }
+
   return root.querySelector(query)
 }
 
-let c = App.el(`#container`)
-
 // Select an array of elements
-App.els = (query, root = document) => {
+DOM.els = (query, root = document) => {
+  if (typeof root === `string`) {
+    root = DOM.el(root)
+  }
+
   return Array.from(root.querySelectorAll(query))
 }
 
-let items = App.els(`.items`)
-
 // Add an event listener
-App.ev = (element, action, callback, extra) => {
-  element.addEventListener(action, callback, extra)
+DOM.ev = (el, event, callback, extra) => {
+  el = DOM.element(el)
+  el.addEventListener(event, callback, extra)
 }
 
-App.ev(App.el(`#canvas`), `click`, () => {
-  //
-})
+// Add multiple event listeners
+DOM.evs = (el, events, callback, extra) => {
+  el = DOM.element(el)
+
+  for (let event of events) {
+    el.addEventListener(event, callback, extra)
+  }
+}
 ```
 
-These might be inside an `utils` or `dom` object.
+You can find the libray [here](https://github.com/madprops/dom).
 
 ## Input
 
