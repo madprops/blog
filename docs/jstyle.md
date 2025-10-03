@@ -448,6 +448,8 @@ I do use specialized helper libraries when needed.
 
 I use `ejs` templates heavily through [Handlebars](https://handlebarsjs.com/).
 
+>(Lately I stopped using Handlebars and now just use raw HTML templates)
+
 They're special files or snippets you can use to generate `html`.
 
 A template can look like this:
