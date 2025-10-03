@@ -35,7 +35,7 @@ Gestures are a nice way to control more things by moving the mouse in certain sh
 
 ## Util Screen
 
-There's a [blog post](https://github.com/madprops/blog/blob/main/util_screen.md) I made about the util screen which drops down a bunch of utils in whatever monitor I choose. To trigger this I programmed my window manager to detect clicks of the DPI button at the top of the screen:
+There's a [blog post](https://github.com/madprops/blog/blob/main/docs/util_screen.md) I made about the util screen which drops down a bunch of utils in whatever monitor I choose. To trigger this I programmed my window manager to detect clicks of the DPI button at the top of the screen:
 
 ```lua
 awful.key({modkey}, "Delete", function()
