@@ -101,6 +101,8 @@ This of course excludes cases where you want to have multiple operations in a si
 
 Like `thing(); other_thing()`. But I decided to avoid doing that.
 
+There are are cases where you DO need semicolons, but that is rare and you'll know when that happens.
+
 ## If Else | Try Catch | Then Catch
 
 Each component is joined, touching, after a linebreak:
