@@ -48,7 +48,7 @@ App.i.fs = require(`fs`)
 App.i.path = require(`path`)
 ```
 
-Now you always now if you're dealing with an import.
+Now you always know if you're dealing with an import.
 
 ## Backticks
 
