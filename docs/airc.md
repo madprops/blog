@@ -68,7 +68,7 @@ All it needs are simple instructions.
 
 ---
 
-Realized having hardcoded instructions or 
+Realized having hardcoded instructions or
 telling it how to act everytime was not flexible/easy enough.
 
 So I decided to add commands to the bots.
@@ -97,7 +97,7 @@ You just do `bot: !ur an angry duck`
 
 It's a shortcut to set the rules to:
 
-`Respond as if you were an angry duck` 
+`Respond as if you were an angry duck`
 
 Or you can use the `!rules` command and set something directly.
 
@@ -117,7 +117,9 @@ Every prompt is standalone, there is no context/history.
 
 This makes the bot cheaper to use. And maybe less confusing.
 
-But sometimes you want some context. 
+Edit: Added context later.
+
+But sometimes you want some context.
 
 So I added a way to reference the previous message.
 
