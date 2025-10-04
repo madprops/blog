@@ -117,7 +117,7 @@ Every prompt is standalone, there is no context/history.
 
 This makes the bot cheaper to use. And maybe less confusing.
 
-Edit: Added context later.
+Edit: Added context later. ^ Actually does the opposite now, it asks a prompt with a fresh history.
 
 But sometimes you want some context.
 
