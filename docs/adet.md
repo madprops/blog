@@ -12,8 +12,6 @@ Instead of learning through experience, observation, or trial and error, common 
 
 For instance "We quote things others said with >".
 
-Or "We don't link dubbed anime videos".
-
 Not a rule listing, just suggestions to take you out of the noob zone quickly.
 
 But also, it can define features that don't have to exist in code, like usage patterns.
