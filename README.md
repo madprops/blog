@@ -40,4 +40,4 @@
 
 1) [FindTheBody](https://madprops.github.io/blog/find_the_body/)
 
-1) [Whatever](https://github.com/madprops/blog/blob/main/docs/whatever.md)
+1) [Whatever](https://madprops.github.io/blog/whatever/)
