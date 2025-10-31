@@ -41,3 +41,5 @@
 1) [FindTheBody](https://madprops.github.io/blog/find_the_body/)
 
 1) [Whatever](https://madprops.github.io/blog/whatever/)
+
+1) [PurplePrison](https://madprops.github.io/blog/purple_prison.md/)
