@@ -47,3 +47,5 @@
 1) [DonnySlowmile](https://madprops.github.io/blog/donny_slowmile/)
 
 1) [Metaballs](https://madprops.github.io/blog/metaballs/)
+
+1) [HydraKicks](https://madprops.github.io/blog/hydra_kicks/)
