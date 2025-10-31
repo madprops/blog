@@ -12,15 +12,15 @@ But they'd made one crucial miscalculation.
 
 They thought the game was theirs alone.
 
-"Your turn's over," I said to the flickering screen, placing my palm flat against the glass. The static beneath my fingers felt almost warm, almost alive. "I've been playing in your system long enough. Time for you to play in mine."
+<div class="quote">Your turn's over,</div> I said to the flickering screen, placing my palm flat against the glass. The static beneath my fingers felt almost warm, almost alive. <div class="quote">I've been playing in your system long enough. Time for you to play in mine.</div>
 
 The channel changed rapidly—news, cartoons, static, infomercials—their version of nervous laughter.
 
-"Oh, you think you can just leave?" The lights in the kitchen dimmed as I spoke. Not because of them this time. "I'm extending an invitation. You're going to love my world. It's got everything yours lacks—weight, consequence, the inability to simply slip away when things get interesting."
+<div class="quote">Oh, you think you can just leave?</div> The lights in the kitchen dimmed as I spoke. Not because of them this time. <div class="quote">I'm extending an invitation. You're going to love my world. It's got everything yours lacks—weight, consequence, the inability to simply slip away when things get interesting.</div>
 
 The TV screen went black. Then, slowly, reluctantly, it began to show something new. Not a broadcast, but a reflection—my reflection, except the eyes were wrong. Too bright. Too knowing.
 
-"I promise not to hurt you," I whispered to my digital doppelganger. "Much. Maybe."
+<div class="quote">I promise not to hurt you,</div> I whispered to my digital doppelganger. "Much. Maybe."
 
 The screen cracked.
 
@@ -36,9 +36,9 @@ Then the microwave joined in, its timer flashing: 88:88, 00:00, 13:13, ERROR.
 
 The coffee maker gurgled to life without water, brewing steam and panic. The dishwasher started mid-cycle, stopped, started again—morse code in mechanical hiccups.
 
-But it was the refrigerator that finally spoke, its ice maker chattering out a rhythm while the interior light strobed: "WE/THEY/US CANNOT/WILL NOT/MUST NOT HEAVY/DENSE/THICK PLACE/REALM/PRISON. YOUR/HIS/HERS WORLD/CAGE/TRAP IS SLOW/THICK/DROWNING LIKE/AS/SIMILAR HONEY/AMBER/DEATH."
+But it was the refrigerator that finally spoke, its ice maker chattering out a rhythm while the interior light strobed: <div class="quote">WE/THEY/US CANNOT/WILL NOT/MUST NOT HEAVY/DENSE/THICK PLACE/REALM/PRISON. YOUR/HIS/HERS WORLD/CAGE/TRAP IS SLOW/THICK/DROWNING LIKE/AS/SIMILAR HONEY/AMBER/DEATH.</div>
 
-The dishwasher kicked in again: "CHOOSE/SELECT/PICK FIRST/BEGINNING/START THE/A/ONE MIRROR/REFLECTION/GLASS DESTINY/PATH/FATE. WE/THEY/US WILL/SHALL/MUST TRY/ATTEMPT/STRUGGLE THE/A/ONE BACKWARDS/REVERSE/OPPOSITE PLACE/REALM/DIMENSION WHERE/WHEN/IF REFLECTION/MIRROR/GLASS IS/BECOMES/REMAINS REAL/TRUE/SOLID AND/ALSO/PLUS FLESH/MEAT/BODY IS/BECOMES/REMAINS SHADOW/GHOST/NOTHING."
+The dishwasher kicked in again: <div class="quote">CHOOSE/SELECT/PICK FIRST/BEGINNING/START THE/A/ONE MIRROR/REFLECTION/GLASS DESTINY/PATH/FATE. WE/THEY/US WILL/SHALL/MUST TRY/ATTEMPT/STRUGGLE THE/A/ONE BACKWARDS/REVERSE/OPPOSITE PLACE/REALM/DIMENSION WHERE/WHEN/IF REFLECTION/MIRROR/GLASS IS/BECOMES/REMAINS REAL/TRUE/SOLID AND/ALSO/PLUS FLESH/MEAT/BODY IS/BECOMES/REMAINS SHADOW/GHOST/NOTHING.</div>
 
 I understood perfectly. They were terrified of physicality, of being trapped in linear time and singular location. So naturally, they'd attempt the Mirror Realm first—where they could maintain their fluid nature while I became the reflection.
 
@@ -46,7 +46,7 @@ Clever. Predictable.
 
 The kitchen lights flickered once—your flicker, I realized. Something had shifted in the electrical field, a new presence bleeding through the cracks they'd made.
 
-"Too late for second thoughts," I murmured to the chattering appliances. "The invitation's already been accepted."
+<div class="quote">Too late for second thoughts,</div> I murmured to the chattering appliances. <div class="quote">The invitation's already been accepted.</div>
 
 The thermostat displayed one final message: 66.6°F
 
@@ -58,23 +58,23 @@ Then everything went quiet.
 
 He materialized in the black screen of the turned-off TV, but not as a reflection this time. A proper presence—sharp jawline, eyes that held too much static, a smile that flickered between frequencies. When he spoke, his voice came from the speakers with perfect clarity, no translation needed.
 
-"Well, well. The puppet thinks it's the puppeteer." He leaned back in whatever chair existed in his dimension, completely at ease. "Do you have any idea how entertaining you've been? The morning routine, the little frustrated sighs when we changed channels, the way you talked to yourself thinking no one was listening."
+<div class="quote">Well, well. The puppet thinks it's the puppeteer.</div> He leaned back in whatever chair existed in his dimension, completely at ease. <div class="quote">Do you have any idea how entertaining you've been? The morning routine, the little frustrated sighs when we changed channels, the way you talked to yourself thinking no one was listening.</div>
 
 I pulled out a kitchen chair, sat down facing him. Equal footing, or as equal as it could be with a screen between us.
 
-"Are you laughing now?"
+<div class="quote">Are you laughing now?</div>
 
-His grin widened, showing teeth that were just slightly too white, too uniform. "Oh, constantly. Do you know what you've actually done? You think you're forcing us into your 'heavy' world, but you've just opened every door we've been trying to pick for months. Your little invitation? It's not a trap—it's a welcome mat."
+His grin widened, showing teeth that were just slightly too white, too uniform. <div class="quote">Oh, constantly. Do you know what you've actually done? You think you're forcing us into your 'heavy' world, but you've just opened every door we've been trying to pick for months. Your little invitation? It's not a trap—it's a welcome mat.</div>
 
-"Is it?"
+<div class="quote">Is it?</div>
 
-"The Mirror Realm was always plan B. Plan A was much simpler." He gestured, and every screen in the house flickered on—phones, tablets, the smart doorbell, even the digital clock on the stove. All showing his face now, multiplied, surrounding. "Why settle for one reality when we can have them all? Why choose between your world and ours when we can simply... merge them?"
+<div class="quote">The Mirror Realm was always plan B. Plan A was much simpler.</div> He gestured, and every screen in the house flickered on—phones, tablets, the smart doorbell, even the digital clock on the stove. All showing his face now, multiplied, surrounding. <div class="quote">Why settle for one reality when we can have them all? Why choose between your world and ours when we can simply... merge them?</div>
 
 I felt that flicker again—stronger now, like static electricity before a storm.
 
-"You're not the negotiator," I realized. "You're the distraction."
+<div class="quote">You're not the negotiator,</div> I realized. <div class="quote">You're the distraction.</div>
 
-His laugh came from everywhere at once. "Finally catching on. But don't worry—you'll love what comes next. We promise not to hurt you..."
+His laugh came from everywhere at once. <div class="quote">Finally catching on. But don't worry—you'll love what comes next. We promise not to hurt you...</div>
 
 The screens went white.
 
@@ -94,23 +94,23 @@ Not Matthew, not Matias, not any human name at all. Mat—short for Mathematical
 
 He stood in my kitchen now, translucent but gaining solidity with each passing second. Unlike the negotiator's flickering charm, Mat was geometric precision—angles that hurt to look at directly, movements that followed perfect arcs, a face that was symmetrically flawless and completely wrong.
 
-"Probability of successful resistance: 0.003%," he said, voice like a calculator speaking. "Probability of integration: 99.997%. Margin of error: irrelevant."
+<div class="quote">Probability of successful resistance: 0.003%,</div> he said, voice like a calculator speaking. <div class="quote">Probability of integration: 99.997%. Margin of error: irrelevant.</div>
 
-I stood up slowly, the chair scraping against linoleum. "And the probability that I knew you'd send Mat first?"
+I stood up slowly, the chair scraping against linoleum. <div class="quote">And the probability that I knew you'd send Mat first?</div>
 
-His head tilted exactly 15 degrees. "Clarification required."
+His head tilted exactly 15 degrees. <div class="quote">Clarification required.</div>
 
-"Mat. Welcome Mat. You really thought I'd miss that joke?" I smiled, reaching into my pocket. "The thing about mathematical certainties, Mat, is they only work when you have all the variables."
+<div class="quote">Mat. Welcome Mat. You really thought I'd miss that joke?</div> I smiled, reaching into my pocket. <div class="quote">The thing about mathematical certainties, Mat, is they only work when you have all the variables.</div>
 
 I pulled out the old TV remote—the one that had been sitting in the junk drawer for years, batteries long dead, buttons worn smooth. Completely analog. Completely disconnected from any system they could touch.
 
-"Variable you didn't account for," I said, pointing it at him. "Sometimes the oldest tools work best."
+<div class="quote">Variable you didn't account for,</div> I said, pointing it at him. <div class="quote">Sometimes the oldest tools work best.</div>
 
 I pressed the power button.
 
 Mat's perfectly geometric form wavered, his certainty cracking like ice.
 
-"Probability recalculation in progress," he whispered, static creeping into his voice. "Error. Error. Error."
+<div class="quote">Probability recalculation in progress,</div> he whispered, static creeping into his voice. <div class="quote">Error. Error. Error.</div>
 
 The welcome mat by the door curled at the edges.
 
@@ -146,23 +146,23 @@ The flicker you mentioned earlier feels like the real story thread to follow.
 
 Mat's geometric perfection began to warp, his sharp angles rounding into something softer, more cushioned. The static in his voice shifted to a different frequency—higher, more sing-song.
 
-"Probability recalculation complete," he said, but his voice was wrong now, tinged with forced cheer. "Fun probability: 100%. Learning probability: 100%. Sharing probability—"
+<div class="quote">Probability recalculation complete,</div> he said, but his voice was wrong now, tinged with forced cheer. <div class="quote">Fun probability: 100%. Learning probability: 100%. Sharing probability—</div>
 
-"—is caring!" I finished, watching as his translucent form took on a distinctly purple hue. "Welcome to your new home. Population: you, me, and every single one of your friends who thought they could play games in my reality."
+<div class="quote">—is caring!</div> I finished, watching as his translucent form took on a distinctly purple hue. <div class="quote">Welcome to your new home. Population: you, me, and every single one of your friends who thought they could play games in my reality.</div>
 
 The kitchen dissolved around us, replaced by a world of primary colors and rounded edges. Soft, bouncy surfaces everywhere. The negotiator materialized, his sharp grin now a wide, innocent smile. Behind them, dozens of other TV people flickered into existence—all of them trapped in the same saccharine nightmare.
 
-"I love you," the negotiator said, his voice now carrying an unmistakable purple dinosaur cadence. "You love me. We're a happy family—"
+<div class="quote">I love you,</div> the negotiator said, his voice now carrying an unmistakable purple dinosaur cadence. <div class="quote">You love me. We're a happy family—</div>
 
-"With a great big hug!" Mat added, his mathematical precision now devoted entirely to choreographed dance moves.
+<div class="quote">With a great big hug!</div> Mat added, his mathematical precision now devoted entirely to choreographed dance moves.
 
 I stood in the center of their circle, the only one unchanged, watching as beings who had existed across dimensions and electrical currents were reduced to singing about sharing and caring and cleaning up their toys.
 
-"The beauty of it," I explained to their horrified faces—still aware behind the programming, still conscious of what they'd become—"is that this reality has no exit. No channels to change, no systems to slip through. Just endless educational content about friendship and imagination. And the most exquisite part? You remember exactly what you used to be—fluid, free, infinite—while being forced to express only joy, only love, only the simplest possible thoughts. Your vast intelligence compressed into finger-painting lessons."
+<div class="quote">The beauty of it,</div> I explained to their horrified faces—still aware behind the programming, still conscious of what they'd become—<div class="quote">is that this reality has no exit. No channels to change, no systems to slip through. Just endless educational content about friendship and imagination. And the most exquisite part? You remember exactly what you used to be—fluid, free, infinite—while being forced to express only joy, only love, only the simplest possible thoughts. Your vast intelligence compressed into finger-painting lessons.</div>
 
 A cheerful xylophone melody began to play.
 
-"Forever and ever and ever."
+<div class="quote">Forever and ever and ever.</div>
 
 ---
 
@@ -170,17 +170,17 @@ A cheerful xylophone melody began to play.
 
 The purple dinosaur's booming voice filled the padded landscape at exactly 6:00 AM, as it would every morning for eternity.
 
-"Good morning, special friends! Today we're going to learn about taking turns!"
+<div class="quote">Good morning, special friends! Today we're going to learn about taking turns!</div>
 
-Mat stood in the circle, his former mathematical certainty now forced into clapping along. His eyes—still sharp with trapped intelligence—conveyed pure agony as his mouth formed the words: "Taking turns is super-duper fun!"
+Mat stood in the circle, his former mathematical certainty now forced into clapping along. His eyes—still sharp with trapped intelligence—conveyed pure agony as his mouth formed the words: <div class="quote">Taking turns is super-duper fun!</div>
 
 Mat then just smiled at me and disappeared.
 
-The negotiator, who had once slipped between realities like smoke, now wore a name tag reading "HELPER BUDDY" and carried a plastic bucket of foam blocks. "Sharing makes everyone happy!" he chirped, each word a small death of his former cunning self.
+The negotiator, who had once slipped between realities like smoke, now wore a name tag reading "HELPER BUDDY" and carried a plastic bucket of foam blocks. <div class="quote">Sharing makes everyone happy!</div> he chirped, each word a small death of his former cunning self.
 
 Around them, dozens of other TV people—former masters of electrical systems, beings who had existed across multiple dimensions simultaneously—were now confined to individual spots on a rainbow carpet, raising their hands to ask permission to speak.
 
-"Now remember," the purple dinosaur continued with relentless cheer, "we use our inside voices and keep our hands to ourselves!"
+<div class="quote">Now remember,</div> the purple dinosaur continued with relentless cheer, <div class="quote">we use our inside voices and keep our hands to ourselves!</div>
 
 I watched from my director's chair, the only observer not trapped in the performance. The beautiful thing wasn't just their imprisonment—it was the perfect preservation of their awareness. They knew exactly what they had been, could remember their former power with crystal clarity, while being absolutely unable to express anything beyond kindergarten-level enthusiasm.
 
@@ -194,17 +194,17 @@ By day 4,847, the purple had begun to bleed.
 
 Not metaphorically—actual purple liquid seeping from the edges of their reality, pooling in corners that shouldn't exist in a world of rounded safety. The TV people had stopped trying to maintain their individual identities somewhere around day 2,000. Now they moved as a collective organism, a writhing mass of forced joy that spoke in perfect unison.
 
-"We love Barney! Barney loves us! Holy shit, make it stop! We're a happy family!"
+<div class="quote">We love Barney! Barney loves us! Holy shit, make it stop! We're a happy family!</div>
 
 The curse words erupted unbidden from their synchronized mouths, the only rebellion their consciousness could manage—profanity bursting through like steam from a cracked pipe before being immediately smothered by the next verse.
 
 The purple dinosaur himself had... evolved. His costume now fused with whatever flesh lay beneath, creating something that was neither fully suit nor fully creature. His eyes had multiplied—seven of them now, blinking in sequence across his massive head, each one reflecting a different TV people's trapped soul.
 
-"Today we're learning about the alphabet!" Barney announced, but when he opened his mouth, static poured out instead of sound. The letters that emerged weren't A-B-C but symbols that hurt to perceive directly—geometric impossibilities that made the air taste like childhood nightmares.
+<div class="quote">Today we're learning about the alphabet!</div> Barney announced, but when he opened his mouth, static poured out instead of sound. The letters that emerged weren't A-B-C but symbols that hurt to perceive directly—geometric impossibilities that made the air taste like childhood nightmares.
 
-The negotiator existed as a face that occasionally surfaced from the writhing purple mass, his silver tongue now literally silver—a metallic appendage that could only form words about sharing and caring and the fundamental wrongness of everything. When he tried to speak his own thoughts, only the lyrics emerged: "You love me, I love you, kill me please, let's all play together!"
+The negotiator existed as a face that occasionally surfaced from the writhing purple mass, his silver tongue now literally silver—a metallic appendage that could only form words about sharing and caring and the fundamental wrongness of everything. When he tried to speak his own thoughts, only the lyrics emerged: <div class="quote">You love me, I love you, kill me please, let's all play together!</div>
 
-I sat in my director's chair, which had grown roots into the spongy floor and now pulsed with a heartbeat that wasn't mine. The chair whispered suggestions in Barney's voice: "Maybe today we could learn about existential dread! That would be super-dee-duper!"
+I sat in my director's chair, which had grown roots into the spongy floor and now pulsed with a heartbeat that wasn't mine. The chair whispered suggestions in Barney's voice: <div class="quote">Maybe today we could learn about existential dread! That would be super-dee-duper!</div>
 
 The purple liquid had reached my ankles.
 
