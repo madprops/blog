@@ -44,4 +44,4 @@
 
 1) [PurplePrison](https://madprops.github.io/blog/purple_prison/)
 
-1) [DonnySlowmile](https://nextcaller.neocities.org/donny-slomile/)
+1) [DonnySlowmile](https://madprops.github.io/blog/donny_slowmile/)
