@@ -51,3 +51,5 @@
 1) [HydraKicks](https://madprops.github.io/blog/hydra_kicks/)
 
 1) [SanLorenzo](https://madprops.github.io/blog/san_lorenzo/)
+
+1) [TheShift](https://madprops.github.io/blog/the_shift/)
