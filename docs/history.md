@@ -112,7 +112,7 @@ for ts, cmd, cwd in unique:
     elif diff < 86400: ago = f"{int(diff/3600)}h ago"
     else: ago = f"{int(diff/86400)}d ago"
 
-    print(f"({ago}) {cmd} \033[90m({cwd})\033[0m")
+    print(f"\033[36m({ago})\033[0m {cmd} \033[90m({cwd})\033[0m")
 '
 end
 
