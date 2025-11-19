@@ -7,7 +7,7 @@ This is what needed to be done:
 1) The commands will be saved with the unix timestamp and the current working directory.
 This is to use with grep-like commands later, since the context is useful.
 
-1) A new function is to be made to display the contents of this file with an optional grep argument. It wil use the timestamps to show relative times like "2 months ago". Because I personally avoid any visible exact date string due to privacy reasons, and the relative format is easier to understand anyway.
+1) A new function is to be made to display the contents of this file with an optional grep argument. It wil use the timestamps to show relative times like "2 months ago". Because I personally avoid any visible exact date string due to privacy reasons, and the relative format is easier to understand anyway. The newer items appear at the bottom, to avoid having to scroll or using `head`.
 
 1) All terminals will read and write using this file, it's not like the default behavior of using history data per session, that's very annoying.
 
