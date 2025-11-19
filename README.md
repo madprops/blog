@@ -53,3 +53,5 @@
 1) [SanLorenzo](https://madprops.github.io/blog/san_lorenzo/)
 
 1) [TheShift](https://madprops.github.io/blog/the_shift/)
+
+1) [Sonets](https://github.com/madprops/blog/blob/main/docs/sonets.md)
