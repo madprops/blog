@@ -165,3 +165,7 @@ bind \e\[B fishy_down
 bind up fishy_up
 bind down fishy_down
 ```
+
+---
+
+As an additional note, I tried the new Gemini 3 to work on this and it worked wonderfully. It did things correctly where other models failed. Interestingly it was the only model that considered using python strings for advanced operations.
