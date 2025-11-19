@@ -55,3 +55,5 @@
 1) [TheShift](https://madprops.github.io/blog/the_shift/)
 
 1) [Sonets](https://github.com/madprops/blog/blob/main/docs/sonets.md)
+
+1) [History](https://github.com/madprops/blog/blob/main/docs/history.md)
