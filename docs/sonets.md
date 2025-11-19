@@ -40,7 +40,7 @@ None of this uses network, it's all system randomness, you can use it offline.
 
 You place and tile them manually using your window manager however you want.
 
-Then set the the speeds of each, and just let them run, in some monitor or virtual desktop.
+Then set the speeds of each, and just let them run, in some monitor or virtual desktop.
 
 Why? It might make you more crazy, and that might be a good thing.
 
