@@ -13,7 +13,7 @@ This is to use with grep-like commands later, since the context is useful.
 
 1) The up/down arrow functionality will now use this new history file.
 
---
+---
 
 Add this to your fish config file:
 
