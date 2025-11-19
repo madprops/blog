@@ -21,7 +21,7 @@ Add this to your fish config file:
 function log_command --on-event fish_preexec
   set -l command (string join " " -- $argv)
   set -l first_word (string split -n -m 1 " " -- $command)[1]
-  if contains -- $first_word fh ls cd
+  if contains -- $first_word h ls cd
       return
   end
 
@@ -39,7 +39,7 @@ function log_command --on-event fish_preexec
   set -e _fishy_history_index
 end
 
-function fh
+function h
   set -l history_file ~/.config/fish/fishy_history.txt
   set -l filter (string join " " -- $argv)
 
@@ -48,17 +48,21 @@ function fh
     return 1
   end
 
+  set -x FH_FILTER "$filter"
+
   if test -n "$filter"
-    grep -i -- "$filter" $history_file
+    cat $history_file
   else
     tail -n 1000 $history_file
   end | python -c '
-import sys, time, re
+import sys, time, re, os
 now = time.time()
+filter_term = os.environ.get("FH_FILTER", "").lower()
 
 def parse_line(line):
     line = line.strip()
     if not line: return None
+
     try:
         if "|" in line and line.count("|") >= 2:
             rest, cwd = line.rsplit("|", 1)
@@ -68,20 +72,28 @@ def parse_line(line):
             if not m: return None
             ts_str, cwd, cmd = m.groups()
             cwd, cmd = cwd.strip(), cmd.strip()
+
         return float(ts_str), cmd, cwd
     except: return None
 
 lines = sys.stdin.readlines()
 parsed = []
+
 for line in lines:
     p = parse_line(line)
-    if p: parsed.append(p)
+
+    if p:
+        if filter_term and filter_term not in p[1].lower():
+            continue
+        parsed.append(p)
 
 # Deduplicate keeping latest
 seen = set()
 unique = []
+
 for item in reversed(parsed):
     cmd = item[1]
+
     if cmd not in seen:
         seen.add(cmd)
         unique.append(item)
