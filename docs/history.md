@@ -105,6 +105,7 @@ for item in reversed(parsed):
 
 # Take last 20 (which are first 20 in reversed list)
 unique = unique[:20]
+
 # Reverse back to chronological order
 unique.reverse()
 
@@ -149,6 +150,7 @@ for line in reversed(lines):
   end
 
   set -l count (count $_fishy_history_cache)
+
   if test $count -eq 0
     return
   end
