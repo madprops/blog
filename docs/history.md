@@ -25,6 +25,7 @@ Add this to your fish config file:
 function log_command --on-event fish_preexec
   set -l command (string join " " -- $argv)
   set -l first_word (string split -n -m 1 " " -- $command)[1]
+
   if contains -- $first_word h ls cd
       return
   end
