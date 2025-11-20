@@ -15,6 +15,10 @@ This is to use with grep-like commands later, since the context is useful.
 
 ---
 
+![](img/history.jpg)
+
+---
+
 Add this to your fish config file:
 
 ```fish
