@@ -242,6 +242,8 @@ Duration: 5 seconds
 
 Effect: Left and right controls are inversed
 
+---
+
 ### Slow
 
 Icon: 🥶
@@ -250,6 +252,8 @@ Duration: 5 seconds
 
 Effect: Decreases movement speed
 
+---
+
 ### Burning
 
 Icon: 🔥
@@ -257,6 +261,8 @@ Icon: 🔥
 Duration: 1 second
 
 Effect: 1 hit from the burning weapon every 200ms
+
+---
 
 ### Skull
 
