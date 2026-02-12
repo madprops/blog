@@ -293,6 +293,10 @@ Max: 1.8
 
 Upgrade: 0.1
 
+Boost: 0.7
+
+Booster: 5 seconds approx
+
 ---
 
 ### Laser
