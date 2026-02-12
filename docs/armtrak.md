@@ -7,6 +7,7 @@ You are going to be told about a game, and a machine that turns intention into l
 ## Index
 1. [The Interface](#interface)
 1. [Lasers](#lasers)
+1. [Effects](#effects)
 1. [Icons](#icons)
 1. [The Game](#game)
 1. [The Real Game](#realgame)
@@ -68,7 +69,7 @@ On laser upgrades, the laser given to a player is random, it can be any one from
 
 There are 4 warps that appear randomly on the map every certain amount of minutes. They can be used or destroyed. On every iteration they are replaced and renewed. When used, they act as portals that move the ship to a certain location on the map. When destroyed they stop working as portals, and instead reflect lasers shot at them.
 
-When players reach a certain kill streak (like destroying 10 players without dying), they get to be the Skull. They get a certain icon status and a special laser. Players stop being the skull when they are destroyed.
+When players reach a certain kill streak (like destroying 10 players without dying), they get to be the Skull. They get a certain icon status and a special laser. Players stop being the skull when they are destroyed. The skull can't enter the safe zone.
 
 When ships are destroyed they are resetted to the initial stats.
 
@@ -168,13 +169,13 @@ Units: 2 | Damage: 12 | Bidirectional
 
 Temporarily slows down enemies.
 
-Units: 1 | Damage: 12 | Effect: Freeze
+Units: 1 | Damage: 12 | Effect: Slow
 
 ![](img/lasers/laser_freeze.png)
 
 ### Confusion
 
-Temporarily switches the direction of left and right controls for the enemy. Left becomes right, and right becomes left. When a warp is destroyed while carrying this laser, it becomes hostile and causes players to explode when touching it. This laser changes color automatically as it moves.
+Temporarily switches the direction of the left and right controls for the enemy. Left becomes right, and right becomes left. When a warp is destroyed while carrying this laser, it becomes hostile and causes players to explode when touching it. This laser changes color automatically as it moves.
 
 Units: 1 | Damage: 12 | Effect: Confusion
 
@@ -228,6 +229,40 @@ Units: 3 | Damage: 80 | End Game
 
 ![](img/lasers/laser_skull.png)
 
+## Effects <a name="icons"></a>
+
+### Confused
+
+Icon: 🤡
+
+Duration: 5 seconds
+
+Effect: Left and right controls are inversed
+
+### Slow
+
+Icon: 🥶
+
+Duration: 5 seconds
+
+Effect: Decreases movement speed
+
+### Burning
+
+Icon: 🔥
+
+Duration: 1 second
+
+Effect: 1 hit from the burning weapon every 200ms
+
+### Skull
+
+Icon: 💀
+
+Duration: Until death
+
+Effect: Skull Laser
+
 ## Icons <a name="icons"></a>
 
 Low Health 😰
@@ -238,7 +273,7 @@ Confusion 🤡
 
 Burn 🔥
 
-Freeze 🥶
+Slow 🥶
 
 Skull 💀
 
