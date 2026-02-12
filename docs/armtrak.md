@@ -86,6 +86,8 @@ When on low health, players can keep Enter pressed to self-destruct.
 
 On self-destruct, players explode and cause area of effect damage to other nearby players.
 
+Effects show as icons next to player names, like confusion, freeze, and burn.
+
 ## Lasers
 
 ### Single
@@ -215,6 +217,20 @@ The laser given to players that have the skull status. Three lasers. One in the 
 Damage: 80
 
 ![](img/lasers/laser_skull.png)
+
+## Icons
+
+Skull 💀
+
+Low Health 😰
+
+Self-Destruct 🤯
+
+Confusion 🤡
+
+Burn 🔥
+
+Freeze 🥶
 
 ## The Game
 
