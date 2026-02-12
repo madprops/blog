@@ -195,3 +195,7 @@ On top of the game, an AI system reads every input, action, interaction, outcome
 ## The Tool (Theory)
 
 Quantum physics might make intention an actionable force on the state of reality. Focusing on symbolic actions, involving the travel through imagery, and other manifestations from the player, can create focus and energy that exerts a change in your life at some point in time, or at some other level, if your being exists as a fractal or spiral. You could  then use this as a way to produce positive changes in your life, through movement, actions, and transitions, to make it more exciting, or even survive.
+
+## The Commander (Theory)
+
+This can be used in a multi-node organism where each component of the self gets to exert their vote on what is to happen next. It allows autonomous control that suggests a will towards certain places, and combat decisions.
