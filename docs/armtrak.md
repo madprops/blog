@@ -110,7 +110,7 @@ The available lasers include:
 
 ![](img/lasers/laser_big.png)
 
-**Ripple**. Animated. Two lasers that move in an axis (up/down).
+**Ripple**: Animated. Two lasers that move in an axis (up/down).
 
 ![](img/lasers/laser_ripple.png)
 
