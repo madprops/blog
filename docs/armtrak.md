@@ -220,8 +220,6 @@ Damage: 80
 
 ## Icons
 
-Skull 💀
-
 Low Health 😰
 
 Self-Destruct 🤯
@@ -231,6 +229,8 @@ Confusion 🤡
 Burn 🔥
 
 Freeze 🥶
+
+Skull 💀
 
 ## The Game
 
