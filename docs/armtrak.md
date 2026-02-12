@@ -78,6 +78,10 @@ The opacity of the images can be changed from 0% opacity to 100% opacity. More t
 
 There are 3 views, map | minimap | full.
 
+When on low health, players can keep Enter pressed to self-destruct.
+
+On self-destruct, players explode and cause area of effect damage to other nearby players.
+
 ### Lasers
 
 The available lasers include:
