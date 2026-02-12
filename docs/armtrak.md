@@ -14,6 +14,7 @@
 1. [The Tool](#tool)
 1. [The Commander](#commander)
 1. [The Telephone](#telephone)
+1. [The Circus](#circus)
 
 ---
 
@@ -399,9 +400,11 @@ Just type afk to toggle it.
 
 The admin has more commands to configure search engines and player administration.
 
-They have the ability to enable the laser picker to any player.
+They have the ability to enable the laser picker for any player.
 
 Or to give them a specific laser, at any time.
+
+They can also turn any player into the Skull instantly.
 
 ---
 
@@ -426,3 +429,9 @@ This can be used in a multi-node organism where each component of the self gets 
 ## 🛸 The Telephone (Theory) <a name="telephone"></a>
 
 The interface and game can work as a communication system for those that desire a less direct, and different, way to be contacted. For instance, the player can rest somewhere in the map by AFK'ing in a certain spot. When other players join they can shoot lasers and use the text chat to try to get the player's attention. The player can then choose to reveal itself through text or by becoming visible and engaging with the other players, through movement and attacks. Communication can happen visually through image uploads and music, instead of relying exclusively on text.
+
+---
+
+## The Circus (Theory) <a name="circus"></a>
+
+Since admins have the ability to give any player the ability to pick a laser, or give them a specific laser, or turn them into a Skull, it can turn the game into a space where a central player has the role of blessing other players to change the balance of the game, or to watch them fight in a certain way. This creates an element where a conscious being has direct and invisible effect on the game, either by individual will or a crowdfunded sentiment.
