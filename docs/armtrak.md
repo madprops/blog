@@ -86,10 +86,6 @@ On self-destruct, players explode and cause area of effect damage to other nearb
 
 The available lasers include:
 
-**Charge**: Hold the fire button for some time and release. This can insta-kill unless players have a health upgrade. All players have this available at any time. Used for precision one-shot kills, similar to sniping. Meant to be used often.
-
-![](img/lasers/laser_charge.png)
-
 **Single**: One laser. The weakest weapon. Not the default one, as this is actually given as a punishment for entering the safe zone when damaged.
 
 ![](img/lasers/laser_single.png)
@@ -145,6 +141,10 @@ The available lasers include:
 **Mines**: Balls that are left on the player's trail as they move, placed on the map, unmoved. Many can be placed at the same time and they disappear automatically after a certain time. When enemies touch a mine they explode. The mines can be destroyed as well.
 
 ![](img/lasers/laser_mines.png)
+
+**Charge**: The secondary attack that is achieved by holding the fire button for some time. This can insta-kill unless players have a health upgrade. All players have this available at any time. Used for precision one-shot kills, similar to sniping. Meant to be used often.
+
+![](img/lasers/laser_charge.png)
 
 **Skull**: The laser given to players that have the skull status. Three lasers. One in the middle, one one the left with an angle, and another one on the right, angled. Each hit does a high amount of damage.
 
