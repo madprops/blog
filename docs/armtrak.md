@@ -8,7 +8,7 @@
 1. [The Real Game](#realgame)
 1. [Lasers](#lasers)
 1. [Effects](#effects)
-1. [Attributes](#attributes)
+1. [Specs](#specs)
 1. [Commands](#commands)
 1. [The Synthesizer](#synth)
 1. [The Tool](#tool)
@@ -335,7 +335,7 @@ Effect: Skull Laser
 
 ---
 
-## 🛸 Attributes <a name="attributes"></a>
+## 🛸 Specs <a name="specs"></a>
 
 ### Health
 
