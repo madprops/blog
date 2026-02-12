@@ -1,7 +1,5 @@
 # Armtrak
 
-You are going to be told about a game, and a machine that turns intention into livable experiences.
-
 ![](img/armtrak.png)
 
 ## Index
