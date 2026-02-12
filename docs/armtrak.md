@@ -102,7 +102,7 @@ Damage: 12
 
 **Triple**: Three lasers in a single line. Faster speed than usual. Like a triple shot.
 
-Damage: 12
+Damage: 12 | Faster
 
 ![](img/lasers/laser_triple.png)
 
@@ -150,19 +150,19 @@ Damage: 12
 
 **Flame**: A constant flame-thrower that causes burn damage. It can be stacked to make it stronger.
 
-Damage: 7
+Damage: 7 | Melee | Burn
 
 ![](img/lasers/laser_flame.png)
 
 **Blade**: A close distance melee weapon with three cores, that causes the ship to rotate and hit enemies with a blade if they come in contact, causing burn damage.
 
-Damage: 7
+Damage: 7 | Melee | Burn
 
 ![](img/lasers/laser_blade.png)
 
 **Spores**: Three lasers that move and disperse randomly. They can go through warps and appear elsewhere on the map.
 
-Damage: 12
+Damage: 12 | Faster
 
 ![](img/lasers/laser_spores.png)
 
