@@ -8,7 +8,7 @@ You are going to be told about a game, and a machine that turns intention into l
 
 A 2D map, around 3000x3000 pixels.
 
-The theme is space. Stars, space ships.
+The theme is space, stars, ships.
 
 Local or remote images are placed on the map.
 
