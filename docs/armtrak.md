@@ -62,6 +62,16 @@ The boost regenerates automatically.
 
 When boosting, ships have a chance of reflecting attacks thrown at them.
 
+There are 19 ship models that players can select any time. This is just how the ships look.
+
+There is an image viewer to quickly see the uploaded images without having to travel to them.
+
+There is a minimap that shows the location of other ships, images, safe zone, and warps.
+
+It's possible to drag the map and minimap with the mouse to inspect how zones look without having to travel to them.
+
+It's also possible to zoom in or out, to change how you view the map.
+
 ### Lasers
 
 The available lasers include:
