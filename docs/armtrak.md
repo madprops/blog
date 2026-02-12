@@ -134,7 +134,7 @@ The local chat feature allows more private communication with other players that
 
 The spores being able to go through warps can be said to mean that spores can travel through time.
 
-The 7 stages of the safe zone can define eras or stages.
+The 7 stages of the safe zone can define eras or states.
 
 ### The Synthesizer
 
@@ -146,4 +146,4 @@ This combines the ability of modern AIs to interpret symbols, and their ability 
 
 Quantum physics might make intention an actionable force on the state of reality. Focusing on symbolic actions, involving the travel through imagery and others can create focus and energy that exerts a change in your life at some point in time, or at some other level, if your being exists as a fractal or spiral. Or it can affect other beings related to you, or relevant to you.
 
-You could  then use this as a way to produce positive change to your life, through movement and context switches, to make it more exciting or even survive.
+You could  then use this as a way to produce positive change in your life, through movement and context switches, to make it more exciting or even survive.
