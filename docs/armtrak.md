@@ -6,11 +6,12 @@ You are going to be told about a game, and a machine that turns intention into l
 
 ## Index
 1. [The Interface](#interface)
+1. [The Game](#game)
+1. [The Real Game](#realgame)
 1. [Lasers](#lasers)
 1. [Effects](#effects)
 1. [Stats](#stats)
-1. [The Game](#game)
-1. [The Real Game](#realgame)
+1. [Commands](#commands)
 1. [The Synthesizer](#synth)
 1. [The Tool](#tool)
 1. [The Commander](#commander)
@@ -105,6 +106,50 @@ When players activate self-destruct, the player shows 🤯 and it can't be cance
 Effects show as icons next to player names, like confusion, freeze, and burn.
 
 Instead of displaying the exact health, ships show 😰 when at 30% health or under.
+
+---
+
+## The Game <a name="game"></a>
+
+Players move through space and imagery, replacing the images with their own as they see fit.
+
+Players fight each other with the different kinds of lasers.
+
+Some player gets to be dominant and becomes the skull, the other players try to take them down.
+
+They chat among each other globally or more privately in local chat.
+
+They change the music to make the current battles more exciting.
+
+They move through warps, appearing at different parts of the map.
+
+They go to the safe zone to escape danger, to regen, or as a form of AFK.
+
+Players upgrade their health, speed, and lasers as they destroy other ships.
+
+The objectives of the game being: a climb towards skull, taking down skulls, expression through image placement, and chat interactions.
+
+Another objective can be attempting to  destroy the 4 warps before they disappear.
+
+---
+
+## The Real Game <a name="realgame"></a>
+
+When using imagination and personal interpretation, the elements and mechanics available in the game allows us to play in different ways.
+
+For instance, warps appear randomly in certain areas, and they have an exit coordinate. This can be interpreted as a trigger related to certain images, and time travel. A warp could appear next to the image of a volcano, with an exit coordinate of 2012, 1938. You could interpret this as you entered a volcano in the year 2012, with an exit tunnel to the year 1938.
+
+Images can be anywhere on the map, they can be of any nature, which can be interpreted in a personal or not so personal way by players. Each image can be its own situation, world, context, ambient, challenge, hideout.
+
+Deciding to go AFK on top of a certain image can have meaning to players. They might decide they want to live inside that kind of world for a while.
+
+The local chat feature allows more private communication with other players that decided to also AFK in that spot, allowing shared experiences and the discovery of secret areas.
+
+The spores being able to go through warps can be said to mean that spores can travel through time.
+
+The 7 stages of the safe zone can define eras or states.
+
+Sudden warps appearing in the middle of tough situations can be considered as lucky escape points.
 
 ---
 
@@ -318,47 +363,35 @@ Upgrade: Random (except Single, Charge, and Skull)
 
 ---
 
-## The Game <a name="game"></a>
+## Commands <a name="commands"></a>
 
-Players move through space and imagery, replacing the images with their own as they see fit.
+### Image Change
 
-Players fight each other with the different kinds of lasers.
+img [search term]
 
-Some player gets to be dominant and becomes the skull, the other players try to take them down.
-
-They chat among each other globally or more privately in local chat.
-
-They change the music to make the current battles more exciting.
-
-They move through warps, appearing at different parts of the map.
-
-They go to the safe zone to escape danger, to regen, or as a form of AFK.
-
-Players upgrade their health, speed, and lasers as they destroy other ships.
-
-The objectives of the game being: a climb towards skull, taking down skulls, expression through image placement, and chat interactions.
-
-Another objective can be attempting to  destroy the 4 warps before they disappear.
+This uses the configured search engine to fetch an image.
 
 ---
 
-## The Real Game <a name="realgame"></a>
+## Music Change
 
-When using imagination and personal interpretation, the elements and mechanics available in the game allows us to play in different ways.
+yt [search term]
 
-For instance, warps appear randomly in certain areas, and they have an exit coordinate. This can be interpreted as a trigger related to certain images, and time travel. A warp could appear next to the image of a volcano, with an exit coordinate of 2012, 1938. You could interpret this as you entered a volcano in the year 2012, with an exit tunnel to the year 1938.
+This is uses YouTube to fetch a video to use as the audio.
 
-Images can be anywhere on the map, they can be of any nature, which can be interpreted in a personal or not so personal way by players. Each image can be its own situation, world, context, ambient, challenge, hideout.
+---
 
-Deciding to go AFK on top of a certain image can have meaning to players. They might decide they want to live inside that kind of world for a while.
+## Away From Keyboard
 
-The local chat feature allows more private communication with other players that decided to also AFK in that spot, allowing shared experiences and the discovery of secret areas.
+Just type afk to toggle it.
 
-The spores being able to go through warps can be said to mean that spores can travel through time.
+---
 
-The 7 stages of the safe zone can define eras or states.
+The admin has more commands to configure search engines and player administration.
 
-Sudden warps appearing in the middle of tough situations can be considered as lucky escape points.
+They have the ability to enable the laser picker to any player.
+
+Or to give them a specific laser, at any time.
 
 ---
 
