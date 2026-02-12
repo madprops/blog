@@ -19,7 +19,7 @@ You are going to be told about a game, and a machine that turns intention into l
 
 ## The Interface <a name="interface"></a>
 
-A 2D map, around 3000x3000 pixels.
+A 2D map, around 3000 by 3000 pixels.
 
 The theme is space, stars, ships.
 
