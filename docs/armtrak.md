@@ -5,8 +5,8 @@ You are going to be told about a game, and a machine that turns intention into l
 ![](img/armtrak.png)
 
 ## Index
-1. [The Interface](#interface)
 1. [The Game](#game)
+1. [The Interface](#interface)
 1. [The Real Game](#realgame)
 1. [Lasers](#lasers)
 1. [Effects](#effects)
@@ -16,6 +16,30 @@ You are going to be told about a game, and a machine that turns intention into l
 1. [The Tool](#tool)
 1. [The Commander](#commander)
 1. [The Telephone](#telephone)
+
+---
+
+## 🛸 The Game <a name="game"></a>
+
+Players move through space and imagery, replacing the images with their own as they see fit.
+
+Players fight each other with the different kinds of lasers.
+
+Some player gets to be dominant and becomes the skull, the other players try to take them down.
+
+They chat among each other globally or more privately in local chat.
+
+They change the music to make the current battles more exciting.
+
+They move through warps, appearing at different parts of the map.
+
+They go to the safe zone to escape danger, to regen, or as a form of AFK.
+
+Players upgrade their health, speed, and lasers as they destroy other ships.
+
+The objectives of the game being: a climb towards skull, taking down skulls, expression through image placement, and chat interactions.
+
+Another objective can be attempting to  destroy the 4 warps before they disappear.
 
 ---
 
@@ -111,29 +135,11 @@ There is a laser picker that allows players to pick any laser they want next.
 
 The laser picker appears at a % chance when destroying warps.
 
----
+There is a button on the bottom right to upload an image.
 
-## 🛸 The Game <a name="game"></a>
+It spawns the system's file picker.
 
-Players move through space and imagery, replacing the images with their own as they see fit.
-
-Players fight each other with the different kinds of lasers.
-
-Some player gets to be dominant and becomes the skull, the other players try to take them down.
-
-They chat among each other globally or more privately in local chat.
-
-They change the music to make the current battles more exciting.
-
-They move through warps, appearing at different parts of the map.
-
-They go to the safe zone to escape danger, to regen, or as a form of AFK.
-
-Players upgrade their health, speed, and lasers as they destroy other ships.
-
-The objectives of the game being: a climb towards skull, taking down skulls, expression through image placement, and chat interactions.
-
-Another objective can be attempting to  destroy the 4 warps before they disappear.
+It's also possible to drag and drop images on the map to upload them.
 
 ---
 
