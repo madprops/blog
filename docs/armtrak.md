@@ -88,97 +88,129 @@ On self-destruct, players explode and cause area of effect damage to other nearb
 
 ## Lasers
 
-**Single**: One laser. The weakest weapon. Not the default one, as this is actually given as punishment for entering the safe zone when damaged.
+### Single
+
+One laser. The weakest weapon. Not the default one, as this is actually given as punishment for entering the safe zone when damaged.
 
 Damage: 12
 
 ![](img/lasers/laser_single.png)
 
-**Double**: This is the default weapon. Two lasers. One on the left, one on the right.
+### Double
+
+This is the default weapon. Two lasers. One on the left, one on the right.
 
 Damage: 12
 
 ![](img/lasers/laser_double.png)
 
-**Triple**: Three lasers in a single line. Faster speed than usual. Like a triple shot.
+### Triple
+
+Three lasers in a single line. Faster speed than usual. Like a triple shot.
 
 Damage: 12 | Faster
 
 ![](img/lasers/laser_triple.png)
 
-**Quad**: Four lasers. Two in the front (left/right) and two in the sides with an angle (More to the left, and more to the right).
+### Quad
+
+Four lasers. Two in the front (left/right) and two in the sides with an angle (More to the left, and more to the right).
 
 Damage: 12
 
 ![](img/lasers/laser_quad.png)
 
-**Big**: This makes enemy ships bigger. While bigger, their attacks are also bigger and they do more damage. While the laser itself does damage, it is kind of a blessing to the enemy as it becomes temporarily more powerful.
+### Big
+
+This makes enemy ships bigger. While bigger, their attacks are also bigger and they do more damage. While the laser itself does damage, it is kind of a blessing to the enemy as it becomes temporarily more powerful.
 
 Damage: 20
 
 ![](img/lasers/laser_big.png)
 
-**Ripple**: Animated. Two lasers that move in an axis (up/down).
+### Ripple
+
+Animated. Two lasers that move in an axis (up/down).
 
 Damage: 12
 
 ![](img/lasers/laser_ripple.png)
 
-**Bomb**: A laser that moves and then explodes after a certain distance. Area of effect damage.
+### Bomb
+
+A laser that moves and then explodes after a certain distance. Area of effect damage.
 
 Damage: 100
 
 ![](img/lasers/laser_bomb.png)
 
-**Mirror**: A laser that shoots from the front and from the back. Can be used to attack enemies behind.
+### Mirror
+
+A laser that shoots from the front and from the back. Can be used to attack enemies behind.
 
 Damage: 12
 
 ![](img/lasers/laser_mirror.png)
 
-**Freeze**: Temporarily slows down enemies.
+### Freeze
+
+Temporarily slows down enemies.
 
 Damage: 12
 
 ![](img/lasers/laser_freeze.png)
 
-**Confusion**: Temporarily switches the direction of left and right controls for the enemy. Left becomes right, and right becomes left. When a warp is destroyed while carrying this laser, it becomes hostile and causes players to explode when touching it. This laser changes color automatically as it moves.
+### Confusion
+
+Temporarily switches the direction of left and right controls for the enemy. Left becomes right, and right becomes left. When a warp is destroyed while carrying this laser, it becomes hostile and causes players to explode when touching it. This laser changes color automatically as it moves.
 
 Damage: 12
 
 ![](img/lasers/laser_confusion.png)
 
-**Flame**: A constant flame-thrower that causes burn damage. It can be stacked to make it stronger.
+### Flame
+
+A constant flame-thrower that causes burn damage. It can be stacked to make it stronger.
 
 Damage: 7 | Melee | Burn
 
 ![](img/lasers/laser_flame.png)
 
-**Blade**: A close distance melee weapon with three cores, that causes the ship to rotate and hit enemies with a blade if they come in contact, causing burn damage.
+### Blade
+
+A close distance melee weapon with three cores, that causes the ship to rotate and hit enemies with a blade if they come in contact, causing burn damage.
 
 Damage: 7 | Melee | Burn
 
 ![](img/lasers/laser_blade.png)
 
-**Spores**: Three lasers that move and disperse randomly. They can go through warps and appear elsewhere on the map.
+### Spores
+
+Three lasers that move and disperse randomly. They can go through warps and appear elsewhere on the map.
 
 Damage: 12 | Faster
 
 ![](img/lasers/laser_spores.png)
 
-**Mines**: Balls that are left on the player's trail as they move, placed on the map, unmoved. Many can be placed at the same time and they disappear automatically after a certain time. When enemies touch a mine they explode. The mines can be destroyed as well.
+### Mines
+
+Balls that are left on the player's trail as they move, placed on the map, unmoved. Many can be placed at the same time and they disappear automatically after a certain time. When enemies touch a mine they explode. The mines can be destroyed as well.
 
 Damage: 100
 
 ![](img/lasers/laser_mines.png)
 
-**Charge**: The secondary attack that is achieved by holding the fire button for some time. This can insta-kill unless players have a health upgrade. All players have this available at any time. Used for precision one-shot kills, similar to sniping. Meant to be used often.
+### Charge
+
+The secondary attack that is achieved by holding the fire button for some time. This can insta-kill unless players have a health upgrade. All players have this available at any time. Used for precision one-shot kills, similar to sniping. Meant to be used often.
 
 Damage: 100
 
 ![](img/lasers/laser_charge.png)
 
-**Skull**: The laser given to players that have the skull status. Three lasers. One in the middle, one one the left with an angle, and another one on the right, angled. Each hit does a high amount of damage.
+### Skull
+
+The laser given to players that have the skull status. Three lasers. One in the middle, one one the left with an angle, and another one on the right, angled. Each hit does a high amount of damage.
 
 Damage: 80
 
