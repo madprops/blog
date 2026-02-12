@@ -94,7 +94,7 @@ Effects show as icons next to player names, like confusion, freeze, and burn.
 
 One laser. The weakest weapon. Not the default one, as this is actually given as punishment for entering the safe zone when damaged.
 
-Damage: 12
+Units: 1 | Damage: 12
 
 ![](img/lasers/laser_single.png)
 
@@ -102,7 +102,7 @@ Damage: 12
 
 This is the default weapon. Two lasers. One on the left, one on the right.
 
-Damage: 12
+Units: 2 | Damage: 12
 
 ![](img/lasers/laser_double.png)
 
@@ -110,7 +110,7 @@ Damage: 12
 
 Three lasers in a single line. Faster speed than usual. Like a triple shot.
 
-Damage: 12 | Faster
+Units: 3 | Damage: 12 | Faster
 
 ![](img/lasers/laser_triple.png)
 
@@ -118,7 +118,7 @@ Damage: 12 | Faster
 
 Four lasers. Two in the front (left/right) and two in the sides with an angle (More to the left, and more to the right).
 
-Damage: 12
+Units: 4 | Damage: 12
 
 ![](img/lasers/laser_quad.png)
 
@@ -126,7 +126,7 @@ Damage: 12
 
 This makes enemy ships bigger. While bigger, their attacks are also bigger and they do more damage. While the laser itself does damage, it is kind of a blessing to the enemy as it becomes temporarily more powerful.
 
-Damage: 20
+Units: 1 | Damage: 20 | Effect: Big
 
 ![](img/lasers/laser_big.png)
 
@@ -134,7 +134,7 @@ Damage: 20
 
 Animated. Two lasers that move in an axis (up/down).
 
-Damage: 12
+Units: 4 | Damage: 12 | Dynamic
 
 ![](img/lasers/laser_ripple.png)
 
@@ -142,7 +142,7 @@ Damage: 12
 
 A laser that moves and then explodes after a certain distance. Area of effect damage.
 
-Damage: 100
+Units: 1 | Damage: 100 | AoE
 
 ![](img/lasers/laser_bomb.png)
 
@@ -150,7 +150,7 @@ Damage: 100
 
 A laser that shoots from the front and from the back. Can be used to attack enemies behind.
 
-Damage: 12
+Units: 2 | Damage: 12 | Bidirectional
 
 ![](img/lasers/laser_mirror.png)
 
@@ -158,7 +158,7 @@ Damage: 12
 
 Temporarily slows down enemies.
 
-Damage: 12
+Units: 1 | Damage: 12 | Effect: Freeze
 
 ![](img/lasers/laser_freeze.png)
 
@@ -166,7 +166,7 @@ Damage: 12
 
 Temporarily switches the direction of left and right controls for the enemy. Left becomes right, and right becomes left. When a warp is destroyed while carrying this laser, it becomes hostile and causes players to explode when touching it. This laser changes color automatically as it moves.
 
-Damage: 12
+Units: 1 | Damage: 12 | Effect: Confusion
 
 ![](img/lasers/laser_confusion.png)
 
@@ -174,15 +174,15 @@ Damage: 12
 
 A constant flame-thrower that causes burn damage. It can be stacked to make it stronger.
 
-Damage: 7 | Melee | Burn
+Units: Stack | Damage: 7 | Effect: Burn | Melee
 
 ![](img/lasers/laser_flame.png)
 
 ### Blade
 
-A close distance melee weapon with three cores, that causes the ship to rotate and hit enemies with a blade if they come in contact, causing burn damage.
+A close distance melee weapon with three cores, that causes the ship to rotate and hit enemies with a blade if they come in contact, causing burn damage. When used it propels the player forward a short distance.
 
-Damage: 7 | Melee | Burn
+Units: 3 | Damage: 7 | Effect: Burn | Melee
 
 ![](img/lasers/laser_blade.png)
 
@@ -190,7 +190,7 @@ Damage: 7 | Melee | Burn
 
 Three lasers that move and disperse randomly. They can go through warps and appear elsewhere on the map.
 
-Damage: 12 | Faster
+Units: 3 | Damage: 12 | Faster | Warpable | Unpredictable Movement | Dynamic
 
 ![](img/lasers/laser_spores.png)
 
@@ -198,7 +198,7 @@ Damage: 12 | Faster
 
 Balls that are left on the player's trail as they move, placed on the map, unmoved. Many can be placed at the same time and they disappear automatically after a certain time. When enemies touch a mine they explode. The mines can be destroyed as well.
 
-Damage: 100
+Units: Unlimited | Damage: 100 | Placed | Explosive | Destructible | AoE | Auto Remove
 
 ![](img/lasers/laser_mines.png)
 
@@ -206,7 +206,7 @@ Damage: 100
 
 The secondary attack that is achieved by holding the fire button for some time. This can insta-kill unless players have a health upgrade. All players have this available at any time. Used for precision one-shot kills, similar to sniping. Meant to be used often.
 
-Damage: 100
+Units: 1 | Damage: 100 | Secondary
 
 ![](img/lasers/laser_charge.png)
 
@@ -214,7 +214,7 @@ Damage: 100
 
 The laser given to players that have the skull status. Three lasers. One in the middle, one one the left with an angle, and another one on the right, angled. Each hit does a high amount of damage.
 
-Damage: 80
+Units: 3 | Damage: 80 | End Game
 
 ![](img/lasers/laser_skull.png)
 
