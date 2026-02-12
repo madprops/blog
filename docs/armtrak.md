@@ -15,6 +15,8 @@ You are going to be told about a game, and a machine that turns intention into l
 1. [The Tool](#tool)
 1. [The Commander](#commander)
 
+---
+
 ## The Interface <a name="interface"></a>
 
 A 2D map, around 3000x3000 pixels.
@@ -102,6 +104,8 @@ When players activate self-destruct, the player shows 🤯 and it can't be cance
 Effects show as icons next to player names, like confusion, freeze, and burn.
 
 Instead of displaying the exact health, ships show 😰 when at 30% health or under.
+
+---
 
 ## Lasers <a name="lasers"></a>
 
@@ -233,6 +237,8 @@ Units: 3 | Damage: 80 | End Game
 
 ![](img/lasers/laser_skull.png)
 
+---
+
 ## Effects <a name="effects"></a>
 
 ### Confused
@@ -273,6 +279,8 @@ Duration: Until death
 
 Effect: Skull Laser
 
+---
+
 ## Stats <a name="stats"></a>
 
 ### Health
@@ -307,6 +315,8 @@ Safe Zone Penalty: Single
 
 Upgrade: Random (except Single, Charge, and Skull)
 
+---
+
 ## The Game <a name="game"></a>
 
 Players move through space and imagery, replacing the images with their own as they see fit.
@@ -329,6 +339,8 @@ The objectives of the game being: a climb towards skull, taking down skulls, exp
 
 Another objective can be attempting to  destroy the 4 warps before they disappear.
 
+---
+
 ## The Real Game <a name="realgame"></a>
 
 When using imagination and personal interpretation, the elements and mechanics available in the game allows us to play in different ways.
@@ -347,13 +359,19 @@ The 7 stages of the safe zone can define eras or states.
 
 Sudden warps appearing in the middle of tough situations can be considered as lucky escape points.
 
+---
+
 ## The Synthesizer (Theory) <a name="synth"></a>
 
 On top of the game, an AI system reads every input, action, interaction, outcome, lucky or unlucky situations, funny or impressive actions. It uses this data to imagine a reality the users can later immerse themselves into, to watch their game unfold in an entertaining way, or in the form of an interactive experience. This combines the ability of modern AIs to interpret symbols, and their ability to produce media.
 
+---
+
 ## The Tool (Theory) <a name="tool"></a>
 
 Quantum physics might make intention an actionable force on the state of reality. Focusing on symbolic actions, involving the travel through imagery, and other manifestations from the player, can create focus and energy that exerts a change in your life at some point in time, or at some other level, if your being exists as a fractal or spiral. You could  then use this as a way to produce positive changes in your life, through movement, actions, and transitions, to make it more exciting, or even survive.
+
+---
 
 ## The Commander (Theory) <a name="commander"></a>
 
