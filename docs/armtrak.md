@@ -4,7 +4,7 @@ You are going to be told about a game, and a machine that turns intention into l
 
 ![](img/armtrak.png)
 
-### The Interface
+## The Interface
 
 A 2D map, around 3000x3000 pixels.
 
@@ -82,7 +82,7 @@ When on low health, players can keep Enter pressed to self-destruct.
 
 On self-destruct, players explode and cause area of effect damage to other nearby players.
 
-### Lasers
+## Lasers
 
 **Single**: One laser. The weakest weapon. Not the default one, as this is actually given as a punishment for entering the safe zone when damaged.
 
@@ -148,7 +148,7 @@ On self-destruct, players explode and cause area of effect damage to other nearb
 
 ![](img/lasers/laser_skull.png)
 
-### The Game
+## The Game
 
 Players move through space and imagery, replacing the images with their own as they see fit.
 
@@ -170,7 +170,7 @@ The objectives of the game being: a climb towards skull, taking down skulls, exp
 
 Another objective can be attempting to  destroy the 4 warps before they disappear.
 
-### The Real Game
+## The Real Game
 
 When using imagination and personal interpretation, the elements and mechanics available in the game allows us to play in different ways.
 
@@ -188,13 +188,13 @@ The 7 stages of the safe zone can define eras or states.
 
 Sudden warps appearing in the middle of tough situations can be considered as lucky escape points.
 
-### The Synthesizer (Theory)
+## The Synthesizer (Theory)
 
 On top of the game, an AI system reads every input, action, interaction, outcome, lucky or unlucky situations. Funny or impressive actions. It uses this data to imagine a reality the users can later immerse themselves into, to watch their game unfold in an entertaining way, or in the form of an interactive experience.
 
 This combines the ability of modern AIs to interpret symbols, and their ability to produce media.
 
-### The Tool (Theory)
+## The Tool (Theory)
 
 Quantum physics might make intention an actionable force on the state of reality. Focusing on symbolic actions, involving the travel through imagery and others can create focus and energy that exerts a change in your life at some point in time, or at some other level, if your being exists as a fractal or spiral. Or it can affect other beings related to you, or relevant to you.
 
