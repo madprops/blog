@@ -88,7 +88,7 @@ On self-destruct, players explode and cause area of effect damage to other nearb
 
 ## Lasers
 
-**Single**: One laser. The weakest weapon. Not the default one, as this is actually given as a punishment for entering the safe zone when damaged.
+**Single**: One laser. The weakest weapon. Not the default one, as this is actually given as punishment for entering the safe zone when damaged.
 
 ![](img/lasers/laser_single.png)
 
