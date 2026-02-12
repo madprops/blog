@@ -380,6 +380,6 @@ This can be used in a multi-node organism where each component of the self gets 
 
 ---
 
-## The Telephone <a name="telephone"></a>
+## The Telephone (Theory) <a name="telephone"></a>
 
 The interface and game can work as a communication system for those that desire a less direct, and different, way to be contacted. For instance, the player can rest somewhere in the map by AFK'ing in a certain spot. When other players join they can shoot lasers and use the text chat to try to get the player's attention. The player can then choose to reveal itself through text or by becoming visible and engaging with the other players, through movement and attacks. Communication can happen visually through image uploads instead of relying exclusively on text.
