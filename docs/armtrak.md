@@ -365,11 +365,11 @@ Booster: 5 seconds approx
 
 Default: Double
 
+Upgrade: Random (except Single, Charge, and Skull)
+
 Safe Zone Penalty: Single
 
 End Game: Skull
-
-Upgrade: Random (except Single, Charge, and Skull)
 
 ---
 
