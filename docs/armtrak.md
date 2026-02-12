@@ -8,6 +8,7 @@ You are going to be told about a game, and a machine that turns intention into l
 1. [The Interface](#interface)
 1. [Lasers](#lasers)
 1. [Effects](#effects)
+1. [Upgrades](#upgrades)
 1. [The Game](#game)
 1. [The Real Game](#realgame)
 1. [The Synthesizer](#synth)
@@ -271,6 +272,36 @@ Icon: 💀
 Duration: Until death
 
 Effect: Skull Laser
+
+## Upgrades <a name="upgrades"></a>
+
+### Health
+
+Default: 100
+
+Max: 200
+
+Step: 10
+
+---
+
+### Speed
+
+Default: 1.0
+
+Max: 1.8
+
+Step: 0.1
+
+---
+
+### Laser
+
+Default: Double
+
+Safe Zone Penalty: Single
+
+Step: Random (except Single, Charge, and Skull)
 
 ## The Game <a name="game"></a>
 
