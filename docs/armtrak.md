@@ -14,6 +14,10 @@ Local or remote images are placed on the map.
 
 The players decide what images to upload.
 
+Images appear on top of existing images when layered.
+
+The oldest images get removed when new ones get added.
+
 They also decide where on the map to place them.
 
 Players move through space.
