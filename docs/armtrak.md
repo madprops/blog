@@ -232,7 +232,7 @@ Units: 3 | Damage: 80 | End Game
 
 ![](img/lasers/laser_skull.png)
 
-## Effects <a name="icons"></a>
+## Effects <a name="effects"></a>
 
 ### Confused
 
