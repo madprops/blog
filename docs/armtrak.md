@@ -180,7 +180,7 @@ Units: 1 | Damage: 12 | Effect: Slow
 
 Temporarily switches the direction of the left and right controls for the enemy. Left becomes right, and right becomes left. When a warp is destroyed while carrying this laser, it becomes hostile and causes players to explode when touching it. This laser changes color automatically as it moves.
 
-Units: 1 | Damage: 12 | Effect: Confusion
+Units: 1 | Damage: 12 | Effect: Confused
 
 ![](img/lasers/laser_confusion.png)
 
@@ -188,7 +188,7 @@ Units: 1 | Damage: 12 | Effect: Confusion
 
 A constant flame-thrower that causes burn damage. It can be stacked to make it stronger.
 
-Units: Stack | Damage: 7 | Effect: Burn | Melee
+Units: Stack | Damage: 7 | Effect: Burning | Melee
 
 ![](img/lasers/laser_flame.png)
 
@@ -196,7 +196,7 @@ Units: Stack | Damage: 7 | Effect: Burn | Melee
 
 A close distance melee weapon with three cores, that causes the ship to rotate and hit enemies with a blade if they come in contact, causing burn damage. When used it propels the player forward a short distance.
 
-Units: 3 | Damage: 7 | Effect: Burn | Melee
+Units: 3 | Damage: 7 | Effect: Burning | Melee
 
 ![](img/lasers/laser_blade.png)
 
