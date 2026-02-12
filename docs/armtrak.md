@@ -8,7 +8,7 @@ You are going to be told about a game, and a machine that turns intention into l
 1. [The Interface](#interface)
 1. [Lasers](#lasers)
 1. [Effects](#effects)
-1. [Upgrades](#upgrades)
+1. [Stats](#stats)
 1. [The Game](#game)
 1. [The Real Game](#realgame)
 1. [The Synthesizer](#synth)
@@ -273,7 +273,7 @@ Duration: Until death
 
 Effect: Skull Laser
 
-## Upgrades <a name="upgrades"></a>
+## Stats <a name="stats"></a>
 
 ### Health
 
@@ -281,7 +281,7 @@ Default: 100
 
 Max: 200
 
-Step: 10
+Upgrade: 10
 
 ---
 
@@ -291,7 +291,7 @@ Default: 1.0
 
 Max: 1.8
 
-Step: 0.1
+Upgrade: 0.1
 
 ---
 
@@ -301,7 +301,7 @@ Default: Double
 
 Safe Zone Penalty: Single
 
-Step: Random (except Single, Charge, and Skull)
+Upgrade: Random (except Single, Charge, and Skull)
 
 ## The Game <a name="game"></a>
 
