@@ -434,4 +434,4 @@ The interface and game can work as a communication system for those that desire 
 
 ## 🛸 The Circus (Theory) <a name="circus"></a>
 
-Since admins have the ability to give any player the ability to pick a laser, or give them a specific laser, or turn them into a Skull, it can turn the game into a space where a central player has the role of blessing other players to change the balance of the game, or to watch them fight in a certain way. This creates an element where a conscious being has direct and invisible effect on the game, either by individual will or a crowdfunded sentiment.
+Since admins have the ability to give any player the ability to pick a laser, or give them a specific laser, or turn them into a Skull, it can turn the game into a space where a central player has the role of blessing other players to change the balance of the game, or to watch them fight in a certain way. This creates an element where a conscious being has direct and invisible effect on the game, either through independent will, or from a crowdfunded sentiment.
