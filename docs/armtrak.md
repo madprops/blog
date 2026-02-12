@@ -8,7 +8,6 @@ You are going to be told about a game, and a machine that turns intention into l
 1. [The Interface](#interface)
 1. [Lasers](#lasers)
 1. [Effects](#effects)
-1. [Icons](#icons)
 1. [The Game](#game)
 1. [The Real Game](#realgame)
 1. [The Synthesizer](#synth)
@@ -97,7 +96,11 @@ When on low health, players can keep Enter pressed to self-destruct.
 
 On self-destruct, players explode and cause area of effect damage to other nearby players.
 
+When players activate self-destruct, the player shows 🤯 and it can't be cancelled.
+
 Effects show as icons next to player names, like confusion, freeze, and burn.
+
+Instead of displaying the exact health, ships show 😰 when at 30% health or under.
 
 ## Lasers <a name="lasers"></a>
 
@@ -262,20 +265,6 @@ Icon: 💀
 Duration: Until death
 
 Effect: Skull Laser
-
-## Icons <a name="icons"></a>
-
-Low Health 😰
-
-Self-Destruct 🤯
-
-Confusion 🤡
-
-Burn 🔥
-
-Slow 🥶
-
-Skull 💀
 
 ## The Game <a name="game"></a>
 
