@@ -367,6 +367,8 @@ Default: Double
 
 Safe Zone Penalty: Single
 
+End Game: Skull
+
 Upgrade: Random (except Single, Charge, and Skull)
 
 ---
