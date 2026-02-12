@@ -122,15 +122,15 @@ The available lasers include:
 
 ![](img/lasers/laser_freeze.png)
 
-1) Confusion: Temporarily switches the direction of left and right controls for enemies. Left becomes right, and right becomes left. When a warp is destroyed while carrying this laser, it becomes hostile and causes players to explode when touching it. This laser changes color automatically as it moves.
+1) Confusion: Temporarily switches the direction of left and right controls for the enemy. Left becomes right, and right becomes left. When a warp is destroyed while carrying this laser, it becomes hostile and causes players to explode when touching it. This laser changes color automatically as it moves.
 
 ![](img/lasers/laser_confusion.png)
 
-1) Flame: A constant flame thrower that causes burn damage. It can be stacked to make it stronger.
+1) Flame: A constant flame-thrower that causes burn damage. It can be stacked to make it stronger.
 
 ![](img/lasers/laser_flame.png)
 
-1) Blade: A close distance melee weapons with three cores, that causes the ship to rotate and hit enemies with a blade if they come in contact, causing burn damage.
+1) Blade: A close distance melee weapon with three cores, that causes the ship to rotate and hit enemies with a blade if they come in contact, causing burn damage.
 
 ![](img/lasers/laser_blade.png)
 
@@ -164,7 +164,7 @@ They go to the safe zone to escape danger, to regen, or as a form of AFK.
 
 Players upgrade their health, speed, and lasers as they destroy other ships.
 
-The objectives of the game being a climb towards skull, taking down skulls, expression through image placement, and chat interactions.
+The objectives of the game being: a climb towards skull, taking down skulls, expression through image placement, and chat interactions.
 
 Another objective can be attempting to  destroy the 4 warps before they disappear.
 
@@ -183,6 +183,8 @@ The local chat feature allows more private communication with other players that
 The spores being able to go through warps can be said to mean that spores can travel through time.
 
 The 7 stages of the safe zone can define eras or states.
+
+Sudden warps appearing in the middle of tough situations can be considered as lucky escape points.
 
 ### The Synthesizer
 
