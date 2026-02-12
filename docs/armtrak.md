@@ -26,7 +26,7 @@ They can attack other players to score and to upgrade.
 
 Each kill upgrades a stat (health, speed, laser).
 
-Uploading images also upgrade a stat depending on the dominat color. (red, blue, green).
+Uploading images also upgrade a stat depending on the dominant color (red, blue, green).
 
 Live music can be set to play in the moment, like live battle music (which all players hear at the same time), which is searched on a video repository site through a command in the chat.
 
@@ -34,7 +34,7 @@ Players can AFK (away from keyboard) anywhere on the map as long as they have fu
 
 When players AFK they become invisible and unmovable.
 
-There is a global and local chat tabs.
+There is global and local chat tabs for text chat.
 
 Global chat is universal, all players can read and write.
 
@@ -42,15 +42,15 @@ Local chat is for nearby players, AFK or not.
 
 In the center of the map there is a circle called the Safe Zone.
 
-While in the Safe Zone players get no damage, they can't attack.
+While in the Safe Zone, players get no damage and they can't attack.
 
 The image of the Safe Zone changes every day. Every monday is a certain image, every sunday is a certain image, etc. This can be 7 stages of something, like a person: When they're old, young, and other differences.
 
-The safe zone can be opened and closed with a single laser hit. When it is open it has a green border and ships can enter. When it is closed it has a red border and ships bounce when trying to enter. The charged laser, and bombs, always bounce off the safe zone at an angle.
+The safe zone can be opened and closed with a single laser hit. When it is open, it has a green border and ships can enter. When it is closed, it has a red border and ships bounce when trying to enter. The charged laser and bombs always bounce off the safe zone at an angle.
 
 Ships regenerate health automatically, but while on the safe zone they regen faster.
 
-On laser upgrades, the laser given to a player is random, it can be any one from the array of available lasers.
+On laser upgrades, the laser given to a player is random, it can be any one from the array of available lasers. This excludes certain lasers like charged, skull, and single.
 
 There are 4 warps that appear randomly on the map every certain amount of minutes. They can be used or destroyed. On every iteration they are replaced and renewed. When used, they act as portals that move the ship to a certain location on the map. When destroyed they stop working as portals, and instead reflect lasers shot at them.
 
@@ -64,7 +64,7 @@ The boost regenerates automatically.
 
 When boosting, ships have a chance of reflecting attacks thrown at them.
 
-There are 19 ship models that players can select any time. This is just how the ships look.
+There are 19 ship models that players can select at any time. This is just how the ship looks.
 
 There is an image viewer to quickly see the uploaded images without having to travel to them.
 
@@ -74,7 +74,7 @@ It's possible to drag the map and minimap with the mouse to inspect how zones lo
 
 It's also possible to zoom in or out, to change how you view the map.
 
-The opacity of the images can be changed from, 0% opacity to 100% opacity. More transparent images can make it easier on the eyes.
+The opacity of the images can be changed from 0% opacity to 100% opacity. More transparent images can make it easier on the eyes.
 
 There are 3 views, map | minimap | full.
 
