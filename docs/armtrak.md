@@ -107,6 +107,10 @@ Effects show as icons next to player names, like confusion, freeze, and burn.
 
 Instead of displaying the exact health, ships show 😰 when at 30% health or under.
 
+There is a laser picker that allows players to pick any laser they want next.
+
+The laser picker appears at a % chance when destroying warps.
+
 ---
 
 ## The Game <a name="game"></a>
