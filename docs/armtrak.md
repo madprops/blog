@@ -14,6 +14,7 @@ You are going to be told about a game, and a machine that turns intention into l
 1. [The Synthesizer](#synth)
 1. [The Tool](#tool)
 1. [The Commander](#commander)
+1. [The Telephone](#telephone)
 
 ---
 
@@ -376,3 +377,9 @@ Quantum physics might make intention an actionable force on the state of reality
 ## The Commander (Theory) <a name="commander"></a>
 
 This can be used in a multi-node organism where each component of the self gets to exert their vote on what is to happen next. It allows autonomous control that suggests a will towards certain places, and combat decisions. It could be used as direct orders, or as suggestions to consider. This includes controlling yourself remotely, for survival, life enhancement, or as an enthropy device to fight boredom and stagnation.
+
+---
+
+## The Telephone <a name="telephone"></a>
+
+The interface and game can work as a communication system for those that desire a less direct, and different, way to be contacted. For instance, the player can rest somewhere in the map by AFK'ing in a certain spot. When other players join they can shoot lasers and use the text chat to try to get the player's attention. The player can then choose to reveal itself through text or by becoming visible and engaging with the other players, through movement and attacks. Communication can happen visually through image uploads instead of relying exclusively on text.
