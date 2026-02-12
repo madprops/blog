@@ -18,9 +18,7 @@ Images appear on top of existing images when layered.
 
 The oldest images get removed when new ones get added.
 
-They also decide where on the map to place them.
-
-Players move through space.
+Players decide where on the map to place the images by traveling there.
 
 They go through images, on top, around, near, far.
 
