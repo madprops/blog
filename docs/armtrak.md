@@ -190,7 +190,7 @@ Sudden warps appearing in the middle of tough situations can be considered as lu
 
 ## The Synthesizer (Theory)
 
-On top of the game, an AI system reads every input, action, interaction, outcome, lucky or unlucky situations. Funny or impressive actions. It uses this data to imagine a reality the users can later immerse themselves into, to watch their game unfold in an entertaining way, or in the form of an interactive experience. This combines the ability of modern AIs to interpret symbols, and their ability to produce media.
+On top of the game, an AI system reads every input, action, interaction, outcome, lucky or unlucky situations, funny or impressive actions. It uses this data to imagine a reality the users can later immerse themselves into, to watch their game unfold in an entertaining way, or in the form of an interactive experience. This combines the ability of modern AIs to interpret symbols, and their ability to produce media.
 
 ## The Tool (Theory)
 
