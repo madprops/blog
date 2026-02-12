@@ -4,7 +4,17 @@ You are going to be told about a game, and a machine that turns intention into l
 
 ![](img/armtrak.png)
 
-## The Interface
+## Index
+1. [The Interface](#interface)
+1. [Lasers](#lasers)
+1. [Icons](#icons)
+1. [The Game](#game)
+1. [The Real Game](#realgame)
+1. [The Synthesizer](#synth)
+1. [The Tool](#tool)
+1. [The Commander](#commander)
+
+## The Interface <a name="interface"></a>
 
 A 2D map, around 3000x3000 pixels.
 
@@ -88,7 +98,7 @@ On self-destruct, players explode and cause area of effect damage to other nearb
 
 Effects show as icons next to player names, like confusion, freeze, and burn.
 
-## Lasers
+## Lasers <a name="lasers"></a>
 
 ### Single
 
@@ -190,7 +200,7 @@ Units: 3 | Damage: 7 | Effect: Burn | Melee
 
 Three lasers that move and disperse randomly. They can go through warps and appear elsewhere on the map.
 
-Units: 3 | Damage: 12 | Faster | Warpable | Unpredictable Movement | Dynamic
+Units: 3 | Damage: 12 | Faster | Warpable | Unpredictable | Dynamic
 
 ![](img/lasers/laser_spores.png)
 
@@ -218,7 +228,7 @@ Units: 3 | Damage: 80 | End Game
 
 ![](img/lasers/laser_skull.png)
 
-## Icons
+## Icons <a name="icons"></a>
 
 Low Health 😰
 
@@ -232,7 +242,7 @@ Freeze 🥶
 
 Skull 💀
 
-## The Game
+## The Game <a name="game"></a>
 
 Players move through space and imagery, replacing the images with their own as they see fit.
 
@@ -254,7 +264,7 @@ The objectives of the game being: a climb towards skull, taking down skulls, exp
 
 Another objective can be attempting to  destroy the 4 warps before they disappear.
 
-## The Real Game
+## The Real Game <a name="realgame"></a>
 
 When using imagination and personal interpretation, the elements and mechanics available in the game allows us to play in different ways.
 
@@ -272,14 +282,14 @@ The 7 stages of the safe zone can define eras or states.
 
 Sudden warps appearing in the middle of tough situations can be considered as lucky escape points.
 
-## The Synthesizer (Theory)
+## The Synthesizer (Theory) <a name="synth"></a>
 
 On top of the game, an AI system reads every input, action, interaction, outcome, lucky or unlucky situations, funny or impressive actions. It uses this data to imagine a reality the users can later immerse themselves into, to watch their game unfold in an entertaining way, or in the form of an interactive experience. This combines the ability of modern AIs to interpret symbols, and their ability to produce media.
 
-## The Tool (Theory)
+## The Tool (Theory) <a name="tool"></a>
 
 Quantum physics might make intention an actionable force on the state of reality. Focusing on symbolic actions, involving the travel through imagery, and other manifestations from the player, can create focus and energy that exerts a change in your life at some point in time, or at some other level, if your being exists as a fractal or spiral. You could  then use this as a way to produce positive changes in your life, through movement, actions, and transitions, to make it more exciting, or even survive.
 
-## The Commander (Theory)
+## The Commander (Theory) <a name="commander"></a>
 
 This can be used in a multi-node organism where each component of the self gets to exert their vote on what is to happen next. It allows autonomous control that suggests a will towards certain places, and combat decisions. It could be used as direct orders, or as suggestions to consider. This includes controlling yourself remotely, for survival, life enhancement, or as an enthropy device to fight boredom and stagnation.
