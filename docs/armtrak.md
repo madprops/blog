@@ -190,14 +190,14 @@ The 7 stages of the safe zone can define eras or states.
 
 Sudden warps appearing in the middle of tough situations can be considered as lucky escape points.
 
-### The Synthesizer
+### The Synthesizer (Theory)
 
-Theory: On top of the game, an AI system reads every input, action, interaction, outcome, lucky or unlucky situations. Funny or impressive situations. It uses this data to imagine a reality the users can later immerse themselves into, to watch their game unfold in an entertaining way, or in the form of an interactive experience.
+On top of the game, an AI system reads every input, action, interaction, outcome, lucky or unlucky situations. Funny or impressive situations. It uses this data to imagine a reality the users can later immerse themselves into, to watch their game unfold in an entertaining way, or in the form of an interactive experience.
 
 This combines the ability of modern AIs to interpret symbols, and their ability to produce media.
 
-### The Tool
+### The Tool (Theory)
 
-Theory: Quantum physics might make intention an actionable force on the state of reality. Focusing on symbolic actions, involving the travel through imagery and others can create focus and energy that exerts a change in your life at some point in time, or at some other level, if your being exists as a fractal or spiral. Or it can affect other beings related to you, or relevant to you.
+Quantum physics might make intention an actionable force on the state of reality. Focusing on symbolic actions, involving the travel through imagery and others can create focus and energy that exerts a change in your life at some point in time, or at some other level, if your being exists as a fractal or spiral. Or it can affect other beings related to you, or relevant to you.
 
 You could  then use this as a way to produce positive change in your life, through movement and context switches, to make it more exciting or even survive.
