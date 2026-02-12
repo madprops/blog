@@ -10,6 +10,8 @@ A 2D map, around 3000x3000 pixels.
 
 The theme is space, stars, ships.
 
+Players move freely in all directions.
+
 Local or remote images are placed on the map.
 
 The players decide what images to upload.
