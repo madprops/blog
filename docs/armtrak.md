@@ -19,7 +19,7 @@ You are going to be told about a game, and a machine that turns intention into l
 
 ---
 
-## The Interface <a name="interface"></a>
+## 🛸 The Interface <a name="interface"></a>
 
 A 2D map, around 3000 by 3000 pixels.
 
@@ -113,7 +113,7 @@ The laser picker appears at a % chance when destroying warps.
 
 ---
 
-## The Game <a name="game"></a>
+## 🛸 The Game <a name="game"></a>
 
 Players move through space and imagery, replacing the images with their own as they see fit.
 
@@ -137,7 +137,7 @@ Another objective can be attempting to  destroy the 4 warps before they disappea
 
 ---
 
-## The Real Game <a name="realgame"></a>
+## 🛸 The Real Game <a name="realgame"></a>
 
 When using imagination and personal interpretation, the elements and mechanics available in the game allows us to play in different ways.
 
@@ -157,7 +157,7 @@ Sudden warps appearing in the middle of tough situations can be considered as lu
 
 ---
 
-## Lasers <a name="lasers"></a>
+## 🛸 Lasers <a name="lasers"></a>
 
 ### Single
 
@@ -289,7 +289,7 @@ Units: 3 | Damage: 80 | End Game
 
 ---
 
-## Effects <a name="effects"></a>
+## 🛸 Effects <a name="effects"></a>
 
 ### Confused
 
@@ -331,7 +331,7 @@ Effect: Skull Laser
 
 ---
 
-## Stats <a name="stats"></a>
+## 🛸 Stats <a name="stats"></a>
 
 ### Health
 
@@ -367,7 +367,7 @@ Upgrade: Random (except Single, Charge, and Skull)
 
 ---
 
-## Commands <a name="commands"></a>
+## 🛸 Commands <a name="commands"></a>
 
 ### Image Change
 
@@ -399,24 +399,24 @@ Or to give them a specific laser, at any time.
 
 ---
 
-## The Synthesizer (Theory) <a name="synth"></a>
+## 🛸 The Synthesizer (Theory) <a name="synth"></a>
 
 On top of the game, an AI system reads every input, action, interaction, outcome, lucky or unlucky situations, funny or impressive actions. It uses this data to imagine a reality the users can later immerse themselves into, to watch their game unfold in an entertaining way, or in the form of an interactive experience. This combines the ability of modern AIs to interpret symbols, and their ability to produce media.
 
 ---
 
-## The Tool (Theory) <a name="tool"></a>
+## 🛸 The Tool (Theory) <a name="tool"></a>
 
 Quantum physics might make intention an actionable force on the state of reality. Focusing on symbolic actions, involving the travel through imagery, and other manifestations from the player, can create focus and energy that exerts a change in your life at some point in time, or at some other level, if your being exists as a fractal or spiral. You could  then use this as a way to produce positive changes in your life, through movement, actions, and transitions, to make it more exciting, or even survive.
 
 ---
 
-## The Commander (Theory) <a name="commander"></a>
+## 🛸 The Commander (Theory) <a name="commander"></a>
 
 This can be used in a multi-node organism where each component of the self gets to exert their vote on what is to happen next. It allows autonomous control that suggests a will towards certain places, and combat decisions. It could be used as direct orders, or as suggestions to consider. This includes controlling yourself remotely, for survival, life enhancement, or as an enthropy device to fight boredom and stagnation.
 
 ---
 
-## The Telephone (Theory) <a name="telephone"></a>
+## 🛸 The Telephone (Theory) <a name="telephone"></a>
 
 The interface and game can work as a communication system for those that desire a less direct, and different, way to be contacted. For instance, the player can rest somewhere in the map by AFK'ing in a certain spot. When other players join they can shoot lasers and use the text chat to try to get the player's attention. The player can then choose to reveal itself through text or by becoming visible and engaging with the other players, through movement and attacks. Communication can happen visually through image uploads and music, instead of relying exclusively on text.
