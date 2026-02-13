@@ -169,7 +169,7 @@ Sudden warps appearing in the middle of tough situations can be considered as lu
 
 ### Single
 
-One laser. The weakest weapon. Not the default one, as this is actually given as punishment for entering the safe zone when damaged.
+One laser. The weakest weapon. Not the default one, as this is actually given as punishment for entering the safe zone when on low health.
 
 Units: 1 | Damage: 12
 
