@@ -141,6 +141,8 @@ There is a button on the bottom right to upload an image, by spawning the system
 
 It's also possible to drag and drop images on the map to upload them.
 
+Players wrap around the map. When entering the right edge they appear on the left. Same with up and down. Lasers also wrap.
+
 ---
 
 ## 🛸 The Real Game <a name="realgame"></a>
@@ -160,8 +162,6 @@ The spores being able to go through warps can be said to mean that spores can tr
 The 7 stages of the safe zone can define eras or states.
 
 Sudden warps appearing in the middle of tough situations can be considered as lucky escape points.
-
-Players wrap around the map. When entering the right edge they appear on the left. Same with up and down. Lasers also wrap.
 
 ---
 
