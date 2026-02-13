@@ -97,7 +97,7 @@ Ships regenerate health automatically, but while on the safe zone they regen fas
 
 On laser upgrades, the laser given to a player is random, it can be any one from the array of available lasers. This excludes certain lasers like charged, skull, and single.
 
-There are 4 warps that appear randomly on the map every certain amount of minutes. They can be used or destroyed. On every iteration they are replaced and renewed. When used, they act as portals that move the ship to a certain location on the map. When destroyed they stop working as portals, and instead reflect lasers shot at them.
+There are 4 warps that appear randomly on the map every certain amount of minutes. They can be used or destroyed. On every iteration they are replaced and renewed. When used, they act as portals that move the ship to a certain location on the map. When destroyed they stop working as portals, and instead bounce off lasers shot at them.
 
 When players reach a certain kill streak (like destroying 10 players without dying), they get to be the Skull. They get a certain icon status and a special laser. Players stop being the skull when they are destroyed. The skull can't enter the safe zone.
 
@@ -160,6 +160,8 @@ The spores being able to go through warps can be said to mean that spores can tr
 The 7 stages of the safe zone can define eras or states.
 
 Sudden warps appearing in the middle of tough situations can be considered as lucky escape points.
+
+Players wrap around the map. When entering the right edge they appear on the left. Same with up and down. Lasers also wrap.
 
 ---
 
