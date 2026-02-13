@@ -221,7 +221,7 @@ A laser that moves and then explodes after a certain distance. Area of effect da
 
 Units: 1 | Damage: 100 | AoE
 
-![](img/lasers/laser_bomb.png)
+![](img/lasers/laser_bomb.gif)
 
 ### Mirror
 
