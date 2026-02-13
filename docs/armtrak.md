@@ -145,6 +145,16 @@ Players wrap around the map. When entering the right edge they appear on the lef
 
 ---
 
+Here's a warp:
+
+![](img/lasers/warp.gif)
+
+Here's an asian safe zone with a closed border:
+
+![](img/lasers/safe_zone.gif)
+
+---
+
 ## 🛸 The Real Game <a name="realgame"></a>
 
 When using imagination and personal interpretation, the elements and mechanics available in the game allows us to play in different ways.
