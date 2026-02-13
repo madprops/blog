@@ -44,7 +44,7 @@
 
 1) [PurplePrison](https://madprops.github.io/blog/purple_prison/)
 
-1) [DonnySlowmile](https://madprops.github.io/blog/donny_slowmile/)
+1) [DonnySlomile](https://madprops.github.io/blog/donny_slomile/)
 
 1) [Metaballs](https://madprops.github.io/blog/metaballs/)
 
