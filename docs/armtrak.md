@@ -502,4 +502,6 @@ In many cultures, the band of the Milky Way is viewed as a river or a celestial 
 In ancient cosmology and Gnostic thought, the universe was often depicted as being surrounded by water. The "Firmament" separated the waters below (Earth/oceans) from the "Waters Above" (Space).
 In this view, the "Sea of Stars" is the literal ocean of the heavens—a dark, fluid medium in which the stars float or are submerged.
 
+---
+
 ![](img/armtrak_3.jpg)
