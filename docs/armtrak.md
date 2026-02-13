@@ -161,11 +161,17 @@ Here's an asian safe zone with a closed border:
 
 ---
 
-Here's a failed warp escape from kimby.
+Here's a failed warp escape from kimby:
 
 The warps changed position at exactly that moment.
 
 ![](img/lasers/warp_disappears.gif)
+
+---
+
+Here's a self-destruct:
+
+![](img/lasers/self_destruct.gif)
 
 ---
 
