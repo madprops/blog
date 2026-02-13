@@ -201,7 +201,7 @@ Units: 4 | Damage: 12
 
 ### Big
 
-This makes enemy ships bigger. While bigger, their attacks are also bigger and they do more damage. While the laser itself does damage, it is kind of a blessing to the enemy as it becomes temporarily more powerful.
+This makes enemy ships bigger. While bigger, their attacks are also bigger and they do more damage. While the laser itself does damage, it is kind of a blessing to the enemy as it becomes temporarily more powerful. But it's also a curse because they can be more easily hit.
 
 Units: 1 | Damage: 20 | Effect: Big
 
