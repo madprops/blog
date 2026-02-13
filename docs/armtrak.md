@@ -153,9 +153,19 @@ Here's a warp:
 
 ![](img/lasers/warp.gif)
 
+---
+
 Here's an asian safe zone with a closed border:
 
 ![](img/lasers/safe_zone.gif)
+
+---
+
+Here's a failed warp escape from kimby.
+
+The warps changed position at exactly that moment.
+
+![](img/lasers/warp_disappears.gif)
 
 ---
 
