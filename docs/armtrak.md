@@ -245,7 +245,7 @@ Temporarily switches the direction of the left and right controls for the enemy.
 
 Units: 1 | Damage: 12 | Effect: Confused
 
-![](img/lasers/laser_confusion.png)
+![](img/lasers/laser_confusion.gif)
 
 ### Flame
 
