@@ -143,6 +143,10 @@ It's also possible to drag and drop images on the map to upload them.
 
 Players wrap around the map. When entering the right edge they appear on the left. Same with up and down. Lasers also wrap.
 
+There's a chance players bounce off each other on collision.
+
+There's also a chance of collision damage on crashes between ships.
+
 ---
 
 Here's a warp:
