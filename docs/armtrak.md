@@ -134,9 +134,7 @@ There is a laser picker that allows players to pick any laser they want next.
 
 The laser picker appears at a % chance when destroying warps.
 
-There is a button on the bottom right to upload an image.
-
-It spawns the system's file picker.
+There is a button on the bottom right to upload an image, by spawning the system's file picker.
 
 It's also possible to drag and drop images on the map to upload them.
 
