@@ -205,15 +205,15 @@ This makes enemy ships bigger. While bigger, their attacks are also bigger and t
 
 Units: 1 | Damage: 20 | Effect: Big
 
-![](img/lasers/laser_big.png)
+![](img/lasers/laser_big.gif)
 
 ### Ripple
 
-Animated. Two lasers that move in an axis (up/down).
+Animated. Four lasers that move in an axis (up/down).
 
 Units: 4 | Damage: 12 | Dynamic
 
-![](img/lasers/laser_ripple.png)
+![](img/lasers/laser_ripple.gif)
 
 ### Bomb
 
@@ -267,9 +267,9 @@ Units: 3 | Damage: 7 | Effect: Burning | Melee
 
 Three lasers that move and disperse randomly. They can go through warps and appear elsewhere on the map.
 
-Units: 3 | Damage: 12 | Faster | Warpable | Unpredictable | Dynamic
+Units: 3 | Damage: 12 | Warpable | Unpredictable | Dynamic
 
-![](img/lasers/laser_spores.png)
+![](img/lasers/laser_spores.gif)
 
 ### Mines
 
