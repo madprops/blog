@@ -481,8 +481,6 @@ The Link: The magnetic fields confine and manipulate the singularity (the ultima
 3. Mass Effect Fields
 In the Mass Effect universe, the "Element Zero" core is an armature that, when subjected to an electrical current, raises or lowers the mass of the volume of spacetime it occupies.
 
-The Link: This is a direct evolution of the electrical armature: Current In → Spacetime Effect Out.
-
 ---
 
 ## 🛸 Sea of Stars (Art) <a name="mar"></a>
