@@ -1,6 +1,6 @@
 # Armtrak
 
-![](img/armtrak.png)
+![](img/armtrak.jpg)
 
 ## Index
 1. [The Game](#game)
@@ -15,6 +15,8 @@
 1. [The Commander](#commander)
 1. [The Telephone](#telephone)
 1. [The Circus](#circus)
+1. [Armature](#armature)
+1. [Sea of Stars](#mar)
 
 ---
 
@@ -433,3 +435,71 @@ The interface and game can work as a communication system for those that desire 
 ## 🛸 The Circus (Theory) <a name="circus"></a>
 
 Since admins have the ability to give any player the ability to pick a laser, or give them a specific laser, or turn them into a Skull, it can turn the game into a space where a central player has the role of blessing other players to change the balance of the game, or to watch them fight in a certain way. This creates an element where a conscious being has direct and invisible effect on the game, either through independent will, or from a crowdfunded sentiment.
+
+---
+
+## 🛸 Armature (Science)
+
+I add this section because of the Arm root, and because of the game being seen as an engine where potential energy gets converted to kinetic, when you take into account the theories described above.
+
+---
+
+In electrical engineering, an armature is the main power-carrying component of an electromechanical machine, such as a motor or generator. It is the specific winding (or set of windings) that carries alternating current (AC) and handles the conversion between electrical and mechanical energy. In DC motors, it is typically the rotating part (rotor), but in large AC generators (alternators), the armature is often the stationary part (stator) to make insulating the high-voltage connections easier. Structurally, it generally consists of conductive coils wound around a ferromagnetic core, which concentrates the magnetic field to maximize torque or voltage generation.
+
+![](img/armtrak_2.jpg)
+
+---
+
+The "armature" concept—a rotating component generating a field—is frequently scaled up to explain how we might bend spacetime itself.
+The Real Physics: The Alcubierre Drive
+
+In 1994, physicist Miguel Alcubierre proposed a theoretical model for a warp drive that doesn't violate relativity. It works by contracting space in front of a ship and expanding it behind.
+
+The Problem: To make this work, you need negative mass or "exotic matter" to create the necessary distortions. We don't know how to create this.
+
+The "Armature" Solution (Speculative): Some theories suggest that super-dense, rotating electromagnetic fields could, at extreme energies, create frame-dragging effects that mimic mass or gravity.
+
+This is where the "armature" comes back in.
+The Sci-Fi Bridge: The "Gravitic Armature"
+
+Science fiction writers and speculative physicists often use the rotating armature as the mechanism to generate these warp fields.
+
+1. The "Spin" is Key
+Just as a standard electrical armature spins to create a magnetic field, a warp armature (or "core") is often depicted as spinning to create a gravitational field.
+
+Why? In General Relativity, a rotating mass drags spacetime around with it (Frame-Dragging).
+
+The Tech: If you spin a super-dense armature fast enough (relativistic speeds), you might theoretically twist spacetime into a vortex or a bubble—the precursor to a warp bubble.
+
+2. The "Event Horizon" Drive
+In the movie Event Horizon, the ship's core is essentially a multi-axis, magnetic armature.
+
+How it works: Three magnetic rings spin around a central core containing a black hole singularity.
+
+The Link: The magnetic fields confine and manipulate the singularity (the ultimate "armature") to fold space, connecting two points instantly.
+
+3. Mass Effect Fields
+In the Mass Effect universe, the "Element Zero" core is an armature that, when subjected to an electrical current, raises or lowers the mass of the volume of spacetime it occupies.
+
+The Link: This is a direct evolution of the electrical armature: Current In → Spacetime Effect Out.
+
+---
+
+## 🛸 Sea of Stars (Art)
+
+I include this image because of the Arm -> Mar root, and because the game is placed in space.
+
+---
+
+Mare: This is the Latin word for "sea". In astronomy and cartography, this is the standard term used to name the dark, basaltic plains on the Moon and Mars (e.g., Mare Tranquillitatis or "Sea of Tranquility").
+
+---
+
+In many cultures, the band of the Milky Way is viewed as a river or a celestial ocean. Visually, it looks like a frothy trail of water cutting through the night sky. In this context, the "Sea of Stars" is our view of the galactic plane.
+
+---
+
+In ancient cosmology and Gnostic thought, the universe was often depicted as being surrounded by water. The "Firmament" separated the waters below (Earth/oceans) from the "Waters Above" (Space).
+In this view, the "Sea of Stars" is the literal ocean of the heavens—a dark, fluid medium in which the stars float or are submerged.
+
+![](img/armtrak_3.jpg)
