@@ -278,9 +278,9 @@ Units: Unlimited | Damage: 100 | Placed | Explosive | Destructible | AoE | Auto 
 
 ### Charge
 
-The secondary attack that is achieved by holding the fire button for some time. This can insta-kill unless players have a health upgrade. All players have this available at any time. Used for precision one-shot kills, similar to sniping. Meant to be used often.
+The alternative attack that is achieved by holding the fire button for some time. This can insta-kill unless players have a health upgrade. All players have this available at any time. Used for precision one-shot kills, similar to sniping. Meant to be used often.
 
-Units: 1 | Damage: 100 | Secondary
+Units: 1 | Damage: 100 | Alternative
 
 ![](img/lasers/laser_charge.png)
 
