@@ -485,7 +485,7 @@ The Link: This is a direct evolution of the electrical armature: Current In → 
 
 ---
 
-## 🛸 Sea of Stars (Art)
+## 🛸 Sea of Stars (Art) <a name="mar"></a>
 
 I include this image because of the Arm -> Mar root, and because the game is placed in space.
 
