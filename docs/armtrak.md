@@ -509,6 +509,10 @@ In this view, the "Sea of Stars" is the literal ocean of the heavens—a dark, f
 
 ## 🛸 The Train (Art) <a name="train"></a>
 
+I include this image because of the similarity with an existing word.
+
+---
+
 The National Railroad Passenger Corporation, doing business as Amtrak (/ˈæmtræk/; reporting marks AMTK, AMTZ), is the national passenger railroad company of the United States. It operates intercity rail service in every contiguous U.S. state except for Wyoming and South Dakota as well as in three Canadian provinces. Amtrak is a portmanteau of the words America and track.
 
 ![](img/armtrak_4.jpg)
