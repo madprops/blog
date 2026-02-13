@@ -261,7 +261,7 @@ A close distance melee weapon with three cores, that causes the ship to rotate a
 
 Units: 3 | Damage: 7 | Effect: Burning | Melee
 
-![](img/lasers/laser_blade.png)
+![](img/lasers/laser_blade.gif)
 
 ### Spores
 
