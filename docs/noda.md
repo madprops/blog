@@ -63,6 +63,7 @@ A resonant sound that fades smoothly back into silence. It is the completion of 
 ---
 
 **11. Sira** - The Echo
+
 The first step beyond the reset. Sira is the realization that the new cycle mirrors the old, but on a different plane. It represents parallel paths, the twin, and the shadow of Noa (1). It is not an identical copy, but a resonance—a reminder that everything that happens has happened before in a different form.
 
 ---
