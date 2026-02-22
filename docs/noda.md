@@ -86,9 +86,9 @@ The space between realms. Vael is the conduit that connects two opposing forces 
 
 ---
 
-**15. Nara** - The Deep Center
+**15. Mura** - The Deep Center
 
-The gravitational heart of the second cycle. Nara is soft but incredibly heavy. It represents density, accumulation, and things hidden beneath the surface. It is the weight of deep water, the silent archiving of memory, and the quiet hum of immense, stored power.
+The gravitational heart of the second cycle. Mura is soft but incredibly heavy. It represents density, accumulation, and things hidden beneath the surface. It is the weight of deep water, the silent archiving of memory, and the quiet hum of immense, stored power.
 
 ---
 
@@ -116,15 +116,15 @@ The point of ignition. Built on sharp, frictional sounds, Vyra is the burning sp
 
 ---
 
-**20. Oxa** - The Plateau
+**20. Xova** - The Plateau
 
-The second grand completion. Oxa is the elevated ground reached after a grueling climb. Solid and structural, it represents a new, higher baseline of existence. It is a place to rest, to look down and observe the lower cycles, and to prepare the mind for the infinite ascent still to come.
+The second grand completion. Xova is the elevated ground reached after a grueling climb. Solid and structural, it represents a new, higher baseline of existence. It is a place to rest, to look down and observe the lower cycles, and to prepare the mind for the infinite ascent still to come.
 
 ---
 
 **21. Aurae** - The Awakening
 
-The jolt of sudden awareness. Stepping into the third cycle, Aurae represents the dissolution of the previous plateau (Oxa) and the realization that the rules of reality have shifted. It is the altered state, the breaking of a long illusion, and the first unclouded breath of a wider world.
+The jolt of sudden awareness. Stepping into the third cycle, Aurae represents the dissolution of the previous plateau (Xova) and the realization that the rules of reality have shifted. It is the altered state, the breaking of a long illusion, and the first unclouded breath of a wider world.
 
 ---
 
@@ -146,9 +146,9 @@ The vessel of transformation. Korna is the contained, intense fire where rigid s
 
 ---
 
-**25. Solas** - The Collective
+**25. Maelas** - The Collective
 
-The shared pulse. Solas represents the blurring of the individual into the whole. It is the hum of a collective mind, the deep, unspoken understanding between disparate entities, and the profound gravity of shared memory acting as a single organism.
+The shared pulse. Maelas represents the blurring of the individual into the whole. It is the hum of a collective mind, the deep, unspoken understanding between disparate entities, and the profound gravity of shared memory acting as a single organism.
 
 ---
 
@@ -400,7 +400,7 @@ The invisible medium of connection. Lurien represents the intangible, luminous s
 
 **67. Zeryth** - The Apex
 
-The highest state of pure vibration. Zeryth represents the aspiration of the seventh cycle—existing entirely as pure energy. It is the shedding of the last remnants of physical structure to become a clean, uninterrupted wave of light, operating far above the noise of the lower cycles.
+The highest state of pure vibration. Zeryth represents the absolute conversion into pure energy. It is the shedding of the last remnants of physical structure to become a clean, uninterrupted wave of light, operating far above the noise of the lower cycles.
 
 ---
 
@@ -496,7 +496,7 @@ The violent separation of the fabric of reality. Vadael represents the extreme t
 
 **83. Tzasha** - The Tremor
 
-The loss of structural integrity. Where the third cycle built perfect stability, Tzasha is the deep, structural vibration that signals a collapse is imminent. It represents the psychological and physical earthquake felt just moments before the ground actually breaks.
+The loss of structural integrity. Tzasha is the deep, structural vibration that signals a collapse is imminent. It represents the psychological and physical earthquake felt just moments before the ground actually breaks.
 
 ---
 
@@ -598,4 +598,4 @@ The final vibration before complete and total erasure. Xyven represents the ulti
 
 **100. Xenoa** - The Grand Singularity
 
-The absolute end and the absolute beginning. Xenoa is the seed planted in the dark. It represents the compressed totality of the entire 100-cycle journey, holding every triumph, failure, and physical law within a single, microscopic point. It rests in total silence, requiring only the breath of Noa (1) to shatter and begin the universe anew.
+The absolute end and the absolute beginning. Xenoa is the seed planted in the dark. It represents the compressed totality of the entire 10-cycle journey, holding every triumph, failure, and physical law within a single, microscopic point. It rests in total silence, requiring only the breath of Noa (1) to shatter and begin the universe anew.
