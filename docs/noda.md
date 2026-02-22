@@ -548,7 +548,7 @@ The absolute calm that follows the great collapse. Stepping into the final cycle
 
 ---
 
-**92. Xydael** - The Recombination
+**92. Xyloa** - The Recombination
 
 The gentle merging of all fragmented things back into a singular mass. Xydael represents the permanent end of duality. It is the moment the mirror shatters and the reflection is absorbed back into the source, ensuring that nothing is ever separated from the whole again.
 
