@@ -1,3 +1,7 @@
+![](img/noda.jpg)
+
+---
+
 **1. Noa** - The Origin
 
 The word physically opens the mouth, representing the first breath, the singularity, and the unformed beginning of all things.
