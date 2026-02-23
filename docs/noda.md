@@ -542,13 +542,13 @@ The grand completion of the ninth cycle. Xyvash is the sudden, shocking cessatio
 
 ---
 
-**91. Xanoa** - The Stillness After
+**91. Xyloa** - The Stillness After
 
-The absolute calm that follows the great collapse. Stepping into the final cycle, Xanoa represents the moment the dust settles. It is the sudden, breathtaking realization that the universe has been wiped completely clean, leaving behind an infinite, undisturbed canvas devoid of memory or pain.
+The absolute calm that follows the great collapse. Stepping into the final cycle, Xyloa represents the moment the dust settles. It is the sudden, breathtaking realization that the universe has been wiped completely clean, leaving behind an infinite, undisturbed canvas devoid of memory or pain.
 
 ---
 
-**92. Xyloa** - The Recombination
+**92. Xydael** - The Recombination
 
 The gentle merging of all fragmented things back into a singular mass. Xydael represents the permanent end of duality. It is the moment the mirror shatters and the reflection is absorbed back into the source, ensuring that nothing is ever separated from the whole again.
 
