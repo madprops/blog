@@ -63,3 +63,5 @@
 1) [Noda](https://github.com/madprops/blog/blob/main/docs/noda.md)
 
 1) [Nullkey](https://github.com/madprops/blog/blob/main/docs/nullkey/nullkey.md)
+
+1) [Mall Code](https://github.com/madprops/blog/blob/main/docs/mallcode/mallcode.md)
