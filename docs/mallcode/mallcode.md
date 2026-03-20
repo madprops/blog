@@ -30,7 +30,7 @@ The `HUD` contains a button to toggle beep sounds, an indicator with the current
 
 ---
 
-The current letter formed by players is shown in white, and after another delay the composed word is shown in yellow.
+The current letter formed by players is shown in white, and after another delay, the composed word is shown in yellow.
 
 ---
 
