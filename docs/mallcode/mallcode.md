@@ -56,6 +56,10 @@ And efforts are made to avoid spam.
 
 ---
 
+The name of the player that is currently talking is displayed at the top center.
+
+---
+
 https://mall.merkoba.com/
 
 https://github.com/madprops/mallcode
