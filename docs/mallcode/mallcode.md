@@ -56,7 +56,9 @@ And efforts are made to avoid spam.
 
 ---
 
-The name of the player that is currently talking is displayed at the top center.
+The name of the player that is currently talking is displayed on the top left center.
+
+There is a zone dial on the top right to select the letter and speed.
 
 ---
 
