@@ -28,6 +28,8 @@ The only input accepted in the game is a single signal which is either a dot or 
 
 The `HUD` contains a button to toggle beep sounds, an indicator with the current zone name, and the number of players connected to that particular zone.
 
+On the left there are the last 10 nouns typed in that zone. Which are words that are at least 3 chars in length that exist in a nouns list.
+
 ---
 
 The current letter formed by players is shown in white, and after another delay, the composed word is shown in yellow.
