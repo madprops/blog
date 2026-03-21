@@ -44,7 +44,7 @@ Each zone has a unique beep sound (might be repeated).
 
 The default zone changes daily, based on a random generator that uses the current date as the seed.
 
-The default zone is always of speed 5.
+The default zone is always of speed 3.
 
 ---
 
