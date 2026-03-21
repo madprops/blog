@@ -10,7 +10,7 @@ For instance a player can be in `G1` which is the slowest zone.
 
 Or `G9` which is the fastest zone.
 
-There are other zones apart from `G`.
+Zones can be any letter from `A` to `Z`.
 
 The faster zones are closer to the real normal morse code speed.
 
