@@ -44,6 +44,16 @@ Each zone has a unique beep sound (might be repeated).
 
 The default zone changes daily, based on a random generator that uses the current date as the seed.
 
+The default zone is always of speed 5.
+
+---
+
+All the logic is handled in the server.
+
+All clients can do is send `UP` and `DOWN` signals.
+
+And efforts are made to avoid spam.
+
 ---
 
 https://mall.merkoba.com/
