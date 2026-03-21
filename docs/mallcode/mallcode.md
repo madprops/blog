@@ -42,6 +42,10 @@ Each zone has a unique beep sound (might be repeated).
 
 ---
 
+The default zone changes daily, based on a random generator that uses the current date as the seed.
+
+---
+
 https://mall.merkoba.com/
 
 https://github.com/madprops/mallcode
