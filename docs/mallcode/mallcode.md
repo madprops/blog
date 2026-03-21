@@ -4,7 +4,7 @@
 
 Mall Code is a multiplayer game for morse code communication.
 
-Every player is in a zone at a certain speed.
+Every player is in a zone at a certain speed (1 through 9).
 
 For instance a player can be in `G1` which is the slowest zone.
 
