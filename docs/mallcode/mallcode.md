@@ -18,10 +18,6 @@ The slower zones are for newbies.
 
 The speed of the zones determine the delays that consider the input a letter or word.
 
-Each zone has 9 files which can be accessed with `U`.
-
-For instance `U8` would would fetch the 8th asset of the current zone.
-
 ---
 
 The only input accepted in the game is a single signal which is either a dot or a dash. This can be any keyboard signal or mouse button.
