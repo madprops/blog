@@ -36,6 +36,10 @@ There is a 3 second lock for players to not be interrupted, by taking control of
 
 ---
 
+Each zone has a unique color theme (might be repeated).
+
+---
+
 https://mall.merkoba.com/
 
 https://github.com/madprops/mallcode
