@@ -38,7 +38,7 @@ There is a 3 second lock for users to not be interrupted, by taking control of t
 
 Each zone has a unique color theme (might be repeated).
 
-Each zone has a unique beep sound (might be repeated).
+Each user has a unique beep sound (might be repeated).
 
 ---
 
