@@ -70,6 +70,12 @@ After that they lose control and get blocked for 10 seconds.
 
 ---
 
+The username is based on a cookie created on first visit.
+
+The name, color, and sound of users, are based on the username.
+
+---
+
 https://mall.merkoba.com/
 
 https://github.com/madprops/mallcode
