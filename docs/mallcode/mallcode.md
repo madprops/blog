@@ -66,7 +66,7 @@ Spam is punished with ip-based 60-second block times.
 
 A user can have continued control for up to 60 seconds.
 
-After that they lose control and get soft-blocked for 10 seconds.
+After that they lose control and get blocked for 10 seconds.
 
 ---
 
