@@ -62,6 +62,10 @@ There is a zone dial on the top right to select the letter and speed.
 
 ---
 
+Spam is punished with ip-based 60 second block times.
+
+---
+
 https://mall.merkoba.com/
 
 https://github.com/madprops/mallcode
