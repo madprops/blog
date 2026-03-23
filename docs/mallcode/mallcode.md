@@ -64,6 +64,10 @@ There is a zone dial on the top right to select the letter and speed.
 
 Spam is punished with ip-based 60 second block times.
 
+A user can have continued control for up to 60 seconds.
+
+After that they lose control and get soft-blocked for 10 seconds.
+
 ---
 
 https://mall.merkoba.com/
