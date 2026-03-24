@@ -24,7 +24,9 @@ The only input accepted in the system is a single signal which is either a dot o
 
 The `HUD` contains a button to toggle beep sounds, an indicator with the current zone name, and the number of users connected to that particular zone.
 
-On the left there are the last 10 nouns typed in that zone. Which are words that are at least 3 chars in length that exist in a nouns list.
+On the left there are the last 10 nouns typed in that zone. Which are words that are at least 3 chars in length that exist in the word list.
+
+New words are added to the bottom of the vertical list.
 
 ---
 
