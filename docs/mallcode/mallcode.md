@@ -78,6 +78,18 @@ The name, color, and sound of users, are based on the username.
 
 ---
 
+There is a button to change the dash from being slightly above the dots, slightly below, or on the same line.
+
+There is a button to toggle animation effects on or off.
+
+There is an About button.
+
+---
+
+If single letter, instead of printing a single letter word, the visible letter just changes color.
+
+---
+
 https://mall.merkoba.com/
 
 https://github.com/madprops/mallcode
