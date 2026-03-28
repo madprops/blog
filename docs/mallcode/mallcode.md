@@ -90,6 +90,14 @@ If single letter, instead of printing a single letter word, the visible letter j
 
 ---
 
+There is an update section with join and leave messages.
+
+---
+
+The URL contains a &zone parameter that is used to join specific zones and is updated automatically.
+
+---
+
 https://mall.merkoba.com/
 
 https://github.com/madprops/mallcode
