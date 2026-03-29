@@ -98,6 +98,14 @@ The URL contains a &zone parameter that is used to join specific zones and is up
 
 ---
 
+Certain words get to be displayed in a Bluesky account.
+
+---
+
+Sekrit zones can be reached by typing sekrit words.
+
+---
+
 https://mall.merkoba.com/
 
 https://github.com/madprops/mallcode
