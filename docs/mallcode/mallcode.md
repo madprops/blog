@@ -104,6 +104,10 @@ Certain words get to be displayed in a Bluesky account.
 
 Sekrit zones can be reached by typing sekrit words.
 
+Going to a sekrit zone unlocks it, places it on the map.
+
+Using the map is possible to go back to the visited sekrit zones.
+
 ---
 
 https://mall.merkoba.com/
