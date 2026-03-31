@@ -110,6 +110,10 @@ Using the map is possible to go back to the visited sekrit zones.
 
 ---
 
+There's an anti-spam system.
+
+---
+
 https://mall.merkoba.com/
 
 https://github.com/madprops/mallcode
