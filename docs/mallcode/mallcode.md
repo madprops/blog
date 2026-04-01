@@ -114,6 +114,24 @@ There's an anti-spam system.
 
 ---
 
+There are echoes created through markov using the zone's words.
+
+---
+
+There are anomalies that exist temporarily, created at a certain % chance on every word.
+
+---
+
+Each letter sets the background color. All B zones are of a certain color, etc.
+
+Sekrit zones and anomalies get a random color based on the zone name.
+
+---
+
+There is a bundler to automatically bundle js main and lib bundles.
+
+---
+
 https://mall.merkoba.com/
 
 https://github.com/madprops/mallcode
