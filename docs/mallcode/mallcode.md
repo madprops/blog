@@ -132,6 +132,12 @@ There is a bundler to automatically bundle js main and lib bundles.
 
 ---
 
+The zone map icon goes red when locked (channel being used), and green when unlocked.
+
+The rings around the zone map icon denote connection to the server.
+
+---
+
 https://mall.merkoba.com/
 
 https://github.com/madprops/mallcode
