@@ -138,6 +138,10 @@ The rings around the zone map icon denote connection to the server.
 
 ---
 
+The zone last activity only gets updated on word matches.
+
+---
+
 https://mall.merkoba.com/
 
 https://github.com/madprops/mallcode
