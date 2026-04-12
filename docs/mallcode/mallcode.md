@@ -142,6 +142,20 @@ The zone last activity only gets updated on word matches.
 
 ---
 
+There are enemies called 'jammers' that spawn on a zone at 10% chance on words.
+
+They can be attacked with `boom, pulse, shock, flare, crash`.
+
+Every attack randomly does a 10 to 100 hp damage.
+
+Jammers start with 100 hp. And they heal 25 hp on non jammer words.
+
+When the hp goes to 0 the jammer gets destroyed.
+
+This is shown in the top right log messages window.
+
+---
+
 https://mall.merkoba.com/
 
 https://github.com/madprops/mallcode
