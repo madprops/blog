@@ -10,7 +10,7 @@ Here are some reasons why:
 
 Not everyone agrees to learn how to use an ssh terminal.
 
-Arguably you're interesting when you do.s
+Arguably you're interesting when you do.
 
 ### 🛸 The System
 
