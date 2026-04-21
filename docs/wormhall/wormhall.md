@@ -6,8 +6,6 @@ We all know about Wormhall. It changed out life.
 
 Here are some reasons why:
 
-## Theories
-
 ### 🛸 The Tree House
 
 Not everyone agrees to learn how to use an ssh terminal.
