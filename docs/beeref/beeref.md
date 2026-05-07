@@ -21,3 +21,5 @@ And I can leave this open and glance at it from time to time, to slowly and natu
 As things add up I can also use this as a memory tool, images of niche websites, books, whatever I think I should dig deeper into from time to time, without this I might forget a lot of those, this acts as visual bookmarks.
 
 The `.bee` file can be easily shared, and maybe there's some ways to enable real time collaboration with multiple people.
+
+Over time the canvas might get huge, which can be a nice historical monument to your interests over the years.
