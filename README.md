@@ -67,3 +67,5 @@
 1) [Mall Code](https://github.com/madprops/blog/blob/main/docs/mallcode/mallcode.md)
 
 1) [Wormhall](https://github.com/madprops/blog/blob/main/docs/wormhall/wormhall.md)
+
+1) [BeeRef](https://github.com/madprops/blog/blob/main/docs/wormhall/beeref.md)
