@@ -229,6 +229,8 @@ def main(api: Any) -> None:
                 pass
 ```
 
+![](np.png)
+
 ---
 
 ## Characters
@@ -257,7 +259,7 @@ This is the soul of the program, a friendly guy called Melt that can turn into l
 
 ![](portrait.jpg)
 
-Melt is also the name of the platform where uploads go to. With a single click an upload wizard appears that allow making custom markdown uploads, that allows users to define a title, if the prompts should be included, if the thoughts should be included, if all of it should be uploaded or just the first/last message. There is also an `API` function for this.
+Melt is also the name of the platform where uploads go to. With a single click an upload wizard appears that allow making custom markdown uploads. It allows users to define a title, if the prompts should be included, if the thoughts should be included, if all of it should be uploaded or just the first/last message. There is also an `API` function for this.
 
 ![](melt.png)
 
