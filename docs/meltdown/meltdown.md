@@ -339,3 +339,5 @@ The link is public and can be shared with other people. This can be fun when you
 This is not all Meltdown has to show, but it gives you an idea of what it can do.
 
 If you want to dig deeper you can visit: https://meltdown.merkoba.com
+
+Meltdown is named after the album by [Vinnie Moore](https://www.youtube.com/watch?v=vITyVII1ZH0).
