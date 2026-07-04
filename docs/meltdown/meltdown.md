@@ -40,7 +40,7 @@ There is a table widget to present table data. This is data that the LLM provide
 
 ---
 
-## Markdwon
+## Markdown
 
 The markdown engine is built from scratch, I don't use a library for this. This allows me to optimize the rendering process as much as possible as I only parse what is needed, and in exactly the ways I want. It also allows me to define custom markdown, like `tablinks`, or `filelinks`, or `commandlinks`, or `promptlinks`, or `scriptlinks`, which perform actions when the user clicks them.
 
