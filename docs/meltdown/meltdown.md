@@ -326,7 +326,7 @@ In Meltdown:
 ![](wizard.png)
 
 This creates a post in Melt and returns the URL and password so it can be edited later.
-The link is public and be shared with other people.
+The link is public and can be shared with other people. This can be fun when you had an interesting conversation with the AI that you want others to see.
 
 ![](melt.png)
 
