@@ -268,6 +268,13 @@ This can be used through scripts, so it allows something like this:
 
 Melt is the platform where uploads go to. With a single click an upload wizard appears that allow making custom markdown uploads. It allows users to define a title, if the prompts should be included, if the thoughts should be included, if all of it should be uploaded or just the first/last message. There is also an API function for this.
 
+In Meltdown:
+
+![](wizard.png)
+
+This creates a post in Melt and returns the URL and password so it can be edited later.
+The link is public and be shared with other people.
+
 ![](melt.png)
 
 ---
