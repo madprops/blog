@@ -235,6 +235,6 @@ Melt is also the name of the platform where uploads go to. With a single click a
 
 ## More
 
-This is not all Meltdown can do, but it gives you an idea of what it can do.
+This is not all Meltdown has to show, but it gives you an idea of what it can do.
 
 If you want to dig deeper you can visit: https://meltdown.merkoba.com
