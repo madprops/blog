@@ -10,7 +10,7 @@ I like making power user tools, for me and others who need them. I also like mak
 
 ## Models
 
-Models are controlled through a widget that allows adding them from some pre-defined sources, or manually. They can be sorted, and it tries to auto-detect models from `llama.cpp` or `ollama`. There are options to allow fallbacks so if a model doesn't work it tries the next one on the list. There are ways to prompt several models at once with the same prompt, or all of them.
+Models are controlled through a widget that allows adding them from some pre-defined sources, or manually. They can be sorted, and it tries to auto-detect models from `llama.cpp` or `ollama`. There are options to allow fallbacks so if a model doesn't work it tries the next one on the list. There are ways to prompt several models at once with the same prompt, or all of them. Right now the providers supported are `openai`, `anthropic`, `google`, `kimi`, `openrouter`, `llama.cpp`, `ollama`.
 
 ![](models.png)
 
@@ -43,6 +43,20 @@ There is a table widget to present table data. This is data that the LLM provide
 ## Markdown
 
 The markdown engine is built from scratch, I don't use a library for this. This allows me to optimize the rendering process as much as possible as I only parse what is needed, and in exactly the ways I want. It also allows me to define custom markdown, like `tablinks`, or `filelinks`, or `commandlinks`, or `promptlinks`, or `scriptlinks`, which perform actions when the user clicks them.
+
+---
+
+## Tool Calling
+
+The models engine has some tools registered which the user can enable or disable on the interface. These are:
+
+- Search: Do web searches or visit websites
+- Image: Generate images
+- Memory: Save and retrieve information about the user when needed
+- Documents: Save documents like text files or pdfs
+- Clipboard: Read and write to the system clipboard
+
+More tools can be registered through scripts.
 
 ---
 
