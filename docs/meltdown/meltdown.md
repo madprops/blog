@@ -68,7 +68,9 @@ Right now there are 258 commands, which can be chained, aliased, and used throug
 
 ## Scripts
 
-But there is also something I added recently that I think will make Meltdown really shine: I made an `API` that python scripts can use to interface with. The API allows getting input from the user, interacting with the models, getting, presenting, and saving information, and more. Right now there are 42 implemented functions, and I add more as I use it myself and realize what is missing to make more scripts possible. As I add functions I have to rethink how some core functions work to make them work both when the user uses the interface normally and when they are being called programatically through scripts. This has made the `prompt` function very powerful as it allows the script writer to control how inference is done at very detailed levels. Here is the function header to illustrate:
+But there is also something I added recently that I think will make Meltdown really shine: I made an `API` that python scripts can use to interface with. The API allows getting input from the user, interacting with the models, getting, presenting, and saving information, and more. Right now there are 42 implemented functions, and I add more as I use it myself and realize what is missing to make more scripts possible. As I add functions I have to rethink how some core functions work to make them work both when the user uses the interface normally and when they are being called programatically through scripts. This has made the `prompt` function very powerful as it allows the script writer to control how inference is done at very detailed levels.
+
+Here is the function header for `prompt` to illustrate:
 
 ```python
 def prompt(
@@ -113,7 +115,7 @@ def prompt(
     """
 ```
 
-Scripts can be saved in `~/meltdown/scripts` as `.py` files, and all they have to do is have a main function that receives `api`.
+Scripts can be saved in `~/meltdown/scripts` as `.py` files, and all they have to do is have a main function that receives `api`. They are called with the `/script name` command. Other related commands are `/running` to list all running scripts, `/stopscripts` to stop all scripts, and `/stopscript tab_id` to stop a specific one, `/openscript name` to read the code of a script, and `/listscripts` to list all registered scripts.
 
 Here are some example scripts:
 
