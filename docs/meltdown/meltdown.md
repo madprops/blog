@@ -10,17 +10,17 @@ I like making power user tools, for me and others who need them. I also like mak
 
 ## Models
 
-![](models.png)
-
 Models are controlled through a widget that allows adding them from some pre-defined sources, or manually. They can be sorted, and it tries to auto-detect models from `llama.cpp` or `ollama`. There are options to allow fallbacks so if a model doesn't work it tries the next one on the list. There are ways to prompt several models at once with the same prompt, or all of them.
+
+![](models.png)
 
 ---
 
 ## Uploads
 
-![](uploads.png)
-
 There is a widget to allow file uploads. This uses the system's file picker to pick one or more files. It's also easy to provide files programatically through scripts.
+
+![](uploads.png)
 
 ---
 
