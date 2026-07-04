@@ -40,6 +40,12 @@ There is a table widget to present table data. This is data that the LLM provide
 
 ---
 
+## Markdwon
+
+The markdwon engine is built from scratch, I don't use a library for this. This allows me to optimize the rendering process as much as possible as I only parse what is needed, and in exactly the ways I want. It also allows me to define custom markdown, like `tablinks`, or `filelinks`, or `commandlinks`, or `promptlinks`, or `scriptlinks`, which perform actions when the user clicks them.
+
+---
+
 ## Commands, Arguments
 
 Right now there are 258 commands, which can be chained, aliased, and used throughout the application in different ways. There are 440 arguments which are meant to be used at startup, which allow changing a large amount of functionality, if I ever had to make a decision about how something should behave I made sure I made an argument so the user can control it. Arguments can also be defined in argfile, which is a json file with all the arguments defined which is loaded at launch; that is what I use myself.
