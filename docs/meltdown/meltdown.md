@@ -42,19 +42,19 @@ There is a table widget to present table data. This is data that the LLM provide
 
 ## Markdwon
 
-The markdwon engine is built from scratch, I don't use a library for this. This allows me to optimize the rendering process as much as possible as I only parse what is needed, and in exactly the ways I want. It also allows me to define custom markdown, like `tablinks`, or `filelinks`, or `commandlinks`, or `promptlinks`, or `scriptlinks`, which perform actions when the user clicks them.
+The markdown engine is built from scratch, I don't use a library for this. This allows me to optimize the rendering process as much as possible as I only parse what is needed, and in exactly the ways I want. It also allows me to define custom markdown, like `tablinks`, or `filelinks`, or `commandlinks`, or `promptlinks`, or `scriptlinks`, which perform actions when the user clicks them.
 
 ---
 
 ## Commands, Arguments
 
-Right now there are 258 commands, which can be chained, aliased, and used throughout the application in different ways. There are 440 arguments which are meant to be used at startup, which allow changing a large amount of functionality, if I ever had to make a decision about how something should behave I made sure I made an argument so the user can control it. Arguments can also be defined in argfile, which is a json file with all the arguments defined which is loaded at launch; that is what I use myself.
+Right now there are 258 commands, which can be chained, aliased, and used throughout the application in different ways. There are 440 arguments which are meant to be used at startup, which allow changing a large amount of functionality, if I ever had to make a decision about how something should behave I made sure I made an argument so the user can control it. Arguments can also be defined in an `argfile`, which is a json file with all the arguments defined which is loaded at launch; that is what I use myself.
 
 ---
 
 ## Scripts
 
-But there is also something I added recently that I think will make Meltdown really shine: I made an API that python scripts can use to interface with it. The API allows getting input from the user, interacting with the models, getting information, and more. Right now there are 41 implemented functions, and I add more as I use it myself and realize what is missing to make more scripts possible. As I add functions I have to rethink how some core functions work to make them work both when the user uses the interface normally and when they are being called programatically through scripts. This has made the `prompt` function very powerful as it allows the script writer to control how inference is done at very detailed levels. Here is the function header to illustrate:
+But there is also something I added recently that I think will make Meltdown really shine: I made an `API` that python scripts can use to interface with. The API allows getting input from the user, interacting with the models, getting, presenting, and saving information, and more. Right now there are 41 implemented functions, and I add more as I use it myself and realize what is missing to make more scripts possible. As I add functions I have to rethink how some core functions work to make them work both when the user uses the interface normally and when they are being called programatically through scripts. This has made the `prompt` function very powerful as it allows the script writer to control how inference is done at very detailed levels. Here is the function header to illustrate:
 
 ```python
 def prompt(
