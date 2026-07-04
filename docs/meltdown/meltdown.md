@@ -78,6 +78,7 @@ def prompt(
     model: str = "",
     system: str = "",
     parameters: str = "",
+    characters: str = "",
     custom_tools: list[dict[str, str]] | None = None,
     custom_toolfuncs: dict[str, str] | None = None,
     background: bool = False,
@@ -92,9 +93,12 @@ def prompt(
     avatar_ai: str = "",
 ) -> str:
     """Prompt a model and block until the stream finishes, returning the text
+    Text is the prompt text to send to the model
     You can include files like [path1, path2, path3]
     You can define a specific model to use
     You can define a specific system prompt to use
+    You can define specific model parameters to use
+    You can define the characters sheet to use
     You can include custom tool definitions and their functions
     You can use background=True to get inference in a quiet way that is not shown or logged
     You can use scroll=False to prevent the tab from scrolling on progress and on end
