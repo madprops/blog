@@ -1,10 +1,12 @@
 # Meltdown
 
-I started working on this since 2024. Initially I attempted to do a TUI using prompt_toolkit to do basic inference. I just wanted something simple I could use to use LLM API services; for some reason I was having trouble at the time to find something I liked. The TUI quickly became too complicated so I decided to switch to Tkinter, and I'm glad I did. Tkinter and GUIs allow things TUIs simple can't, or present them much more nicely, and it's less hacky. Tkinter is incredibly stable: Just now it's getting an update to 9.0, which brings a lot of improvements like proper utf-8 and 64 bit text buffers, but that's after decades, the API is basically frozen. Tkinter has provided the building blocks I've needed to build the interface and the widgets. Since I don't just use built-in advanced widgets I've had to make my own implementations, for simple and advanced stuff, and I like the control that gives me.
+I started working on this since 2024. Initially I attempted to do a `TUI` using `prompt_toolkit` to do basic inference. I just wanted something simple to use `LLM API services` since for some reason I was having trouble at the time to find something I liked. The TUI quickly became too complicated so I decided to switch to `Tkinter`, and I'm glad I did. Tkinter and `GUIs` allow things TUIs simply can't, or present them much more nicely, and it's less hacky. Tkinter is incredibly stable: Just now it's getting an update to `9.0`, which brings a lot of improvements like proper utf-8 and 64 bit text buffers, but that's after decades, the API is basically frozen. Tkinter has provided the building blocks I've needed to build the interface and the widgets. Since I don't just use built-in advanced widgets I've had to make my own implementations, for simple and advanced stuff, and I like the control that gives me.
 
 ![](image.png)
 
-I like making power user tools, for me and others who need them. I also like making sure things look good. I added a command system, a config system, and argument system, a logging system, an upload system, a custom markdown engine, menus, dialogs, autoscroll widgets, the model system of course for inference, and a lot of other stuff. I push myself to implement little advanced features that I personally use, like mouse gestures; i.e right click and drag to scroll up/down, or how there are multiple ways to close tabs, like: all, old, to the left, to the right, half, others, just this one. Also there are 8 color themes, and 23 language translations for the interface, which should get better over time.
+I like making power user tools, for me and others who need them. I also like making sure things look good. I added a command system, a config system, an argument system, a logging system, an upload system, a custom markdown engine, menus, dialogs, autoscroll widgets, find widgets, the model system of course, for inference, and a lot of other stuff. I push myself to implement little advanced features that I personally use, like mouse gestures; i.e right click and drag to scroll up/down, or how there are multiple ways to close tabs, like: all, old, to the left, to the right, half, others, or just this one, or how I can press `ctrl+d` when a word is highlighted to highlight other occurences. Also there are 8 color themes, and 23 language translations for the interface, which should get better over time.
+
+---
 
 ## Models
 
@@ -12,15 +14,37 @@ I like making power user tools, for me and others who need them. I also like mak
 
 Models are controlled through a widget that allows adding them from some pre-defined sources, or manually. They can be sorted, and it tries to auto-detect models from `llama.cpp` or `ollama`. There are options to allow fallbacks so if a model doesn't work it tries the next one on the list. There are ways to prompt several models at once with the same prompt, or all of them.
 
+---
+
 ## Uploads
 
 ![](uploads.png)
 
 There is a widget to allow file uploads. This uses the system's file picker to pick one or more files. It's also easy to provide files programatically through scripts.
 
+---
+
+## Snippets
+
+There is a snippets widget to present different forms of code. It includes some buttons to perform actions on the content of the snippet.
+
+![](snippets.jpg)
+
+---
+
+## Tables
+
+There is a table widget to present table data. This is data that the LLM provides when using `-` and `|` characters. It allows sorting by clicking the headers, button actions, piping the content to other programs, and it adapts automatically as the window resizes.
+
+![](tables)
+
+---
+
 ## Commands, Arguments
 
 Right now there are 258 commands, which can be chained, aliased, and used throughout the application in different ways. There are 440 arguments which are meant to be used at startup, which allow changing a large amount of functionality, if I ever had to make a decision about how something should behave I made sure I made an argument so the user can control it. Arguments can also be defined in argfile, which is a json file with all the arguments defined which is loaded at launch; that is what I use myself.
+
+---
 
 ## Scripts
 
