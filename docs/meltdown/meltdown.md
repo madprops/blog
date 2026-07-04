@@ -42,7 +42,7 @@ There is a table widget to present table data. This is data that the LLM provide
 
 ## Markdown
 
-The markdown engine is built from scratch, I don't use a library for this. This allows me to optimize the rendering process as much as possible as I only parse what is needed, and in exactly the ways I want. It also allows me to define custom markdown, like `tablinks`, or `filelinks`, or `commandlinks`, or `promptlinks`, or `scriptlinks`, which perform actions when the user clicks them.
+The markdown engine is built from scratch, I don't use a library for this. This allows me to optimize the rendering process as much as possible as I only parse what is needed, and in exactly the ways I want. It also allows me to define custom markdown, like `tablinks`, `filelinks`, `commandlinks`, `promptlinks`, or `scriptlinks`, which perform actions when the user clicks them.
 
 ---
 
@@ -135,6 +135,7 @@ def send_mpv_command(command_list):
         raise FileNotFoundError(f"Socket not found at {SOCKET_PATH}. Is Haruna/mpv running?")
 
     client = socket.socket(socket.AF_UNIX, socket.SOCK_STREAM)
+
     try:
         client.connect(SOCKET_PATH)
         payload = json.dumps({"command": command_list}) + "\n"
@@ -265,7 +266,7 @@ This can be used through scripts, so it allows something like this:
 
 ## Melt
 
-Melt is the platform where uploads go to. With a single click an upload wizard appears that allow making custom markdown uploads. It allows users to define a title, if the prompts should be included, if the thoughts should be included, if all of it should be uploaded or just the first/last message. There is also an `API` function for this.
+Melt is the platform where uploads go to. With a single click an upload wizard appears that allow making custom markdown uploads. It allows users to define a title, if the prompts should be included, if the thoughts should be included, if all of it should be uploaded or just the first/last message. There is also an API function for this.
 
 ![](melt.png)
 
