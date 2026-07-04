@@ -2,6 +2,8 @@
 
 I started working on this since 2024. Initially I attempted to do a TUI using prompt_toolkit to do basic inference. I just wanted something simple I could use to use LLM API services; for some reason I was having trouble at the time to find something I liked. The TUI quickly became too complicated so I decided to switch to Tkinter, and I'm glad I did. Tkinter and GUIs allow things TUIs simple can't, or present them much more nicely, and it's less hacky. Tkinter is incredibly stable: Just now it's getting an update to 9.0, which brings a lot of improvements like proper utf-8 and 64 bit text buffers, but that's after decades, the API is basically frozen. Tkinter has provided the building blocks I've needed to build the interface and the widgets. Since I don't just use built-in advanced widgets I've had to make my own implementations, for simple and advanced stuff, and I like the control that gives me.
 
+![](image.png)
+
 I like making power user tools, for me and others who need them. I also like making sure things look good. I added a command system, a config system, and argument system, a logging system, an upload system, a custom markdown engine, menus, dialogs, autoscroll widgets, the model system of course for inference, and a lot of other stuff. I push myself to implement little advanced features that I personally use, like mouse gestures; i.e right click and drag to scroll up/down, or how there are multiple ways to close tabs, like: all, old, to the left, to the right, half, others, just this one. Also there are 8 color themes, and 23 language translations for the interface, which should get better over time.
 
 ## Models
@@ -208,6 +210,22 @@ Recently I added the ability to easily define characters.
 This can be used through scripts, so it allows something like this:
 
 ![](talk.png)
+
+---
+
+## Logo
+
+This is the current logo for the project.
+
+![](logo.jpg)
+
+---
+
+## Melt
+
+This is the soul of the program, friendly guy called melt that can turn into liquid form and play around your electronics.
+
+![](portrait.png)
 
 ---
 
