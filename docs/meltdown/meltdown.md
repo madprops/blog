@@ -215,7 +215,7 @@ This can be used through scripts, so it allows something like this:
 
 ## Logo
 
-This is the current logo for the project.
+This is the current logo of the project.
 
 ![](logo.jpg)
 
@@ -223,9 +223,13 @@ This is the current logo for the project.
 
 ## Melt
 
-This is the soul of the program, friendly guy called melt that can turn into liquid form and play around your electronics.
+This is the soul of the program, a friendly guy called Melt that can turn into liquid form and play around your electronics.
 
-![](portrait.png)
+![](portrait.jpg)
+
+Melt is also the name of the platform where uploads go to. With a single click an upload wizard appears that allow making custom markdown uploads, that allows users to define a title, if the prompts should be included, if the thoughts should be included, if all of it should be uploaded or just the first/last message. There is also an `API` function for this.
+
+![](melt.png)
 
 ---
 
