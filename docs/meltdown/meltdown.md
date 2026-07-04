@@ -252,6 +252,59 @@ def main(api: Any) -> None:
 
 ---
 
+## irc.py
+
+This is a script that reads recent logs from `irc` and uses the model to summarize them. This can be useful when you want a quick overview among many channels to have an idea of what has happened recently.
+
+```python
+import time
+from pathlib import Path
+from typing import Any
+
+
+def main(api: Any) -> None:
+    log_dir = Path("/home/yo/.config/hexchat/logs/")
+    now = time.time()
+    two_hours_ago = now - (2 * 3600)
+
+    if not log_dir.exists():
+        api.print("Hexchat logs directory not found.")
+        return
+
+    files = []
+
+    for f in log_dir.rglob("*"):
+        if f.is_file() and f.stem != f.parent.name:
+            file_mtime = f.stat().st_mtime
+
+            if file_mtime >= two_hours_ago:
+                files.append((file_mtime, f))
+
+    files.sort(key=lambda item: item[0], reverse=True)
+    top_files = files[:20]
+    summary_lines = []
+
+    for _file_mtime, filepath in top_files:
+        with Path(filepath).open("r", encoding="utf-8", errors="replace") as file_obj:
+            lines = file_obj.readlines()
+
+        last_lines = lines[-50:]
+        content = "".join(last_lines)
+        summary_lines.append(f"{filepath.parent.name} > {filepath.name}:\n{content}")
+
+    if not summary_lines:
+        api.print("No recent IRC activity found.")
+        return
+
+    summary_text = "\n\n".join(summary_lines)
+    temp_file_path = api.tempfile(summary_text, "txt")
+    prompt_text = "These files contain the last 50 lines of recent IRC logs. Please analyze the activity and provide a summary of what happened recently so I can catch up."
+    api.echo("Analyzing recent IRC activity...")
+    api.prompt(text=prompt_text, files=[temp_file_path])
+```
+
+---
+
 ## Characters
 
 Recently I added the ability to easily define characters.
