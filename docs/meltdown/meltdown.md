@@ -28,7 +28,7 @@ There is a widget to allow file uploads. This uses the system's file picker to p
 
 There is a snippets widget to present different forms of code. It includes some buttons to perform actions on the content of the snippet.
 
-![](snippets.jpg)
+![](snippets.png)
 
 ---
 
@@ -36,7 +36,7 @@ There is a snippets widget to present different forms of code. It includes some 
 
 There is a table widget to present table data. This is data that the LLM provides when using `-` and `|` characters. It allows sorting by clicking the headers, button actions, piping the content to other programs, and it adapts automatically as the window resizes.
 
-![](tables)
+![](tables.png)
 
 ---
 
