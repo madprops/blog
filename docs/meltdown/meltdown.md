@@ -26,7 +26,7 @@ There is a widget to allow file uploads. This uses the system's file picker to p
 
 ## Snippets
 
-There is a snippets widget to present different forms of code. It includes some buttons to perform actions on the content of the snippet.
+There is a snippets widget to present different forms of code. It includes some buttons to perform actions on the content of the snippet. These are also used to enclose long prompts and AI thoughts.
 
 ![](snippets.png)
 
