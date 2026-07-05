@@ -192,7 +192,7 @@ This is a script that gets the information about the music I'm currently playing
 
 ![](npdir.png)
 
-First here is the `shell.nix`:
+First here is the `shell.nix`, this is needed to provide the `dbus` dependency:
 
 ```nix
 { pkgs ? import <nixpkgs> {} }:
