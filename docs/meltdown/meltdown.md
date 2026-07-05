@@ -62,7 +62,7 @@ More tools can be registered through scripts.
 
 ## Commands, Arguments
 
-Right now there are 258 commands, which can be chained, aliased, and used throughout the application in different ways. There are 440 arguments which are meant to be used at startup, which allow changing a large amount of functionality. When I had to make a decision about how something should behave, I made sure a new argument was created so the user can control it. Arguments can also be defined in an `argfile`, which is a json file with arguments defined, which is loaded at launch; that is what I use myself.
+Right now there are 258 commands, which can be chained, aliased, and used throughout the application in different ways. There are 440 arguments which are meant to be used at startup, which allow changing a large amount of functionality. When I had to make a decision about how something should behave, I made sure a new argument was created so the user can control it. Arguments can also be defined in an `argfile` with arguments defined, which is loaded at launch; that is what I use myself.
 
 ---
 
