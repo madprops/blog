@@ -16,7 +16,7 @@ Models are controlled through a widget that allows adding them from some pre-def
 
 ---
 
-## Uploads
+## Files
 
 There is a widget to allow file uploads. This uses the system's file picker to pick one or more files. It's also easy to provide files programatically through scripts.
 
