@@ -190,6 +190,8 @@ Here is a script that uses this:
 
 This is a script that gets the information about the music I'm currently playing, and then simply asks a model to comment on it.
 
+![](npdir.png)
+
 First here is the `shell.nix`:
 
 ```nix
