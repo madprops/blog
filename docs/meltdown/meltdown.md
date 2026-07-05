@@ -121,7 +121,7 @@ Here are some example scripts:
 
 ## mpv.py
 
-This is a simple script that uses `mpv` sockets to capture frames and save them to the temporary directory so I can send them to models. The model is then given a the file and a prompt asking it to comment on what it sees, to simulate a movie watching partner in real time. It hides the prompt so the user request is not shown, and it excludes conversation history so each request is pure.
+This is a simple script that uses `mpv` sockets to capture frames and save them to the temporary directory so I can send them to models. The model is then given the file and a prompt asking it to comment on what it sees, to simulate a movie-watching partner in real time. It hides the prompt so the user request is not shown, and it excludes conversation history so each request is pure.
 
 ```python
 import json
