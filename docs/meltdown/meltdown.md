@@ -4,7 +4,7 @@ I started working on this since 2024. Initially I attempted to do a `TUI` using 
 
 ![](image.png)
 
-I like making power user tools, for me and others who need them. I also like making sure things look good. I added a command system, a config system, an argument system, a logging system, an upload system, a custom markdown engine, menus, dialogs, an autoscroll mechanism, a text finder, keyboard shortcuts, the model system of course, and a lot of other stuff. I push myself to implement little advanced features that I personally use, like mouse gestures; i.e right click and drag to scroll up/down, or how there are multiple ways to close tabs, like: all, old, to the left, to the right, half, others, or just this one, or how I can press `ctrl+d` when a word is highlighted to highlight other occurences. Also there are 8 color themes, and 23 language translations for the interface, which should get better over time.
+I like making power user tools, for me and others who need them. I also like making sure things look good. I added a command system, a config system, an argument system, a logging system, an upload system, a custom markdown engine, menus, dialogs, an autoscroll mechanism, a text finder, keyboard shortcuts, spellcheck, the model system of course, and a lot of other stuff. I push myself to implement little advanced features that I personally use, like mouse gestures; i.e right click and drag to scroll up/down, or how there are multiple ways to close tabs, like: all, old, to the left, to the right, half, others, or just this one, or how I can press `ctrl+d` when a word is highlighted to highlight other occurences. Also there are 8 color themes, and 23 language translations for the interface, which should get better over time.
 
 ---
 
