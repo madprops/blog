@@ -20,7 +20,7 @@ Models are controlled through a widget that allows adding them from some pre-def
 
 There is a widget to allow file uploads. This uses the system's file picker to pick one or more files. It's also easy to provide files programatically through scripts.
 
-![](uploads.png)
+![](files.png)
 
 ---
 
@@ -178,7 +178,7 @@ def main(api):
         api.sleep(15_000)
 ```
 
-![](movie.png)
+![](mpv.png)
 
 ---
 
