@@ -177,7 +177,7 @@ Here's a self-destruct:
 
 ## 🛸 The Real Game <a name="realgame"></a>
 
-When using imagination and personal interpretation, the elements and mechanics available in the game allows us to play in different ways.
+When using imagination and personal interpretation, the elements and mechanics available in the game allow us to play in different ways.
 
 For instance, warps appear randomly in certain areas, and they have an exit coordinate. This can be interpreted as a trigger related to certain images, and time travel. A warp could appear next to the image of a volcano, with an exit coordinate of 2012, 1938. You could interpret this as you entered a volcano in the year 2012, with an exit tunnel to the year 1938.
 
