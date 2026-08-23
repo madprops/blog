@@ -9,6 +9,7 @@
 1. [Lasers](#lasers)
 1. [Effects](#effects)
 1. [Specs](#specs)
+1. [Safe Zones](#safe_zones)
 1. [Commands](#commands)
 1. [The Synthesizer](#synth)
 1. [The Tool](#tool)
@@ -404,6 +405,54 @@ Upgrade: Random (except Single, Charge, and Skull)
 Safe Zone Penalty: Single
 
 End Game: Skull
+
+---
+
+## 🛸 Safe Zones <a name="safe_zones"></a>
+
+Each day of the week has an associated safe zone. Each safe zone is a form of `Bob Saget`. For instance monday will always have a specific Saget, saturday would have another one, etc. The current safe zone lasts throughout the day, so each safe zone lasts approx. 24 hours. This only does visual changes to the game, it just changes how it looks, but it might have more meaning to players or the community.
+
+This is how they look:
+
+### Safe Zone 1
+
+![](img/sagets/safe_zone_1.png)
+
+---
+
+### Safe Zone 2
+
+![](img/sagets/safe_zone_2.png)
+
+---
+
+### Safe Zone 3
+
+![](img/sagets/safe_zone_3.png)
+
+---
+
+### Safe Zone 4
+
+![](img/sagets/safe_zone_4.png)
+
+---
+
+### Safe Zone 5
+
+![](img/sagets/safe_zone_5.png)
+
+---
+
+### Safe Zone 6
+
+![](img/sagets/safe_zone_6.png)
+
+---
+
+### Safe Zone 7
+
+![](img/sagets/safe_zone_7.png)
 
 ---
 
