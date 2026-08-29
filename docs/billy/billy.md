@@ -4,6 +4,8 @@
 
 I've been having a lot of fun with this image today. On the surface it appears like a harmless boomer cartoon, something you'd dismiss as `cute`, or `meh`. But it actually has 2 layers of irony. The first layer is that it's funny because they think it's a shooting star, and they act silly, thinking it's just another day, go on make a wish you doofus haha. That's actually what most of the AIs I tried concluded, they think that the whole joke is how wholesome and silly the thing is once you know the context about the `Chicxulub` asteroid that made dinosaurs extinct.
 
+I tried various models including `Claude`, `Grok`, `GLM`, `Kimi`, and `Gemini`.
+
 This is what `Gemini 3.1 Pro` had to say:
 
 ![](gemini_pro.png)
@@ -17,6 +19,8 @@ I posted this on reddit and most of the people didn't catch the joke either. The
 So maybe those that are not getting it are the psychopaths.
 
 Also maybe `gemini-3.7-flash` is just better at analyzing images and understanding nuances.
+
+Others replied thinking their AI did get the joke, but it was the same interpretation of layer 1, even `Fable` got it wrong.
 
 ---
 
