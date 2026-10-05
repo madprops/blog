@@ -34,7 +34,7 @@ I know at least a guy apart from me that is using it.
 
 Hopefully he can just grab the [code](https://github.com/madprops/clipton) and adapt it to his needs.
 
-I recently moved to `nixos`, so maybe this will help:
+I recently moved to `nixos`, so maybe this helps:
 
 ```nix
   inputs = {
