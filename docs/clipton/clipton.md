@@ -1,6 +1,6 @@
 # Clipton
 
-This is a clipboard manager I made some years ago, and I ended up using it A LOT, multiple times every day.
+This is a clipboard manager I made some years ago, and I ended up using it A LOT, multiple times a day.
 
 Clipboard managers useful because they allow me to store text I copied recently, which I can use later by placing it in the clipboard again. This way I can copy something, copy another thing, then copy the first thing 2 hours later.
 
