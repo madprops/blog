@@ -44,6 +44,10 @@ I recently moved to `nixos`, so maybe this helps:
 ```
 
 ```nix
+  ...
+  clipton-pkg = inputs.clipton.packages.${pkgs.system}.default;
+  ...
+
   home.packages = [
     ...
     inputs.clipton.packages.${pkgs.system}.default
@@ -52,11 +56,15 @@ I recently moved to `nixos`, so maybe this helps:
 
 ```nix
   systemd.user.services.clipton = {
-    description = "Clipton - Clipboard Manager";
-    wantedBy = [ "graphical-session.target" ];
-    after = [ "graphical-session.target" ];
-    serviceConfig = {
-      ExecStart = "${pkgs.clipton}/bin/clipton watcher";
+    Unit = {
+      Description = "Clipton - Clipboard Manager";
+      After = [ "graphical-session.target" ];
+    };
+    Install = {
+      WantedBy = [ "graphical-session.target" ];
+    };
+    Service = {
+      ExecStart = "${clipton-pkg}/bin/clipton watcher";
       Restart = "on-failure";
       RestartSec = 5;
     };
