@@ -26,6 +26,8 @@ It shows how long ago an item was copied, so you know if you used it recently or
 
 It shows how many lines the item has.
 
+It displays multiple lines joined by `*`.
+
 So, it's simple but highly practical.
 
 ## Other people are using it
