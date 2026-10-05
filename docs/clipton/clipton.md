@@ -32,9 +32,7 @@ So, it's simple but highly practical.
 
 I know at least a guy apart from me that is using it.
 
-Hopefully he can just grab the code and adapt it to his needs.
-
-The code is [here](https://github.com/madprops/clipton).
+Hopefully he can just grab the [code](https://github.com/madprops/clipton) and adapt it to his needs.
 
 I recently moved to `nixos`, so maybe this will help:
 
