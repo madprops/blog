@@ -46,7 +46,7 @@ I recently moved to `nixos`, so maybe this helps:
 ```nix
   home.packages = [
     ...
-    clipton-pkg
+    inputs.clipton.packages.${pkgs.system}.default
   ];
 ```
 
