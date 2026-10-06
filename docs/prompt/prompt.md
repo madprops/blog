@@ -14,11 +14,11 @@ So instead of telling people "ask your AI what ants are", you send them a link t
 
 The OS or browser could have a chapter to allow the user to specify "their AI".
 
-AI companies would need to get on board so they add special URLs or signals to allow this.
+AI companies would need to get on board so they add special URLs or signals to allow this. Maybe through a browser extension or native mechanism to send AJAX signals to existing clients.
 
-For instance I might already have a Gemini tab open in firefox. If I click a prompt link, I would expect that tab to be reused and simply see the new conversation popup with the new prompt now ongoing, instead of opening a new tab.
+I might already have a Gemini tab open in Firefox. If I click a prompt link, I would expect that tab to be reused and simply see the new conversation popup with the new prompt now ongoing, instead of opening a new tab.
 
-So browsers would need to be smart about this too, to know when an AI provider tab is already open and re-use it, focus it.
+So browsers would need to be smart about this too, to know when an AI provider tab is already open and re-use it, focus it. Or just open a new tab, window, or application.
 
 I think this makes sense because when URLs are shared it's to show a person something, when you try to tell a person "just ask your ai what x thing means" you want them to see something, might as well make it painless.
 
