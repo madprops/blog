@@ -75,3 +75,5 @@
 1) [Make a wish, Billy](https://github.com/madprops/blog/blob/main/docs/billy/billy.md)
 
 1) [Clipton](https://github.com/madprops/blog/blob/main/docs/clipton/clipton.md)
+
+1) [Prompt Protocol](https://github.com/madprops/blog/blob/main/docs/prompt/prompt.md)
