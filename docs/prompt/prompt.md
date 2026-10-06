@@ -23,3 +23,5 @@ So browsers would need to be smart about this too, to know when an AI provider t
 I think this makes sense because when URLs are shared it's to show a person something, when you try to tell a person "just ask your ai what x thing means" you want them to see something, might as well make it painless.
 
 Prompt URL generators could be baked into the browsers, OS, applications. For instance click a button, write the prompt you want to share, get the prompt URL back ready copy, maybe URL shortener services for this might be created.
+
+For very long prompts services/domains/shorteners will have to be used because prompt links would get huge. But they can work based on the protocol itself, and applications can send prompt links internally between them and understand them.
