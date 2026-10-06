@@ -28,7 +28,7 @@ For very long prompts services/domains/shorteners will have to be used because p
 
 ---
 
-## Proposed AI Prompt Protocol (`prompt://`) extensions
+## Proposed Extensions
 
 While the core `prompt://[query]` handles immediate text execution, the protocol requires extensions to support complex workflows, large context windows, and multimodal attachments without breaking URI constraints.
 
